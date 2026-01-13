@@ -75,7 +75,7 @@ const KPICard = ({ title, value, subtext, icon: Icon, colorClass }) => (
 
 const EmptyState = ({ icon: Icon, title, description, action }) => (
   <div className="flex flex-col items-center justify-center h-full text-center p-8">
-    <div className="bg-slate-50 p-6 rounded-full mb-6">
+    <div className="bg-slate-50 p-6 rounded-full mb-6 animate-pulse-slow">
       <Icon className="w-12 h-12 text-slate-300" />
     </div>
     <h3 className="text-xl font-bold text-slate-800 mb-2">{title}</h3>
@@ -528,9 +528,10 @@ function App() {
             Polling Stations ({filteredStations.length})
           </div>
           {loading ? (
-            <div className="p-8 text-center space-y-3">
-              <div className="animate-spin w-5 h-5 border-2 border-indigo-500 border-t-transparent rounded-full mx-auto"></div>
-              <p className="text-xs text-slate-500">Syncing...</p>
+            <div className="p-4 space-y-3">
+              {[1,2,3,4,5].map(i => (
+                <div key={i} className="h-12 bg-slate-100 rounded-lg animate-pulse"></div>
+              ))}
             </div>
           ) : (
             filteredStations.map(station => (
@@ -564,6 +565,33 @@ function App() {
             ))
           )}
         </div>
+
+        {/* Sidebar Footer */}
+        <div className="p-6 border-t border-slate-100 bg-slate-50/50">
+          <div className="flex flex-col items-center space-y-4">
+            <p className="text-xs font-medium text-slate-500 flex items-center">
+              Made with <span className="text-rose-500 mx-1 animate-pulse">❤️</span> by Ashish
+            </p>
+            <div className="flex items-center gap-4">
+              <a 
+                href="https://instagram.com/ashishgaude.ig" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-slate-400 hover:text-pink-500 transition-colors"
+              >
+                <Instagram className="w-4 h-4" />
+              </a>
+              <a 
+                href="https://www.linkedin.com/in/ashishgaude/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-slate-400 hover:text-blue-600 transition-colors"
+              >
+                <Linkedin className="w-4 h-4" />
+              </a>
+            </div>
+          </div>
+        </div>
       </aside>
 
       {/* --- MAIN CONTENT --- */}
@@ -576,6 +604,7 @@ function App() {
               <Menu className="w-5 h-5" />
             </button>
             
+            {/* Context Breadcrumbs / Title */}
             <div className="flex flex-col">
                <h2 className="text-sm font-bold text-slate-800 flex items-center">
                  {isGlobalView ? (
@@ -594,6 +623,7 @@ function App() {
             </div>
           </div>
 
+          {/* Persistent Global Search */}
           <div className="relative w-full max-w-md ml-4 hidden md:block group">
             <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
               <Search className="h-4 w-4 text-slate-400 group-focus-within:text-indigo-500 transition-colors" />
@@ -601,10 +631,11 @@ function App() {
             <input
               type="text"
               className="block w-full pl-10 pr-3 py-2 border border-slate-200 rounded-lg leading-5 bg-slate-50 text-slate-900 placeholder-slate-400 focus:outline-none focus:bg-white focus:ring-2 focus:ring-indigo-500/20 focus:border-indigo-500 sm:text-sm transition-all shadow-sm"
-              placeholder="Search any voter by name..."
+              placeholder="Search any voter by name across all stations..."
               value={globalSearchTerm}
               onChange={(e) => setGlobalSearchTerm(e.target.value)}
             />
+            {/* Search Results Dropdown */}
             {(globalSearchResults.length > 0 || isSearchingGlobal) && globalSearchTerm && (
               <div className="absolute top-full left-0 right-0 mt-2 bg-white rounded-xl shadow-2xl border border-slate-100 max-h-80 overflow-y-auto z-50 p-2">
                  {isSearchingGlobal ? (
@@ -637,15 +668,14 @@ function App() {
           <div className="flex-1 overflow-y-auto p-4 lg:p-8">
             <div className="max-w-7xl mx-auto space-y-8">
               {loadingGlobal ? (
-                 <div className="flex flex-col items-center justify-center h-96">
-                   <div className="bg-white p-4 rounded-full shadow-lg mb-4 animate-bounce">
-                     <div className="animate-spin w-8 h-8 border-4 border-indigo-600 border-t-transparent rounded-full"></div>
-                   </div>
-                   <p className="text-slate-500 font-medium animate-pulse">Aggregating electoral data...</p>
-                 </div>
+                 <ScanningLoader text="Aggregating electoral data..." />
               ) : globalError ? (
                 <EmptyState icon={Filter} title="Analytics Unavailable" description={globalError} 
-                  action={<div className="bg-rose-50 text-rose-700 px-4 py-2 rounded-lg text-sm border border-rose-200">Run the SQL setup script in Supabase.</div>} 
+                  action={
+                    <div className="bg-rose-50 text-rose-700 px-4 py-2 rounded-lg text-sm border border-rose-200">
+                      Run the SQL setup script in Supabase.
+                    </div>
+                  } 
                 />
               ) : globalStats ? (
                 <>
@@ -684,7 +714,10 @@ function App() {
                   </div>
 
                   <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
-                    <h3 className="text-lg font-bold text-slate-800 mb-4 flex items-center"><MapIcon className="w-5 h-5 mr-2 text-orange-500" />Constituency Map</h3>
+                    <h3 className="text-lg font-bold text-slate-800 mb-4 flex items-center">
+                      <MapIcon className="w-5 h-5 mr-2 text-orange-500" />
+                      Constituency Map
+                    </h3>
                     <div className="h-[500px] w-full rounded-xl overflow-hidden border border-slate-100 relative z-0">
                       <StationMap stations={stations} onSelectStation={(s) => { setSelectedStation(s); setIsGlobalView(false); }} />
                     </div>
@@ -695,58 +728,194 @@ function App() {
           </div>
         ) : selectedStation ? (
           <div className="flex-1 flex flex-col overflow-hidden">
+            {/* Station Sub-Header: Controls */}
             <div className="bg-white border-b border-slate-200 px-4 md:px-8 py-3 flex flex-col md:flex-row justify-between items-center gap-4 shrink-0">
               <div className="flex bg-slate-100 p-1 rounded-lg">
                 {['list', 'family', 'analytics'].map(mode => (
-                  <button key={mode} onClick={() => setViewMode(mode)} className={`px-4 py-1.5 rounded-md text-xs font-semibold capitalize transition-all ${viewMode === mode ? 'bg-white text-indigo-600 shadow-sm' : 'text-slate-500 hover:text-slate-700'}`}>{mode} View</button>
+                  <button
+                    key={mode}
+                    onClick={() => setViewMode(mode)}
+                    className={`px-4 py-1.5 rounded-md text-xs font-semibold capitalize transition-all ${
+                      viewMode === mode 
+                        ? 'bg-white text-indigo-600 shadow-sm' 
+                        : 'text-slate-500 hover:text-slate-700'
+                    }`}
+                  >
+                    {mode} View
+                  </button>
                 ))}
               </div>
+
               <div className="flex items-center gap-2 overflow-x-auto w-full md:w-auto scrollbar-hide">
                  {[{ id: 'all', label: 'All' }, { id: 'senior', label: '60+' }, { id: 'youth', label: '18-25' }, { id: 'women', label: 'Women' }, { id: 'large_family', label: 'Big Families' }, { id: 'influencer', label: 'Influencers' }].map(f => (
-                   <button key={f.id} onClick={() => setFilterMode(f.id)} className={`px-3 py-1.5 rounded-full text-xs font-medium border transition-colors whitespace-nowrap ${filterMode === f.id ? 'bg-slate-800 text-white border-slate-800' : 'bg-white text-slate-600 border-slate-200 hover:border-slate-300'}`}>{f.label}</button>
+                   <button
+                     key={f.id}
+                     onClick={() => setFilterMode(f.id)}
+                     className={`px-3 py-1.5 rounded-full text-xs font-medium border transition-colors whitespace-nowrap ${
+                       filterMode === f.id 
+                        ? 'bg-slate-800 text-white border-slate-800' 
+                        : 'bg-white text-slate-600 border-slate-200 hover:border-slate-300'
+                     }`}
+                   >
+                     {f.label}
+                   </button>
                  ))}
               </div>
             </div>
 
+            {/* Station Content */}
             <div className="flex-1 overflow-y-auto p-4 md:p-8 bg-slate-50">
               <div className="max-w-7xl mx-auto">
                 {loadingVoters ? (
-                   <div className="flex flex-col items-center justify-center h-64"><div className="animate-spin w-8 h-8 border-4 border-indigo-500 border-t-transparent rounded-full mb-4"></div><p className="text-sm text-slate-500">Loading records...</p></div>
+                   <TableSkeleton rows={10} />
+                ) : voters.length === 0 ? (
+                  <EmptyState icon={Search} title="No records found" description="Try adjusting your search filters or select a different station." />
                 ) : (
                   <>
+                    {/* Stats Strip */}
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-6">
-                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100"><div className="text-[10px] uppercase font-bold text-slate-400">Voters</div><div className="text-2xl font-bold text-slate-800">{voters.length}</div></div>
-                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100"><div className="text-[10px] uppercase font-bold text-slate-400">Households</div><div className="text-2xl font-bold text-slate-800">{families.length}</div></div>
-                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100"><div className="text-[10px] uppercase font-bold text-slate-400">Gender (F)</div><div className="text-2xl font-bold text-rose-500">{demographics?.genderData.find(d => d.name === 'Female')?.value || 0}</div></div>
-                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100"><div className="text-[10px] uppercase font-bold text-slate-400">Influencers</div><div className="text-2xl font-bold text-amber-500">{voters.filter(v => v.isInfluencer).length}</div></div>
+                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100">
+                        <div className="text-[10px] uppercase font-bold text-slate-400">Voters</div>
+                        <div className="text-2xl font-bold text-slate-800">{voters.length}</div>
+                      </div>
+                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100">
+                        <div className="text-[10px] uppercase font-bold text-slate-400">Households</div>
+                        <div className="text-2xl font-bold text-slate-800">{families.length}</div>
+                      </div>
+                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100">
+                        <div className="text-[10px] uppercase font-bold text-slate-400">Gender (F)</div>
+                        <div className="text-2xl font-bold text-rose-500">{demographics?.genderData.find(d => d.name === 'Female')?.value || 0}</div>
+                      </div>
+                      <div className="bg-white p-4 rounded-xl shadow-sm border border-slate-100">
+                        <div className="text-[10px] uppercase font-bold text-slate-400">Influencers</div>
+                        <div className="text-2xl font-bold text-amber-500">{voters.filter(v => v.isInfluencer).length}</div>
+                      </div>
                     </div>
 
                     {viewMode === 'list' && (
-                      <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden"><div className="overflow-x-auto"><table className="min-w-full text-left text-sm"><thead><tr className="bg-slate-50 border-b border-slate-200 text-xs uppercase tracking-wider text-slate-500 font-semibold"><th className="px-6 py-4">Voter</th><th className="px-6 py-4">Relation</th><th className="px-6 py-4">Demographics</th><th className="px-6 py-4">Address</th><th className="px-6 py-4 text-right">ID</th></tr></thead><tbody className="divide-y divide-slate-100">
-                        {filteredVoters.map((voter) => (
-                          <tr key={voter.id} id={`voter-${voter.id}`} onClick={() => handleVoterClick(voter)} className={`transition-all duration-300 cursor-pointer group ${highlightedVoterId === voter.id ? 'bg-amber-50 ring-inset ring-2 ring-amber-400 z-10 relative' : 'hover:bg-slate-50'}`}>
-                            <td className="px-6 py-3"><div className="flex items-center"><div className={`w-10 h-10 rounded-full flex items-center justify-center text-xs font-bold mr-3 border-2 shadow-sm ${voter.gender === 'Female' ? 'bg-rose-50 text-rose-600 border-rose-100' : 'bg-indigo-50 text-indigo-600 border-indigo-100'} ${voter.isInfluencer ? 'ring-2 ring-amber-400 border-amber-400' : ''}`}>{getInitials(voter.name)}</div><div><div className="font-semibold text-slate-900 flex items-center">{voter.name}{voter.isInfluencer && <Crown className="w-3 h-3 text-amber-500 ml-1.5" fill="currentColor" />}</div></div></div></td>
-                            <td className="px-6 py-3 text-slate-600"><div className="flex flex-col"><span className="text-slate-900 font-medium">{voter.relative_name}</span><span className="text-xs text-slate-400 capitalize">{voter.relative_type}</span></div></td>
-                            <td className="px-6 py-3"><span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800">{voter.age}y • {voter.gender}</span></td>
-                            <td className="px-6 py-3 text-slate-600"><div className="flex items-center gap-1.5"><Home className="w-3 h-3 text-slate-400" />{voter.house_number}</div></td>
-                            <td className="px-6 py-3 text-right"><span className="font-mono text-xs text-slate-400">{voter.voter_id || '-'}</span></td>
-                          </tr>
-                        ))}
-                      </tbody></table></div></div>
+                      <div className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden">
+                        <div className="overflow-x-auto">
+                          <table className="min-w-full text-left text-sm">
+                            <thead>
+                              <tr className="bg-slate-50 border-b border-slate-200 text-xs uppercase tracking-wider text-slate-500 font-semibold">
+                                <th className="px-6 py-4">Voter</th>
+                                <th className="px-6 py-4">Relation</th>
+                                <th className="px-6 py-4">Demographics</th>
+                                <th className="px-6 py-4">Address</th>
+                                <th className="px-6 py-4 text-right">ID</th>
+                              </tr>
+                            </thead>
+                            <tbody className="divide-y divide-slate-100">
+                              {filteredVoters.map((voter) => (
+                                <tr 
+                                  key={voter.id} 
+                                  id={`voter-${voter.id}`}
+                                  onClick={() => handleVoterClick(voter)}
+                                  className={`transition-all duration-300 cursor-pointer group ${
+                                    highlightedVoterId === voter.id 
+                                      ? 'bg-amber-50 ring-inset ring-2 ring-amber-400 z-10 relative' 
+                                      : 'hover:bg-slate-50'
+                                  }`}
+                                >
+                                  <td className="px-6 py-3">
+                                    <div className="flex items-center">
+                                      <div className={`w-10 h-10 rounded-full flex items-center justify-center text-xs font-bold mr-3 border-2 shadow-sm
+                                        ${voter.gender === 'Female' ? 'bg-rose-50 text-rose-600 border-rose-100' : 'bg-indigo-50 text-indigo-600 border-indigo-100'}
+                                        ${voter.isInfluencer ? 'ring-2 ring-amber-400 border-amber-400' : ''}
+                                      `}>
+                                        {getInitials(voter.name)}
+                                      </div>
+                                      <div>
+                                        <div className="font-semibold text-slate-900 flex items-center">
+                                          {voter.name}
+                                          {voter.isInfluencer && <Crown className="w-3 h-3 text-amber-500 ml-1.5" fill="currentColor" />}
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </td>
+                                  <td className="px-6 py-3 text-slate-600">
+                                    <div className="flex flex-col">
+                                      <span className="text-slate-900 font-medium">{voter.relative_name}</span>
+                                      <span className="text-xs text-slate-400 capitalize">{voter.relative_type}</span>
+                                    </div>
+                                  </td>
+                                  <td className="px-6 py-3">
+                                    <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 text-slate-800">
+                                      {voter.age}y • {voter.gender}
+                                    </span>
+                                  </td>
+                                  <td className="px-6 py-3 text-slate-600">
+                                    <div className="flex items-center gap-1.5">
+                                      <Home className="w-3 h-3 text-slate-400" />
+                                      {voter.house_number}
+                                    </div>
+                                  </td>
+                                  <td className="px-6 py-3 text-right">
+                                    <span className="font-mono text-xs text-slate-400">{voter.voter_id || '-'}</span>
+                                  </td>
+                                </tr>
+                              ))}
+                            </tbody>
+                          </table>
+                        </div>
+                      </div>
                     )}
 
                     {viewMode === 'family' && (
                       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
                         {families.map(({ houseNo, count, tree }) => (
-                          <div key={houseNo} className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col hover:shadow-lg transition-shadow duration-300"><div className="bg-slate-50 px-5 py-3 border-b border-slate-200 flex justify-between items-center"><div className="flex items-center text-slate-700 font-bold"><div className="bg-white p-1.5 rounded-md shadow-sm border border-slate-200 mr-3 text-indigo-600"><Home className="w-4 h-4" /></div><span className="text-lg">#{houseNo}</span></div><span className="bg-slate-800 text-white text-xs px-2.5 py-1 rounded-full font-bold shadow-sm">{count}</span></div><div className="p-4 flex-1 overflow-x-auto bg-slate-50/30">{tree.length > 0 ? (<div className="-ml-2">{tree.map(rootNode => <FamilyNode key={rootNode.id} node={rootNode} />)}</div>) : (<div className="text-sm text-slate-400 italic text-center py-4">No relationships detected.</div>)}</div></div>
+                          <div key={houseNo} className="bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col hover:shadow-lg transition-shadow duration-300">
+                            <div className="bg-slate-50 px-5 py-3 border-b border-slate-200 flex justify-between items-center">
+                              <div className="flex items-center text-slate-700 font-bold">
+                                <div className="bg-white p-1.5 rounded-md shadow-sm border border-slate-200 mr-3 text-indigo-600">
+                                  <Home className="w-4 h-4" />
+                                </div>
+                                <span className="text-lg">#{houseNo}</span>
+                              </div>
+                              <span className="bg-slate-800 text-white text-xs px-2.5 py-1 rounded-full font-bold shadow-sm">
+                                {count}
+                              </span>
+                            </div>
+                            <div className="p-4 flex-1 overflow-x-auto bg-slate-50/30">
+                              {tree.length > 0 ? (
+                                <div className="-ml-2">
+                                  {tree.map(rootNode => <FamilyNode key={rootNode.id} node={rootNode} />)}
+                                </div>
+                              ) : (
+                                <div className="text-sm text-slate-400 italic text-center py-4">No relationships detected.</div>
+                              )}
+                            </div>
+                          </div>
                         ))}
                       </div>
                     )}
 
                     {viewMode === 'analytics' && demographics && (
                       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                        <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 h-[400px]"><h3 className="text-lg font-bold text-slate-800 mb-6">Age Distribution</h3><ResponsiveContainer width="100%" height="80%"><BarChart data={demographics.ageData}><CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f1f5f9" /><XAxis dataKey="name" stroke="#94a3b8" fontSize={12} tickLine={false} axisLine={false} /><YAxis stroke="#94a3b8" fontSize={12} tickLine={false} axisLine={false} /><Tooltip content={<CustomTooltip />} cursor={{ fill: '#f8fafc' }} /><Bar dataKey="count" fill="#6366f1" radius={[4, 4, 0, 0]} barSize={40} /></BarChart></ResponsiveContainer></div>
-                        <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 h-[400px]"><h3 className="text-lg font-bold text-slate-800 mb-6">Top Surnames</h3><ResponsiveContainer width="100%" height="80%"><BarChart data={demographics.surnameData} layout="vertical" margin={{ left: 0, right: 30 }}><CartesianGrid strokeDasharray="3 3" horizontal={false} stroke="#f1f5f9" /><XAxis type="number" stroke="#94a3b8" fontSize={12} tickLine={false} axisLine={false} /><YAxis dataKey="name" type="category" width={140} stroke="#64748b" fontSize={11} tickLine={false} axisLine={false} interval={0} /><Tooltip content={<CustomTooltip />} cursor={{ fill: '#f8fafc' }} /><Bar dataKey="count" fill="#10b981" radius={[0, 4, 4, 0]} barSize={20} /></BarChart></ResponsiveContainer></div>
+                        <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+                          <h3 className="text-lg font-bold text-slate-800 mb-6">Age Distribution</h3>
+                          <ResponsiveContainer width="100%" height={300}>
+                            <BarChart data={demographics.ageData}>
+                              <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#f1f5f9" />
+                              <XAxis dataKey="name" stroke="#94a3b8" fontSize={12} tickLine={false} axisLine={false} />
+                              <YAxis stroke="#94a3b8" fontSize={12} tickLine={false} axisLine={false} />
+                              <Tooltip content={<CustomTooltip />} cursor={{ fill: '#f8fafc' }} />
+                              <Bar dataKey="count" fill="#6366f1" radius={[4, 4, 0, 0]} barSize={40} />
+                            </BarChart>
+                          </ResponsiveContainer>
+                        </div>
+                        <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100">
+                          <h3 className="text-lg font-bold text-slate-800 mb-6">Top Surnames</h3>
+                          <ResponsiveContainer width="100%" height={300}>
+                            <BarChart data={demographics.surnameData} layout="vertical" margin={{ left: 0, right: 30 }}>
+                              <CartesianGrid strokeDasharray="3 3" horizontal={false} stroke="#f1f5f9" />
+                              <XAxis type="number" stroke="#94a3b8" fontSize={12} tickLine={false} axisLine={false} />
+                              <YAxis dataKey="name" type="category" width={140} stroke="#64748b" fontSize={11} tickLine={false} axisLine={false} interval={0} />
+                              <Tooltip content={<CustomTooltip />} cursor={{ fill: '#f8fafc' }} />
+                              <Bar dataKey="count" fill="#10b981" radius={[0, 4, 4, 0]} barSize={20} />
+                            </BarChart>
+                          </ResponsiveContainer>
+                        </div>
                       </div>
                     )}
                   </>
@@ -754,18 +923,13 @@ function App() {
               </div>
             </div>
           </div>
-        ) : <EmptyState icon={Building2} title="Select a Polling Station" description="Browse the list on the left or use the global search to find a specific voter record." />}
-
-        {/* Floating Page Footer */}
-        <div className="w-full py-3 border-t border-slate-200 bg-white shrink-0 z-10">
-          <div className="flex flex-col md:flex-row justify-between items-center px-6 md:px-8 gap-2">
-            <p className="text-xs font-medium text-slate-400 flex items-center">Made with <span className="text-rose-500 mx-1 animate-pulse">❤️</span> by Ashish</p>
-            <div className="flex items-center gap-4">
-              <a href="https://instagram.com/ashishgaude.ig" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-pink-500 transition-colors"><Instagram className="w-4 h-4" /></a>
-              <a href="https://www.linkedin.com/in/ashishgaude/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors"><Linkedin className="w-4 h-4" /></a>
-            </div>
-          </div>
-        </div>
+        ) : (
+          <EmptyState 
+            icon={Building2} 
+            title="Select a Polling Station" 
+            description="Browse the list on the left or use the global search to find a specific voter record." 
+          />
+        )}
       </main>
     </div>
   )
