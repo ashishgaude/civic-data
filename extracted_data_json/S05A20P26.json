@@ -1,0 +1,3404 @@
+{
+  "common_info": {
+    "assembly_constituency": "20 - PRIOL (GEN) Part No. : 26",
+    "part_no": "26",
+    "main_town_or_village": "QUERIM",
+    "post_office": "PONDA",
+    "block": "PONDA",
+    "subdivision": "PONDA",
+    "district": "SOUTH GOA",
+    "pin_code": "403401",
+    "polling_station_name": "26 - Government Primary School, (South Wing)",
+    "polling_station_type": "Male",
+    "polling_station_address": "Address of Polling Station :  Government Primary School, Amarkhane Querim",
+    "number_of_electors": "473"
+  },
+  "voters": [
+    {
+      "name": "Dattatray Upadhye",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Upadhye",
+      "house_number": "A-0?"
+    },
+    {
+      "name": "Pallavi Upadnye",
+      "relative_type": "Husbands",
+      "relative_name": "Preshit Upadhye",
+      "house_number": "A-0F",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Sunita Upadhye",
+      "relative_type": "Husbands",
+      "relative_name": "Vinayak Upadhye",
+      "house_number": "A-13",
+      "age": "78",
+      "gender": "Female"
+    },
+    {
+      "name": "Gautam Upadhye",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Upadhye",
+      "house_number": "A-13",
+      "age": "46",
+      "gender": "Male"
+    },
+    {
+      "name": "Laxmi Gauge",
+      "relative_type": "Husbands",
+      "relative_name": "Babu Gaude",
+      "house_number": "A-14",
+      "age": "65",
+      "gender": "Female"
+    },
+    {
+      "name": "Gunavanti Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Vasant Gaude",
+      "house_number": "4-17"
+    },
+    {
+      "name": "Varsha Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Vikas Gaude",
+      "house_number": "A-17"
+    },
+    {
+      "name": "Sandip Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Satarkar",
+      "house_number": "A-18",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Sulekha Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Sushant Satarkar",
+      "house_number": "A-18",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Sonali Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Santosh Satarkar",
+      "house_number": "a-19"
+    },
+    {
+      "name": "Rekha Upadhye",
+      "relative_type": "Husbands",
+      "relative_name": "Dattatray Upadhye",
+      "house_number": "4-09"
+    },
+    {
+      "name": "Prachiti Upadhye",
+      "relative_type": "Fathers",
+      "relative_name": "Dattatray Upadhye",
+      "house_number": "4-09",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "Nilesh Upadhye",
+      "house_number": "4-13",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Sneha Upadhye",
+      "relative_type": "Husbands",
+      "relative_name": "Rajesh Upadhye",
+      "house_number": "A-13"
+    },
+    {
+      "name": "Vishakha Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Vaibhav Gaude",
+      "house_number": "4-14"
+    },
+    {
+      "name": "Vikas Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Vasant Gaude",
+      "house_number": "4-17",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Bhavana Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Dattararn Gaude",
+      "house_number": "A-17"
+    },
+    {
+      "name": "Disha Satarker",
+      "relative_type": "Husbands",
+      "relative_name": "Sandip Satarker",
+      "house_number": "A-18"
+    },
+    {
+      "name": "Pratharnesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Satarkar",
+      "house_number": "A 19",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Jaylwisnna Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Satarkar",
+      "house_number": "4-19",
+      "age": "25",
+      "gender": "Male"
+    },
+    {
+      "name": "Preshit Upadhye",
+      "relative_type": "Fathers",
+      "relative_name": "Dattatray Upadhye",
+      "house_number": "A-09",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Vinayak Upadnye",
+      "relative_type": "Fathers",
+      "relative_name": "Laxman Upsdtye",
+      "house_number": "4-13.",
+      "age": "82",
+      "gender": "Male"
+    },
+    {
+      "name": "Rajesh Upadhye",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Upadnye",
+      "house_number": "A-13",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Babu Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Sha Gaude",
+      "house_number": "4-14",
+      "age": "74",
+      "gender": "Male"
+    },
+    {
+      "name": "Vinod Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Babu Kerkar",
+      "house_number": "7 A-14",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "t Sunita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaram Gaude",
+      "house_number": "4-17",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Bhushan Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Gaude",
+      "house_number": "7A = 17",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Sulaksha Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Satarkar",
+      "house_number": "3-18",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Santosh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Krishnanath Satarkar",
+      "house_number": "a-19",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "PRATIKA SAVAIKAR,",
+      "relative_type": "Husbands",
+      "relative_name": "BHIMSEN SAVAIKAR",
+      "house_number": "A20",
+      "age": "33",
+      "gender": "Female"
+    },
+    {
+      "name": "7 KAUDAS SAVAIKAR",
+      "relative_type": "Fathers",
+      "relative_name": "RAGHUVIA SAVAIKAR",
+      "house_number": "a-20",
+      "age": "71",
+      "gender": "Male"
+    },
+    {
+      "name": "Ulka Savaikar",
+      "relative_type": "Husbands",
+      "relative_name": "Rupesh Savaikar",
+      "house_number": "A-20",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Mahesh Saterkar",
+      "house_number": "A-24",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Namita Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Gajanan Satarkar",
+      "house_number": "A-25-",
+      "age": "64",
+      "gender": "Female"
+    },
+    {
+      "name": "Rohini Umanys",
+      "relative_type": "Husbands",
+      "relative_name": "Rohidas Umarye",
+      "house_number": "4-26",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Subhash Umarye",
+      "relative_type": "Fathers",
+      "relative_name": "Madhav Umarye",
+      "house_number": "4-26/A",
+      "age": "62",
+      "gender": "Male"
+    },
+    {
+      "name": "Mohan Umarye",
+      "relative_type": "Fathers",
+      "relative_name": "Madhav Umerye",
+      "house_number": "A-26/8",
+      "age": "70",
+      "gender": "Male"
+    },
+    {
+      "name": "Mahadev Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shanu Satarkar",
+      "house_number": "A-28 Phota",
+      "age": "79",
+      "gender": "Male"
+    },
+    {
+      "name": "3 Prashant Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadey Satarkar",
+      "house_number": "A-28"
+    },
+    {
+      "name": "Shaileja Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "A-28/A"
+    },
+    {
+      "name": "Kranti Savoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Kaidas Savoikar",
+      "house_number": "3-20",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "BNimsen Savaikar",
+      "relative_type": "Fathers",
+      "relative_name": "Kalidas Savalkar",
+      "house_number": "4-20",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Madhaw Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Mahesh Satarkar",
+      "house_number": "A-24",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Manoj Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Satarkar",
+      "house_number": "A-25"
+    },
+    {
+      "name": "Rohan Umarye",
+      "relative_type": "Fathers",
+      "relative_name": "Robidas Umarye",
+      "house_number": "A-26"
+    },
+    {
+      "name": "Vrunda Umarye",
+      "relative_type": "Husbands",
+      "relative_name": "Subhash Umarye",
+      "house_number": "A-26/A",
+      "age": "62",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohint Umarye",
+      "relative_type": "Husbands",
+      "relative_name": "Mohan Urnarye",
+      "house_number": "A-26/B",
+      "age": "67",
+      "gender": "Female"
+    },
+    {
+      "name": "Kamala Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Mahadey Satarkar",
+      "house_number": "A-28"
+    },
+    {
+      "name": "Anjali Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Prashant Satarkar",
+      "house_number": "A - 28"
+    },
+    {
+      "name": "Devidas Saterkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shanu Satarkar",
+      "house_number": "A-28/A,"
+    },
+    {
+      "name": "Rupesh Savolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Kalidas Savoikar",
+      "house_number": "A-20",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Rajani Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ramakant Nak",
+      "house_number": "A-22",
+      "age": "81",
+      "gender": "Female"
+    },
+    {
+      "name": "Gajanan Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Fondy Satarkar",
+      "house_number": "A-25"
+    },
+    {
+      "name": "Achidas Umarye",
+      "relative_type": "Fathers",
+      "relative_name": "Madan Umarye",
+      "house_number": "4-26",
+      "age": "47",
+      "gender": "Male"
+    },
+    {
+      "name": "Suyash Umarye",
+      "relative_type": "Fathers",
+      "relative_name": "Subhash Umarye",
+      "house_number": "7 A-26",
+      "age": "28",
+      "gender": "Male"
+    },
+    {
+      "name": "Snenal Urnarye",
+      "relative_type": "Fathers",
+      "relative_name": "Subhash Umarye",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Sujata Umarye",
+      "relative_type": "Husbands",
+      "relative_name": "Pandurang Umarye",
+      "house_number": "a-27",
+      "age": "62",
+      "gender": "Female"
+    },
+    {
+      "name": "Premanand Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadev Satarkar",
+      "house_number": "4-26",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Tukaram Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shan Satarkar",
+      "house_number": "A-28/"
+    },
+    {
+      "name": "Sunita Sstarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Devidas Satarkar",
+      "house_number": "A-26/A",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Shailesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "A-28/ A",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Vidyadhar Verenkar",
+      "relative_type": "Fathers",
+      "relative_name": "Vaman Verenkar",
+      "house_number": "A-38"
+    },
+    {
+      "name": "Sadanand Naik",
+      "house_number": "A-56",
+      "age": "46",
+      "gender": "Male"
+    },
+    {
+      "name": "Vishwas Jathar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Jathar",
+      "house_number": "A-61"
+    },
+    {
+      "name": "Amruta Jathar",
+      "relative_type": "Husbands",
+      "relative_name": "Vishwas Jathar",
+      "house_number": "A-61",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Kaipesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "4-90"
+    },
+    {
+      "name": "Omkar Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mahesh Satarkar",
+      "house_number": "A 94"
+    },
+    {
+      "name": "Sandhya Saterkar",
+      "relative_type": "Husbands",
+      "relative_name": "Ulhas Satarkar",
+      "house_number": "A-35"
+    },
+    {
+      "name": "Divya Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Gaude",
+      "house_number": "4-50",
+      "age": "21",
+      "gender": "Female"
+    },
+    {
+      "name": "Vandana Jathar",
+      "relative_type": "Husbands",
+      "relative_name": "Pandurang Jathar",
+      "house_number": "A-61",
+      "age": "74",
+      "gender": "Female"
+    },
+    {
+      "name": "Suchita Jathar",
+      "relative_type": "Husbands",
+      "relative_name": "Govind Jathar",
+      "house_number": "4-67",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Shounak Jathar",
+      "relative_type": "Fathers",
+      "relative_name": "Govind alias Uday Jathar",
+      "house_number": "A - 61"
+    },
+    {
+      "name": "Ankita Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Shailesh Satarkar",
+      "house_number": "A - 90",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Gandhary Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Nanda Kerkar",
+      "house_number": "A-99"
+    },
+    {
+      "name": "Viayashree Verankar",
+      "relative_type": "Husbands",
+      "relative_name": "Vidyadhar Verenkar",
+      "house_number": "A-38"
+    },
+    {
+      "name": "t Omker Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Babusen Gaude",
+      "house_number": "ASS",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "Govind Jathar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Jathar",
+      "house_number": "A-6t",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Girja Jathar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Jathar",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Mans! Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Manoj Satarkar",
+      "house_number": "7 4-84"
+    },
+    {
+      "name": "t Sudesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Devidas Satarkar",
+      "house_number": "A-90",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Manasee Umarye",
+      "relative_type": "Husbands",
+      "relative_name": "Rohan Umarye",
+      "house_number": "7 H No A-26"
+    },
+    {
+      "name": "7 Sneha Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Harichandra Gaude",
+      "house_number": "60",
+      "age": "36",
+      "gender": "Female"
+    },
+    {
+      "name": "Roopal Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Vasudev Naik",
+      "house_number": "A-29",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Janavi Knandekar",
+      "relative_type": "Husbands",
+      "relative_name": "Datta Khandekar",
+      "house_number": "4-30",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Poomina Khandekar",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Khandekar",
+      "house_number": "A-31",
+      "age": "37",
+      "gender": "Female"
+    },
+    {
+      "name": "Shriparna Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Shrikrishnia Satarkar",
+      "house_number": "A-32"
+    },
+    {
+      "name": "Rohan Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Satarkar",
+      "house_number": "A-32/A",
+      "age": "30",
+      "gender": "Male"
+    },
+    {
+      "name": "Pryanka Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Satarkar",
+      "house_number": "A \u00ab 32/A"
+    },
+    {
+      "name": "Pooja Satarker",
+      "relative_type": "Husbands",
+      "relative_name": "Bhupesh Satarker",
+      "house_number": "A-32/8 Phota",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Sarvesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Purshottam Satarkar",
+      "house_number": "A-33"
+    },
+    {
+      "name": "Ramesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Raghu Satarkar",
+      "house_number": "A-34"
+    },
+    {
+      "name": "Helena Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Vasudey Naik",
+      "house_number": "A29",
+      "age": "21",
+      "gender": "Female"
+    },
+    {
+      "name": "Datta Knandekar",
+      "relative_type": "Fathers",
+      "relative_name": "Krishna Khandekar",
+      "house_number": "4-30",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Poornata Khandekar",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Khandekar",
+      "house_number": "A - 0",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Prajotl Knandekar",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Khandekar",
+      "house_number": "4-37",
+      "age": "35",
+      "gender": "Female"
+    },
+    {
+      "name": "Rarnnath Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ganesh Satarkar",
+      "house_number": "A-32/A"
+    },
+    {
+      "name": "Diksha Satar! <P",
+      "relative_type": "Fathers",
+      "relative_name": "x larkar"
+    },
+    {
+      "name": "Parvati Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Madhu Satarker",
+      "house_number": "A-32/B",
+      "age": "64",
+      "gender": "Female"
+    },
+    {
+      "name": "Purshottam Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shankar Satarkar",
+      "house_number": "A-33"
+    },
+    {
+      "name": "Shantabai Satj 9",
+      "relative_type": "Husbands",
+      "relative_name": "ier arkat"
+    },
+    {
+      "name": "Reshena Saterkar",
+      "relative_type": "Husbands",
+      "relative_name": "Ramesh Satarkar",
+      "house_number": "A-34",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Vasudev Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Mohan Naik",
+      "house_number": "A-29"
+    },
+    {
+      "name": "t Laxmi Shilkar",
+      "relative_type": "Husbands",
+      "relative_name": "Chandrakant Shikar",
+      "house_number": "4-30",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Nikh\u00e9 Shilkar",
+      "house_number": "A-3t",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Shrikrishna Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ganesh Satarkar",
+      "house_number": "A-32",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Ranjana Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Ramnath Satarkar",
+      "house_number": "A-32/A"
+    },
+    {
+      "name": "Divya Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Satarkar",
+      "house_number": "A-32/A",
+      "age": "28",
+      "gender": "Female"
+    },
+    {
+      "name": "Bhupesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Madhu Satarkar",
+      "house_number": "A-32/8",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Pushpavati Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Purshottam Satarkar",
+      "house_number": "34-33",
+      "age": "64",
+      "gender": "Female"
+    },
+    {
+      "name": "Mahesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Raghu Satarkar",
+      "house_number": "A-34",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Smite Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Mahesh Satarkar",
+      "house_number": "A-34",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Nilesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ragtw Satarkar",
+      "house_number": "A-34"
+    },
+    {
+      "name": "Ashok Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Satarkar",
+      "house_number": "4-35."
+    },
+    {
+      "name": "Manasi Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mangaidas Satarkar",
+      "house_number": "A-35"
+    },
+    {
+      "name": "Tarabai Verekar",
+      "relative_type": "Husbands",
+      "relative_name": "Tarachandra Verekar",
+      "house_number": "A-38"
+    },
+    {
+      "name": "Anjali Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Anand Gaude",
+      "house_number": "7A-39",
+      "id": "INL6730700"
+    },
+    {
+      "name": "Sandhya Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Santosh Gaude",
+      "house_number": "A-41",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Navin Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshidas Satarkar",
+      "house_number": "tA = 42"
+    },
+    {
+      "name": "Tulshidas Saterkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramkrishna Satarkar",
+      "house_number": "A-43 Phota",
+      "age": "59",
+      "gender": "Male"
+    },
+    {
+      "name": "Ragani Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Pundalik Naik",
+      "house_number": "A-44",
+      "age": "75",
+      "gender": "Female"
+    },
+    {
+      "name": "Pundalik Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Naik",
+      "house_number": "A-44"
+    },
+    {
+      "name": "Saiksha Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Satarkar",
+      "house_number": "A-34"
+    },
+    {
+      "name": "Mangaldas Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Satarkar",
+      "house_number": "A-35"
+    },
+    {
+      "name": "Shraddha Saterker",
+      "relative_type": "Husbands",
+      "relative_name": "Ashok Satarkar",
+      "house_number": "A-35",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Milind Verekar",
+      "relative_type": "Fathers",
+      "relative_name": "Vidyadhar Verekar",
+      "house_number": "A-38"
+    },
+    {
+      "name": "Saiesh Gawde",
+      "relative_type": "Fathers",
+      "relative_name": "Anand Gawde",
+      "house_number": "A-39"
+    },
+    {
+      "name": "Ankita Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Gaude",
+      "house_number": "4-41",
+      "age": "27",
+      "gender": "Female"
+    },
+    {
+      "name": "Nehal Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tushicas Satarker",
+      "house_number": "7A \u00bb 42"
+    },
+    {
+      "name": "Tejaswini Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Tulshidas Satarkar",
+      "house_number": "A-43"
+    },
+    {
+      "name": "Santosh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Pundalk Naik",
+      "house_number": "A-44"
+    },
+    {
+      "name": "Asnwini Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Naik",
+      "house_number": "A - 44"
+    },
+    {
+      "name": "t Laksha Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Satarkar",
+      "house_number": "7 A-34",
+      "id": "HNL5730627"
+    },
+    {
+      "name": "t Ulhas Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Satarkar",
+      "house_number": "4-35",
+      "age": "46",
+      "gender": "Male"
+    },
+    {
+      "name": "t Shubhang! Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Naresh Satarkar",
+      "house_number": "7 A-36"
+    },
+    {
+      "name": "Anand Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Babuso Gaude",
+      "house_number": "A-39",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Santosh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Shankar Gaude",
+      "house_number": "7 A-41",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Avinash Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Gaude",
+      "house_number": "4 - 41",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Sita Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Ramkristna Satarkar",
+      "house_number": "7 A-43"
+    },
+    {
+      "name": "Pratikshe Satarker",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshidas Satarkar",
+      "house_number": "4-43",
+      "age": "28",
+      "gender": "Female"
+    },
+    {
+      "name": "Nalini Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Pundalik Naik",
+      "house_number": "A-44"
+    },
+    {
+      "name": "Sushila Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Prabhakar Naik",
+      "house_number": "4-46",
+      "age": "67",
+      "gender": "Female"
+    },
+    {
+      "name": "Narayan Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Vithal Satarkar",
+      "house_number": "A-47"
+    },
+    {
+      "name": "Ramesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Babuso Naik",
+      "house_number": "A-49",
+      "id": "REX0363598"
+    },
+    {
+      "name": "Kundan Naik",
+      "house_number": "A-49"
+    },
+    {
+      "name": "Aka Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Gajanan Gaude",
+      "house_number": "A-50",
+      "age": "89",
+      "gender": "Female"
+    },
+    {
+      "name": "Devayani Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Gaude",
+      "house_number": "A-50",
+      "age": "27",
+      "gender": "Female",
+      "id": "HNL1348523"
+    },
+    {
+      "name": "Kawta Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Krishna Gaude",
+      "house_number": "A-51"
+    },
+    {
+      "name": "Pingal Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Babal Satarkar",
+      "house_number": "A-53"
+    },
+    {
+      "name": "Shite! Satarker",
+      "relative_type": "Husbands",
+      "relative_name": "Rupesh Satarkar",
+      "house_number": "A-53 Phota",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "Nandin\u00e9 Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Nanda Gaude",
+      "house_number": "A-55",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Aishwarya Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Nanda Kerker",
+      "house_number": "A-55"
+    },
+    {
+      "name": "Laxmi Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Satarkar",
+      "house_number": "4-47"
+    },
+    {
+      "name": "Babita Kerkar",
+      "relative_type": "Husbands",
+      "relative_name": "Sandesh Kerkar",
+      "house_number": "4-49",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Chandan Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Nak",
+      "house_number": "A-49",
+      "age": "25",
+      "gender": "Male"
+    },
+    {
+      "name": "Jeetendra Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Gaude",
+      "house_number": "A-50",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "Narayan Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Gaude",
+      "house_number": "4-51",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Anil Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Gaude",
+      "house_number": "A-51"
+    },
+    {
+      "name": "Bhupesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Babs! Satarkar",
+      "house_number": "A-53"
+    },
+    {
+      "name": "Supriya Satarker",
+      "relative_type": "Husbands",
+      "relative_name": "Bhupesh Satarker",
+      "house_number": "A-53"
+    },
+    {
+      "name": "Yoganand Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Kashinath Gaude",
+      "house_number": "A-55"
+    },
+    {
+      "name": "Gandhary Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Nanda Kerkar",
+      "house_number": "A 55",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "Rajeshree Nalk",
+      "relative_type": "Husbands",
+      "relative_name": "Ramesh Naik",
+      "house_number": "2 A-49",
+      "age": "61",
+      "gender": "Female",
+      "id": "REX0342477"
+    },
+    {
+      "name": "Rupali Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Naik",
+      "house_number": "4-49",
+      "age": "29",
+      "gender": "Female"
+    },
+    {
+      "name": "Gajanan Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Shaw Gaude",
+      "house_number": "A-SO"
+    },
+    {
+      "name": "Manju Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Jeetendra Gaude",
+      "house_number": "4-50",
+      "age": "31",
+      "gender": "Female"
+    },
+    {
+      "name": "Krishna Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Gaude",
+      "house_number": "A-5t",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Babal Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Babuso Satarkar",
+      "house_number": "A-53"
+    },
+    {
+      "name": "Rupesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Babal Satarkar",
+      "house_number": "7 A-53",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Nanda Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Kashinath Gaude",
+      "house_number": "34-55",
+      "age": "87",
+      "gender": "Male"
+    },
+    {
+      "name": "Nirmala Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Yoganand Gaude",
+      "house_number": "74-55",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Kanchan Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Karnlesh Naik",
+      "house_number": "4-56"
+    },
+    {
+      "name": "Harichandra Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Yeshwant Gaude",
+      "house_number": "A-60",
+      "age": "63",
+      "gender": "Male"
+    },
+    {
+      "name": "Harsha Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Harichandra Gaude",
+      "house_number": "A-60"
+    },
+    {
+      "name": "t Krantika Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Harichandra Gaude",
+      "house_number": "A-60"
+    },
+    {
+      "name": "Durg! Hudekar",
+      "relative_type": "Husbands",
+      "relative_name": "Durgaram Hudekar",
+      "house_number": "A-09/4,",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Archana Hudekar",
+      "relative_type": "Husbands",
+      "relative_name": "Shashank Hudekar",
+      "house_number": "A-09/A",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Revati Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Rohidas Gaude",
+      "house_number": "A-10",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Narcinva Dessai",
+      "relative_type": "Fathers",
+      "relative_name": "Govind Dessai",
+      "house_number": "A-11"
+    },
+    {
+      "name": "Maithall Desa\u2019",
+      "relative_type": "Husbands",
+      "relative_name": "Manohar Desai",
+      "house_number": "A-11",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Nayan Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Nanu Gaude",
+      "house_number": "4-12",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "Nitesh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Nanu Gaude",
+      "house_number": "A-12"
+    },
+    {
+      "name": "Rohini Alias Mandire Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Rohidas Nek",
+      "house_number": "A-14"
+    },
+    {
+      "name": "3 Geetesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Rohidas Naik",
+      "house_number": "A-14"
+    },
+    {
+      "name": "Babu Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Naik",
+      "house_number": "A-14/A"
+    },
+    {
+      "name": "Sudhir Hudekar",
+      "relative_type": "Fathers",
+      "relative_name": "Durgaram Hudekar",
+      "house_number": "A-09/A",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Sneha Hudekar",
+      "relative_type": "Husbands",
+      "relative_name": "Sudhir Hudekar",
+      "house_number": "4-09/A"
+    },
+    {
+      "name": "Sharada Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Sharad Gaude",
+      "house_number": "A-10",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Govind Dessai",
+      "relative_type": "Fathers",
+      "relative_name": "Narcinva Deseai",
+      "house_number": "4-17",
+      "age": "57",
+      "gender": "Male"
+    },
+    {
+      "name": "Suresh Pujari",
+      "relative_type": "Fathers",
+      "relative_name": "Devappa Pujari",
+      "house_number": "A-11"
+    },
+    {
+      "name": "Suresh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Sagun Gaude.",
+      "house_number": "A-12",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Nilesh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Nanu Gaude",
+      "house_number": "t A-12"
+    },
+    {
+      "name": "Vasudev Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Rama Naik",
+      "house_number": "A-14"
+    },
+    {
+      "name": "Mala Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Geetesh Naik",
+      "house_number": "A-14"
+    },
+    {
+      "name": "Parinda Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Babu Naik",
+      "house_number": "A-14/4",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "t Shashank Hudekar",
+      "relative_type": "Fathers",
+      "relative_name": "Durgaram Hudekar",
+      "house_number": "A-09/A",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Chimane Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Shankar Geude",
+      "house_number": "A-10",
+      "age": "75",
+      "gender": "Female"
+    },
+    {
+      "name": "Anant Gaude ou",
+      "relative_type": "Fathers",
+      "relative_name": "Bagel"
+    },
+    {
+      "name": "Manohar Dessai",
+      "relative_type": "Fathers",
+      "relative_name": "Narcinva Dessai",
+      "house_number": "s 4-11",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Nanu Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Sagun Gaude",
+      "house_number": "A-12",
+      "age": "72",
+      "gender": "Male"
+    },
+    {
+      "name": "Surekha Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Suresh Gaude",
+      "house_number": "4-12",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Tajesh Gauda",
+      "relative_type": "Fathers",
+      "relative_name": "Nanu Gaude",
+      "house_number": "A-12",
+      "age": "36",
+      "gender": "Male"
+    },
+    {
+      "name": "Vasanti Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Vassudev Naik",
+      "house_number": "A-14",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Rajesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Aichidas Naik",
+      "house_number": "A-14"
+    },
+    {
+      "name": "Diksha Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Babu Naik",
+      "house_number": "A-14/4,",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Savitri Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Uttam Gaude",
+      "house_number": "A-15"
+    },
+    {
+      "name": "Lata Gawde",
+      "relative_type": "Husbands",
+      "relative_name": "Gurudas Gawde",
+      "house_number": "A-15"
+    },
+    {
+      "name": "Deepa Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Anand Gaude",
+      "house_number": "A-17",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Prasiila Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshkdas Naik",
+      "house_number": "A-18",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Khushboo Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshidas Naik",
+      "house_number": "A - 18",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Virnal Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramdas Naik",
+      "house_number": "4-19",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Rasvesh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Suresh Satarkar",
+      "house_number": "A-20",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "Shyam Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Naik",
+      "house_number": "A-22",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Omkar Gurudas Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Gurudas Gaude",
+      "house_number": "H.NO.A-16"
+    },
+    {
+      "name": "Gurudas Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Uttam Gaude:",
+      "house_number": "A-15"
+    },
+    {
+      "name": "Shrikant Gawde",
+      "relative_type": "Fathers",
+      "relative_name": "Uttam Gawde",
+      "house_number": "4-15"
+    },
+    {
+      "name": "Tulstvdas Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Naik",
+      "house_number": "a-18"
+    },
+    {
+      "name": "Tani Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tutshidas Nek",
+      "house_number": "4-18"
+    },
+    {
+      "name": "Ujwala Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Sadu Naik",
+      "house_number": "A-18/A"
+    },
+    {
+      "name": "Krishna Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramdas Naik",
+      "house_number": "4-19"
+    },
+    {
+      "name": "Rushab Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Suresh Satarkar",
+      "house_number": "A-20"
+    },
+    {
+      "name": "Keshav Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Naik",
+      "house_number": "A-22",
+      "age": "37",
+      "gender": "Male"
+    },
+    {
+      "name": "Anand Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Uttam Gaude",
+      "house_number": "A-15",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "t Shruti Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Shwikant Gaude",
+      "house_number": "A-15",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "Trupti Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Tulshidas Naik",
+      "house_number": "8-18"
+    },
+    {
+      "name": "Trishila Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshidas Naik",
+      "house_number": "4-18",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "Jaya Nak",
+      "relative_type": "Husbands",
+      "relative_name": "Ramdas Naik",
+      "house_number": "a-19",
+      "age": "59",
+      "gender": "Female"
+    },
+    {
+      "name": "Surekha Satrakar",
+      "relative_type": "Husbands",
+      "relative_name": "Suresh Satrakar",
+      "house_number": "A-20",
+      "age": "64",
+      "gender": "Female"
+    },
+    {
+      "name": "Laxrn! Nevk",
+      "relative_type": "Husbands",
+      "relative_name": "Anant Naik",
+      "house_number": "a-22"
+    },
+    {
+      "name": "Pratima Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Suryakant Nak",
+      "house_number": "3-24"
+    },
+    {
+      "name": "Harsha Gaude",
+      "house_number": "A 10",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Ladu Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Venktu Gaude",
+      "house_number": "a-25"
+    },
+    {
+      "name": "Salita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Hondu Gaude",
+      "house_number": "A-25",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Bhagirati Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Gopi Gaude",
+      "house_number": "A-26",
+      "age": "71",
+      "gender": "Female"
+    },
+    {
+      "name": "Gokuldas Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Gopi Gaude",
+      "house_number": "A-26"
+    },
+    {
+      "name": "Mahesh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Gop! Gaude",
+      "house_number": "a-26",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Karishma Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Ratnakar Gaude",
+      "house_number": "A-26",
+      "age": "26",
+      "gender": "Female"
+    },
+    {
+      "name": "Laxmi Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Datta Gaude",
+      "house_number": "a-28 Phota"
+    },
+    {
+      "name": "Pritesh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Gaude",
+      "house_number": "A-29"
+    },
+    {
+      "name": "Narayan Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Pako Gaude",
+      "house_number": "A-32"
+    },
+    {
+      "name": "Kashineth Gaude",
+      "house_number": "A-20",
+      "age": "69",
+      "gender": "Male"
+    },
+    {
+      "name": "Hondu Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Venktu Gaude",
+      "house_number": "a-25",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Anita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Anand Gaude",
+      "house_number": "A-25",
+      "age": "35",
+      "gender": "Female"
+    },
+    {
+      "name": "Ratnakar Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Poko Gaude",
+      "house_number": "A-26",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Gauri Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Gokuldas Gaude",
+      "house_number": "a-26"
+    },
+    {
+      "name": "Sarita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Damodar Gaude",
+      "house_number": "A-26",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Namita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Gaude",
+      "house_number": "A-27",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Umakant Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Kerker",
+      "house_number": "A-28"
+    },
+    {
+      "name": "Saraswati Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Rarnath Gaude",
+      "house_number": "a-30",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Namita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Gaude",
+      "house_number": "A-32"
+    },
+    {
+      "name": "t Kesar Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Venktu Gaude",
+      "house_number": "8-25",
+      "age": "75",
+      "gender": "Female"
+    },
+    {
+      "name": "t Leena Gaude Amadker",
+      "relative_type": "Husbands",
+      "relative_name": "Ladu Gaude Amadkar",
+      "house_number": "4-25",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Preyot Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Ladu Gaude",
+      "house_number": "A-25",
+      "age": "24",
+      "gender": "Male",
+      "id": "REX0305862"
+    },
+    {
+      "name": "Rata Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Ratnakar Gaude",
+      "house_number": "3 A-26",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Damodar Gawde",
+      "relative_type": "Fathers",
+      "relative_name": "Gopi Gawde",
+      "house_number": "74-26",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Tejasvi Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Ratnaker Gaude",
+      "house_number": "4-26",
+      "age": "28",
+      "gender": "Female"
+    },
+    {
+      "name": "Datta Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Pandu Gaude",
+      "house_number": "a-28",
+      "age": "73",
+      "gender": "Male"
+    },
+    {
+      "name": "Priya Kerkar",
+      "relative_type": "Husbands",
+      "relative_name": "Umakant Kerkar",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Shakuntala Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Poke Gaude",
+      "house_number": "A-31",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Ushno Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Poko Gaude",
+      "house_number": "A-32",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "7 Prasad Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Gaude",
+      "house_number": "A-32",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Sta Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Bhivio Gaude",
+      "house_number": "A-34",
+      "age": "73",
+      "gender": "Female"
+    },
+    {
+      "name": "Lata Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Venkatesh Gaude",
+      "house_number": "A-35",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Sadanand Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Kusta Gaude",
+      "house_number": "tA-36"
+    },
+    {
+      "name": "Santosh Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "A-37"
+    },
+    {
+      "name": "Chandrakant Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Jana Gaude",
+      "house_number": "4-39",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Deepa Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Umesh Gaude",
+      "house_number": "A-39"
+    },
+    {
+      "name": "Gisnma Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Girish Gaude",
+      "house_number": "24-39",
+      "age": "33",
+      "gender": "Female"
+    },
+    {
+      "name": "Tulshidas Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Saju Gaude",
+      "house_number": "A\u00b040"
+    },
+    {
+      "name": "Sakhu Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Babuso Gaude",
+      "house_number": "A-41",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Madhukar Dessal",
+      "house_number": "A-33"
+    },
+    {
+      "name": "Shashi Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Bhivalo Gaude",
+      "house_number": "A-34"
+    },
+    {
+      "name": "Jitencra Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Venkatesh Gaude",
+      "house_number": "A-35",
+      "age": "38",
+      "gender": "Male",
+      "id": "HNL6967954"
+    },
+    {
+      "name": "Sujata Gawde",
+      "relative_type": "Husbands",
+      "relative_name": "Sadanand Gawde",
+      "house_number": "A-36"
+    },
+    {
+      "name": "Sindiya Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Santost Satarker",
+      "house_number": "A-37",
+      "id": "REX0391839"
+    },
+    {
+      "name": "Chandrkala Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Chandrakant Gaude",
+      "house_number": "4-39",
+      "age": "59",
+      "gender": "Female"
+    },
+    {
+      "name": "Girish Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Gaude",
+      "house_number": "A-39"
+    },
+    {
+      "name": "Uday Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Babull Gaude",
+      "house_number": "A-39/4"
+    },
+    {
+      "name": "Tanmayi Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Tulshidas Gaude",
+      "house_number": "A-40"
+    },
+    {
+      "name": "Nanda Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Babuso Gaude",
+      "house_number": "A-41"
+    },
+    {
+      "name": "t Bhivio Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Jagannath Gaude"
+    },
+    {
+      "name": "Ulhas Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Bhivio Gaude",
+      "house_number": "A-34"
+    },
+    {
+      "name": "Gunwant Gaude",
+      "house_number": "7 A-36",
+      "age": "75",
+      "gender": "Female",
+      "id": "FEX0453746"
+    },
+    {
+      "name": "Pranali Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Gaude",
+      "house_number": "A 36",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Saksha Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Satarkar",
+      "house_number": "4 \u00ab 37"
+    },
+    {
+      "name": "Shawanti Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Shashikant Gaude",
+      "house_number": "4-39",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Shailesh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Gaude",
+      "house_number": "7 A-39",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Shashikant Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Jana Gaude",
+      "house_number": "4-39/B",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Sunt Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshidas Gaude",
+      "house_number": "A-40",
+      "age": "0",
+      "gender": "Male"
+    },
+    {
+      "name": "Nikita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Nanda Gaude",
+      "house_number": "3 A-41",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Premanand Gawde",
+      "relative_type": "Fathers",
+      "relative_name": "Babuso Gawde",
+      "house_number": "A-41",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Prajeeta Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Krishnanath Gaude",
+      "house_number": "A - 47",
+      "age": "37",
+      "gender": "Female"
+    },
+    {
+      "name": "Krishnanath Gawde",
+      "house_number": "t A-41"
+    },
+    {
+      "name": "t Manisha Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Premanand Gaude",
+      "house_number": "A-41"
+    },
+    {
+      "name": "Nira Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Gaude",
+      "house_number": "13/4"
+    },
+    {
+      "name": "Abole Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Guna Gaude",
+      "house_number": "A-02"
+    },
+    {
+      "name": "Suman Ambadkar",
+      "relative_type": "Husbands",
+      "relative_name": "Diip Ambadkar",
+      "house_number": "A-13"
+    },
+    {
+      "name": "Kasture Gaucte",
+      "relative_type": "Husbands",
+      "relative_name": "Ramesh Gaude",
+      "house_number": "tA-42",
+      "age": "66",
+      "gender": "Female"
+    },
+    {
+      "name": "Tulshidas Gawde",
+      "relative_type": "Fathers",
+      "relative_name": "Fotu Gawde",
+      "house_number": "A-86"
+    },
+    {
+      "name": "Vinay Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshidas Gaude",
+      "house_number": "A-86",
+      "age": "33",
+      "gender": "Male"
+    },
+    {
+      "name": "Rutuja Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Rajendra Gaude",
+      "house_number": "422"
+    },
+    {
+      "name": "Rajendra Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Shamba Gaude",
+      "house_number": "4-02",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Dilip Ambackar",
+      "relative_type": "Fathers",
+      "relative_name": "Vithal Gaude",
+      "house_number": "A-13",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Supriya Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Gaude",
+      "house_number": "A-42",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Sunanda Gawde",
+      "relative_type": "Husbands",
+      "relative_name": "Tulshidas Gawde",
+      "house_number": "4-86",
+      "age": "61",
+      "gender": "Female"
+    },
+    {
+      "name": "Tushar Gawde",
+      "relative_type": "Fathers",
+      "relative_name": "Tuishidas Gaude.",
+      "house_number": "A-86"
+    },
+    {
+      "name": "t Ananct Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Shamba Gaude",
+      "house_number": "A-02"
+    },
+    {
+      "name": "t Yashasti Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Shamba Gaude",
+      "house_number": "A-02",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "t Ramesh Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Motiram Gaude",
+      "house_number": "A-42",
+      "age": "71",
+      "gender": "Male"
+    },
+    {
+      "name": "Ketan Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Gaude",
+      "house_number": "4-42",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Amita Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Tulshidas Gaude",
+      "house_number": "74-86",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "7 Pralyot Kerker",
+      "relative_type": "Fathers",
+      "relative_name": "Gurudas Kerkar",
+      "house_number": "A-01",
+      "age": "31",
+      "gender": "Male"
+    },
+    {
+      "name": "Mira Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Neslesh Gaude",
+      "house_number": "A-12",
+      "age": "42",
+      "gender": "Female",
+      "id": "JCM6691679"
+    },
+    {
+      "name": "Meghana Dessat",
+      "house_number": "A-33",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Sunanda Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Shivag Gaude",
+      "house_number": "tA-43",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Nilkanth Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Yeshwant Kerkar",
+      "house_number": "A-45"
+    },
+    {
+      "name": "Sunita Kerkar",
+      "relative_type": "Husbands",
+      "relative_name": "Anil Kerkar",
+      "house_number": "A-45"
+    },
+    {
+      "name": "Santosh Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Balu Kerkar",
+      "house_number": "A-46",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Sankalp Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Kerkar",
+      "house_number": "A - 46",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "3 Avinash Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Guno Gaude",
+      "house_number": "A-47",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Shaila Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Govind Kerkar",
+      "house_number": "A-48",
+      "age": "65",
+      "gender": "Female"
+    },
+    {
+      "name": "Shubhang Hudekar",
+      "relative_type": "Fathers",
+      "relative_name": "Sudhir Hudekar",
+      "house_number": "A-09/'A",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Onkar Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Babu Naik",
+      "house_number": "A-14",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "Kirti Gaude",
+      "house_number": "t a-41",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Babuli Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Motiram Gaude",
+      "house_number": "A-44"
+    },
+    {
+      "name": "Anil Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Yeshwant Kerkar",
+      "house_number": "4-45",
+      "id": "REX0457796"
+    },
+    {
+      "name": "Sanket Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Kerker",
+      "house_number": "A 46",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Ulhasini Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Uihas Gaude",
+      "house_number": "A-46"
+    },
+    {
+      "name": "Guno Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Dhakto Gaude",
+      "house_number": "A-47"
+    },
+    {
+      "name": "Amit Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Guno Gaude",
+      "house_number": "A-47",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Sandip Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Govind Kerkar",
+      "house_number": "A-48",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "t URVI DESAI",
+      "relative_type": "Fathers",
+      "relative_name": "MANOHAR DESAI",
+      "house_number": "A11"
+    },
+    {
+      "name": "t Twinkle Amadkar",
+      "relative_type": "Fathers",
+      "relative_name": "Gokuldas Amadkar",
+      "house_number": "A26",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Shivaji Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Motiram Gaude",
+      "house_number": "A-43",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Kesar Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Bhiku Gauce",
+      "house_number": "4-44"
+    },
+    {
+      "name": "Nishta Kerkar",
+      "relative_type": "Husbands",
+      "relative_name": "Nilkanth Kerkar",
+      "house_number": "7 4-45"
+    },
+    {
+      "name": "Uthas Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Balu Gaude",
+      "house_number": "A-46",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Sonali Kerkar",
+      "relative_type": "Husbands",
+      "relative_name": "Santosh Kerkar",
+      "house_number": "7 A-46",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Nemala Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Guno Gaude",
+      "house_number": "4-47",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Amruta Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Avinash Gaude",
+      "house_number": "A-47"
+    },
+    {
+      "name": "Sangeeta Kerkar",
+      "relative_type": "Husbands",
+      "relative_name": "Sandip Kerkar",
+      "house_number": "4-48",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "7 Sejal Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Sandeep Kerkar",
+      "house_number": "A - 48",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Premavati Kertcar",
+      "relative_type": "Husbands",
+      "relative_name": "Shambhu Kerkar",
+      "house_number": "A-50",
+      "age": "70",
+      "gender": "Female"
+    },
+    {
+      "name": "Laxmikant Kerker",
+      "house_number": "A-50",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Dananjay Zalmi",
+      "relative_type": "Fathers",
+      "relative_name": "Mohan Jalmi",
+      "house_number": "451",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Divya Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Kerkar",
+      "house_number": "HNO.A,28"
+    },
+    {
+      "name": "Gurudas Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Laxrnan Kerkar",
+      "house_number": "A-50",
+      "age": "74",
+      "gender": "Male"
+    },
+    {
+      "name": "Shantabai Kerkar",
+      "relative_type": "Husbands",
+      "relative_name": "Gurudas Kerker",
+      "house_number": "4-50",
+      "age": "69",
+      "gender": "Female"
+    },
+    {
+      "name": "Dayesh Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Kerkar",
+      "house_number": "A-50",
+      "age": "39",
+      "gender": "Male"
+    },
+    {
+      "name": "Gurudas Kerkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mangesh Kerkar",
+      "house_number": "A-85"
+    },
+    {
+      "name": "Keshav Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Laxman Gaude",
+      "house_number": "A-50"
+    },
+    {
+      "name": "t Kishori Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Keshav Gaude",
+      "house_number": "4-50",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohini dairre",
+      "relative_type": "Husbands",
+      "relative_name": "Mohan Jalmi",
+      "house_number": "A-St"
+    },
+    {
+      "name": "Shantanu Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Sharad Gaude",
+      "house_number": "H No A/10",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "Siddinesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Madhu Naik",
+      "house_number": "19",
+      "age": "36",
+      "gender": "Male"
+    },
+    {
+      "name": "Mohan Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Keshinath Nak",
+      "house_number": "P-01",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Aditya Naik",
+      "house_number": "P-01"
+    },
+    {
+      "name": "Geeta Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Nak",
+      "house_number": "P-02",
+      "age": "62",
+      "gender": "Female"
+    },
+    {
+      "name": "Tasvita Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Tukararn Satarkar",
+      "house_number": "P-02",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Prita Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Naik",
+      "house_number": "P-02",
+      "id": "HNL1347749"
+    },
+    {
+      "name": "Sudha Naik Le)",
+      "relative_type": "Fathers",
+      "relative_name": "ee lam"
+    },
+    {
+      "name": "Sukanti Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Naik",
+      "house_number": "P-0S Phota",
+      "age": "87",
+      "gender": "Female"
+    },
+    {
+      "name": "Jivan Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Raghunath Naik",
+      "house_number": "P05"
+    },
+    {
+      "name": "Shobha Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Raghunath Nak",
+      "house_number": "P-05"
+    },
+    {
+      "name": "Diviya Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "0 - 02",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Malini Naik",
+      "house_number": "P-07",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Utkarsha Nek",
+      "relative_type": "Fathers",
+      "relative_name": "Mohan Naik",
+      "house_number": "P-01",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Anil Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Naik",
+      "house_number": "P-02",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Marto Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Harishchandra Satarkar",
+      "house_number": "P-02"
+    },
+    {
+      "name": "Sapana Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Sanjeet Satarkar",
+      "house_number": "P-02",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Savita Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Nagesh Nak",
+      "house_number": "P-04"
+    },
+    {
+      "name": "Rekha Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Raghunath Naik",
+      "house_number": "P-05"
+    },
+    {
+      "name": "Gajanan Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Raghunath Naik",
+      "house_number": "P-05"
+    },
+    {
+      "name": "Arun Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Raghunath Naik",
+      "house_number": "P-05",
+      "age": "46",
+      "gender": "Male"
+    },
+    {
+      "name": "Saayall Palsarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Subhash Palsarkar",
+      "house_number": "H No P-19/A,"
+    },
+    {
+      "name": "t Marnata Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Mohan Naik",
+      "house_number": "P-01",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Pushpavati Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Keshav Nak",
+      "house_number": "P-02",
+      "age": "75",
+      "gender": "Female"
+    },
+    {
+      "name": "Tukaram Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Harishchandra Satarkar",
+      "house_number": "P-02"
+    },
+    {
+      "name": "Sanjeet Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Naik",
+      "house_number": "7 P-02"
+    },
+    {
+      "name": "Aashvita Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Anand Nak",
+      "house_number": "P 03",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Suresh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Raghunath Naik",
+      "house_number": "7 P-05",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Usha Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Suresh Naik",
+      "house_number": "P-05",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Jaya Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Jivan Naik",
+      "house_number": "P-05"
+    },
+    {
+      "name": "Mahendra Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Raghunath Naik",
+      "house_number": "P-05",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Chitra Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Arun Naik",
+      "house_number": "P-0S"
+    },
+    {
+      "name": "Virnal Naik Satarker",
+      "relative_type": "Husbands",
+      "relative_name": "Jagannath Naik Satarkar",
+      "house_number": "P-06",
+      "age": "85",
+      "gender": "Female"
+    },
+    {
+      "name": "Shankar Naik",
+      "house_number": "P-06",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Nayan Nak",
+      "relative_type": "Husbands",
+      "relative_name": "Kishor Naik",
+      "house_number": "P-06",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Sutala Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shantaram Satarkar",
+      "house_number": "P-09/4",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Hemant Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Kanta Naik",
+      "house_number": "P-09/A,",
+      "age": "46",
+      "gender": "Male"
+    },
+    {
+      "name": "Satcht Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Raya Satarkar",
+      "house_number": "P-11"
+    },
+    {
+      "name": "Sarmkshya Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Kushali Satarkar",
+      "house_number": "P-13"
+    },
+    {
+      "name": "3 Pradip Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Satarkar",
+      "house_number": "P14",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Vishal Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Vishwanath Satarkar",
+      "house_number": "P-15"
+    },
+    {
+      "name": "Viayate Nek",
+      "relative_type": "Husbands",
+      "relative_name": "Mahendra Naik",
+      "house_number": "P-05"
+    },
+    {
+      "name": "Subhash Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Jagannath Nek",
+      "house_number": "P-06",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Disha Nek",
+      "relative_type": "Husbands",
+      "relative_name": "Shankar Nak",
+      "house_number": "P-06",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Rathik Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Kishor Naik",
+      "house_number": "P - 06",
+      "age": "23",
+      "gender": "Male",
+      "id": "HNL6962311"
+    },
+    {
+      "name": "Purushottam Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Kante Naik",
+      "house_number": "P-09/A",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Mina Satarker",
+      "relative_type": "Fathers",
+      "relative_name": "Rama Satarkar",
+      "house_number": "P-09/4",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Savita Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Raya Satarkar",
+      "house_number": "P11"
+    },
+    {
+      "name": "Sukanti Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Chancrakant Satarkar",
+      "house_number": "P-14"
+    },
+    {
+      "name": "Sapna Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Satarkar",
+      "house_number": "P14",
+      "age": "32",
+      "gender": "Female"
+    },
+    {
+      "name": "Sairaj Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ghanashyam Naik",
+      "house_number": "P-15"
+    },
+    {
+      "name": "Charaant Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Suresh Naik",
+      "house_number": "P-05",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "t Yarnin\u00e9 Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Subhash Naik",
+      "house_number": "P-06"
+    },
+    {
+      "name": "Monall Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Shubhash Nak",
+      "house_number": "P 06"
+    },
+    {
+      "name": "Vaishnavi Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Vishnu Satarkar",
+      "house_number": "P-0?",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Jyotsna Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Pursthottam Naik",
+      "house_number": "P-09/A"
+    },
+    {
+      "name": "Haridas Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Kanta Naik",
+      "house_number": "P-09/A",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Swapnisha Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Satcht Satarkar",
+      "house_number": "7 P-11",
+      "age": "41",
+      "gender": "Female",
+      "id": "HNL5731088"
+    },
+    {
+      "name": "Kunti Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Khushali Satarkar",
+      "house_number": "P-14",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Seema Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Khushat Satarkar",
+      "house_number": "P= 14"
+    },
+    {
+      "name": "Bhaichandra Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Satarkar",
+      "house_number": "P-16",
+      "age": "68",
+      "gender": "Male"
+    },
+    {
+      "name": "Durgaram Nek",
+      "relative_type": "Fathers",
+      "relative_name": "Suryakant Naik",
+      "house_number": "P-16",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Tushar Saterkar",
+      "relative_type": "Fathers",
+      "relative_name": "Bhaichandra Satarkar",
+      "house_number": "P-16",
+      "age": "31",
+      "gender": "Male"
+    },
+    {
+      "name": "Shobhavat! Saterkar",
+      "relative_type": "Husbands",
+      "relative_name": "Babull Satarkar",
+      "house_number": "P-17",
+      "age": "72",
+      "gender": "Female"
+    },
+    {
+      "name": "Santosh Gauge",
+      "relative_type": "Fathers",
+      "relative_name": "Chimano Gaude",
+      "house_number": "P-18",
+      "age": "46",
+      "gender": "Male"
+    },
+    {
+      "name": "Suryakant Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Janu Gaude",
+      "house_number": "P-21"
+    },
+    {
+      "name": "Snailendra Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Suryakant Gauce",
+      "house_number": "P-21",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Dilp Palsarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Datty Palsarkar",
+      "house_number": "P-22"
+    },
+    {
+      "name": "Kalavati Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Manohar Naik",
+      "house_number": "P-23",
+      "age": "65",
+      "gender": "Female"
+    },
+    {
+      "name": "Vanita Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Gajanan Naik",
+      "house_number": "P-23"
+    },
+    {
+      "name": "Sandhya Gaonkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ganesh Gaonkar",
+      "house_number": "P-23"
+    },
+    {
+      "name": "Chandrabhaga Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Balchandra Satarkar",
+      "house_number": "P-16"
+    },
+    {
+      "name": "Divya Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Durgaram Naik",
+      "house_number": "P-16",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Asha Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Ramesh Satarkar",
+      "house_number": "P17"
+    },
+    {
+      "name": "Gauri Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Santosn Gaude",
+      "house_number": "P-18",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Rukmini Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Suryakant Gaude",
+      "house_number": "P-21",
+      "age": "65",
+      "gender": "Female"
+    },
+    {
+      "name": "Riya Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Rajendra Gaude",
+      "house_number": "P/21",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Despali Palsarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Dilip Palsarkar",
+      "house_number": "P-22",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Yoganand Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Naik",
+      "house_number": "P-23"
+    },
+    {
+      "name": "Revati Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Yoganand Naik",
+      "house_number": "P-23",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Shakuntala Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "P-26"
+    },
+    {
+      "name": "t Netra Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Durgararn Nak",
+      "house_number": "P-16",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Sriyash Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Satarkar",
+      "house_number": "P 17",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Nagesh @) Purushottam Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Chimno Gaude",
+      "house_number": "P-18"
+    },
+    {
+      "name": "Subhash Palsarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Dugu Palsarkar",
+      "house_number": "P-19"
+    },
+    {
+      "name": "Rajendra Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Suryakant Gaude",
+      "house_number": "7 P-2t",
+      "age": "47",
+      "gender": "Male"
+    },
+    {
+      "name": "Shravani Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Shailendra Gaude",
+      "house_number": "P-21",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Manohar Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Vitthal Naik",
+      "house_number": "7 P-23"
+    },
+    {
+      "name": "Gajanan Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Naik",
+      "house_number": "P-23",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Devanand Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Naik",
+      "house_number": "P-23",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Suman Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "P-26",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Neeta Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Satarkar",
+      "house_number": "P-26"
+    },
+    {
+      "name": "Ravi Satekar",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Satarkar",
+      "house_number": "P-27",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Sulabha Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ghansharn Naik",
+      "house_number": "P-27",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Manisha Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Vishwanath Satarkar",
+      "house_number": "P - 27",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "Narayan Gaude",
+      "house_number": "P-33"
+    },
+    {
+      "name": "Nanda Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Lumo Gauds",
+      "house_number": "P-33",
+      "age": "80",
+      "gender": "Male"
+    },
+    {
+      "name": "Reshmi Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Ravindra Gaude",
+      "house_number": "P-33/A"
+    },
+    {
+      "name": "Snahit Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Suresh Naik",
+      "house_number": "P-34"
+    },
+    {
+      "name": "Tulshi Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Radhi Nak",
+      "house_number": "P-35",
+      "age": "57",
+      "gender": "Female"
+    },
+    {
+      "name": "Diksha Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashikant Satarkar",
+      "house_number": "P-36",
+      "age": "27",
+      "gender": "Female"
+    },
+    {
+      "name": "Vinanti Saterkar",
+      "relative_type": "Husbands",
+      "relative_name": "Vishwanath Satarkar",
+      "house_number": "P-27"
+    },
+    {
+      "name": "Vishwanath Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Satarkar",
+      "house_number": "P-27",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Savita Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Ravi Satarkar",
+      "house_number": "P-27",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Tulsi Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Madhu Satarkar",
+      "house_number": "P-27/A,"
+    },
+    {
+      "name": "Namrata Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Gaude",
+      "house_number": "P-33",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Shrikant Palsarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Janu Gaude",
+      "house_number": "P-33/A",
+      "age": "59",
+      "gender": "Male"
+    },
+    {
+      "name": "Shreya Palsarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Shrkant Palsarkar",
+      "house_number": "P-33/A",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Vishwas Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Kanta Naik",
+      "house_number": "P-34",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Harichandra Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Rachi Naik",
+      "house_number": "P~35",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Priyanka Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashikant Satarkar",
+      "house_number": "P - 36"
+    },
+    {
+      "name": "Ghanashyam Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Satarkar",
+      "house_number": "P-27"
+    },
+    {
+      "name": "Chandrakant Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Naik",
+      "house_number": "P-27",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Sangita Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Chandrakant Naik",
+      "house_number": "P-27",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Ani Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Madhw Satarkar",
+      "house_number": "P-27/A",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Nandita Gaude",
+      "relative_type": "Husbands",
+      "relative_name": "Nanda Gaude",
+      "house_number": "7 P-33",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "t Ravindra Gaude",
+      "relative_type": "Fathers",
+      "relative_name": "Janu Gaude",
+      "house_number": "P-33/A",
+      "age": "49",
+      "gender": "Male"
+    },
+    {
+      "name": "Suresh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Vishwanath Naik",
+      "house_number": "7 P-34",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Sohani Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Suresh Naik",
+      "house_number": "P - 34"
+    },
+    {
+      "name": "Asha Satarkar",
+      "relative_type": "Husbands",
+      "relative_name": "Shashikant Satarkar",
+      "house_number": "P36",
+      "id": "FEX0466797"
+    },
+    {
+      "name": "Mansi Satarkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashikant Satarkar",
+      "house_number": "P-36",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Mingikshi Mohan Zalmi",
+      "relative_type": "Fathers",
+      "relative_name": "Mohan Zatmi",
+      "house_number": "A-51",
+      "age": "18",
+      "gender": "Female"
+    }
+  ],
+  "voter_count": 474
+}

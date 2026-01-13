@@ -1,0 +1,3018 @@
+{
+  "common_info": {
+    "assembly_constituency": "20 - PRIOL (GEN)",
+    "main_town_or_village": "BOMA",
+    "post_office": "=MARCELA",
+    "police_station": "PONDA",
+    "block": "PONDA",
+    "subdivision": "PONDA",
+    "district": "SOUTH GOA",
+    "pin_code": "403107",
+    "polling_station_name": "18 - Page 1",
+    "polling_station_type": "General",
+    "polling_station_address": "Address of Polling Station :  Government Primary Schoo! Muslimwada Boma Ponda Goa  4.",
+    "number_of_electors": "416"
+  },
+  "voters": [
+    {
+      "name": "Sarina Bi Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Sairof Al Khan",
+      "house_number": "204"
+    },
+    {
+      "name": "Farida Salam Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Salam Khan",
+      "house_number": "205/1",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Tanaz Khan",
+      "house_number": "2065/1",
+      "age": "26",
+      "gender": "Female"
+    },
+    {
+      "name": "Shamshedoi Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Karim Khan",
+      "house_number": "205/A4",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Karim Ali Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Nissar Khan",
+      "house_number": "2065/4",
+      "id": "REX0318747"
+    },
+    {
+      "name": "Abrunnisa Khas",
+      "relative_type": "Husbands",
+      "relative_name": "Ruwabel Khan",
+      "house_number": "206/10-B"
+    },
+    {
+      "name": "Faiyaz Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Sattar Khan",
+      "house_number": "t 206-4"
+    },
+    {
+      "name": "Abdul Sattar Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Zainul Abedin Khan",
+      "house_number": "206-4",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Sharifa Bi Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Gaffar Khan",
+      "house_number": "206/B"
+    },
+    {
+      "name": "Rubina 8",
+      "relative_type": "Fathers",
+      "relative_name": "Yusuf Khan Dambal",
+      "house_number": "206/B"
+    },
+    {
+      "name": "Roxana Bi",
+      "relative_type": "Husbands",
+      "relative_name": "Iibraim Can",
+      "house_number": "205/'t"
+    },
+    {
+      "name": "Nasrin Begun",
+      "relative_type": "Husbands",
+      "relative_name": "Bashirunddin Khan",
+      "house_number": "205/1",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Faizah Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Abdud Salarn Khan",
+      "house_number": "205/t",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Fatima Bi Can",
+      "relative_type": "Husbands",
+      "relative_name": "Nissar Can",
+      "house_number": "205/4",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Zainul Abedin Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Sattar Khan",
+      "house_number": "206",
+      "age": "59",
+      "gender": "Male"
+    },
+    {
+      "name": "Nurunnisa Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Satar Khan",
+      "house_number": "206-4,"
+    },
+    {
+      "name": "Frah Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Mahammad Khan",
+      "house_number": "206/A",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Zishan Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Zainul Abedin Khan",
+      "house_number": "206-4,"
+    },
+    {
+      "name": "Maharmmad Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Gaffar Khan",
+      "house_number": "206/B"
+    },
+    {
+      "name": "Safiulla Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Nabiulla Shaikh",
+      "house_number": "206/C"
+    },
+    {
+      "name": "Abdul Salam Khan",
+      "relative_type": "Fathers",
+      "relative_name": "lorahim Khan",
+      "house_number": "205/'1"
+    },
+    {
+      "name": "t Bashiruddin Kan",
+      "relative_type": "Fathers",
+      "relative_name": "Ibrahim Khan",
+      "house_number": "2051",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Nessar Can",
+      "relative_type": "Fathers",
+      "relative_name": "Carimoli Can",
+      "house_number": "205/A",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Mariam Bi Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Nissar Khan",
+      "house_number": "205/A",
+      "age": "31",
+      "gender": "Female"
+    },
+    {
+      "name": "Yasmin Sheikh",
+      "relative_type": "Husbands",
+      "relative_name": "Tauleek Sheikh",
+      "house_number": "206/3"
+    },
+    {
+      "name": "Zaibun Nissa Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Zainul Abedin Khan",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Hasen Bidi",
+      "relative_type": "Fathers",
+      "relative_name": "Hagen Bedi",
+      "house_number": "7 2046/4",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "Abdul Gatfer 49)",
+      "relative_type": "Fathers",
+      "relative_name": "har"
+    },
+    {
+      "name": "Abdul Mustak Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Gaffar Khan",
+      "house_number": "206/8",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Amanuta Khi ou",
+      "relative_type": "Fathers",
+      "relative_name": "4 in"
+    },
+    {
+      "name": "Abdul M Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Rahman Khan",
+      "house_number": "207",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Ajnatulla Anshari",
+      "relative_type": "Fathers",
+      "relative_name": "Hafizulla Anshari",
+      "house_number": "207"
+    },
+    {
+      "name": "Muskaan Khan",
+      "house_number": "207",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Gani Sayyad",
+      "relative_type": "Fathers",
+      "relative_name": "Aziz Sayyad",
+      "house_number": "208"
+    },
+    {
+      "name": "Nasarin Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Hussen Shaikty",
+      "house_number": "208",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Nadiya Snaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Hussain Sheikh",
+      "house_number": "208",
+      "age": "37",
+      "gender": "Female"
+    },
+    {
+      "name": "Nagina Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Asif Shaikh",
+      "house_number": "208",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Jarnal Ashrat Kadri",
+      "relative_type": "Fathers",
+      "relative_name": "Shamsu! Hakh Kadri",
+      "house_number": "209 Phota",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Davib\u00e9 Mansur",
+      "relative_type": "Husbands",
+      "relative_name": "Shamenad Mansurt",
+      "house_number": "209",
+      "age": "36",
+      "gender": "Female"
+    },
+    {
+      "name": "Ataf Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Mehboob Shaikh",
+      "house_number": "209"
+    },
+    {
+      "name": "Mahabubb! Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Amanuta Khan",
+      "house_number": "207"
+    },
+    {
+      "name": "A\u00e9sha |rani",
+      "relative_type": "Husbands",
+      "relative_name": "Shoaib trani",
+      "house_number": "207",
+      "age": "29",
+      "gender": "Female"
+    },
+    {
+      "name": "Zehaan Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Armmarnia Kha",
+      "house_number": "207",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Mohammad Hanif Sheikh",
+      "relative_type": "Fathers",
+      "relative_name": "Abdulla Sheikh",
+      "house_number": "208",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Riyaz Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Abdulla Shaikh",
+      "house_number": "208"
+    },
+    {
+      "name": "Taufeek Sheikh",
+      "relative_type": "Fathers",
+      "relative_name": "Hussain Sheikh",
+      "house_number": "208",
+      "age": "36",
+      "gender": "Male"
+    },
+    {
+      "name": "Salman Pathan",
+      "relative_type": "Fathers",
+      "relative_name": "Kutubuddin Pathan",
+      "house_number": "208",
+      "age": "30",
+      "gender": "Male"
+    },
+    {
+      "name": "Shamsnad Mansun",
+      "relative_type": "Fathers",
+      "relative_name": "Neyazuddin Mansuri",
+      "house_number": "209",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Reshena Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Menboob Shaikh",
+      "house_number": "209",
+      "age": "32",
+      "gender": "Female"
+    },
+    {
+      "name": "REHMAN SAYED",
+      "relative_type": "Fathers",
+      "relative_name": "GANI SAYYAD",
+      "house_number": "209",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "t Kulsum 8 Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul M, Khan",
+      "house_number": "207",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "t Sufyaan Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Muazzam Khan",
+      "house_number": "207",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Sohe Bi",
+      "house_number": "207",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Jakiya Sayyact",
+      "relative_type": "Husbands",
+      "relative_name": "Gani Sayyad",
+      "house_number": "208",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Taslim Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Riyaz Shaikh",
+      "house_number": "208"
+    },
+    {
+      "name": "Shaikh Abdul Asit",
+      "relative_type": "Fathers",
+      "relative_name": "Hussan Shaikh",
+      "house_number": "208",
+      "age": "0",
+      "gender": "Male"
+    },
+    {
+      "name": "Sabesna Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Jatar Shaikh",
+      "house_number": "209",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohammad Qadri",
+      "relative_type": "Fathers",
+      "relative_name": "Shamsul Hakh Qadri",
+      "house_number": "209",
+      "age": "37",
+      "gender": "Male"
+    },
+    {
+      "name": "Noorsaba Kadari",
+      "relative_type": "Fathers",
+      "relative_name": "Sharrisulhak Kadari",
+      "house_number": "209"
+    },
+    {
+      "name": "Raziya Khan Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Shamshad Khan",
+      "house_number": "209/1",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Soflya Kadwal",
+      "relative_type": "Fathers",
+      "relative_name": "Mehboob Kodwal",
+      "house_number": "209/17",
+      "age": "26",
+      "gender": "Female"
+    },
+    {
+      "name": "Jafar Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Shaikh",
+      "house_number": "209/65",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Kamrunte Shaikh",
+      "house_number": "210",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Firoz Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Isak Naik",
+      "house_number": "210",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Guizar Shaikh Be",
+      "relative_type": "Husbands",
+      "relative_name": "Sameerudin Shaikh",
+      "house_number": "210",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Ruksana Bisti",
+      "relative_type": "Fathers",
+      "relative_name": "Ibrahim Bist!",
+      "house_number": "210",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Saifulla Imamsab",
+      "relative_type": "Fathers",
+      "relative_name": "Khutbuddin imarnsab",
+      "house_number": "210/1"
+    },
+    {
+      "name": "Mohamed Sieg",
+      "relative_type": "Fathers",
+      "relative_name": "Di ir"
+    },
+    {
+      "name": "3 Aslam Khan Mahammad",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Rehman Khan",
+      "house_number": "210/3"
+    },
+    {
+      "name": "Shibli Rehamani",
+      "relative_type": "Fathers",
+      "relative_name": "Sarnjur Rehman Rehamani",
+      "house_number": "210/3",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Hasina Shakkh",
+      "relative_type": "Husbands",
+      "relative_name": "Ismail Shakh",
+      "house_number": "209/5"
+    },
+    {
+      "name": "Abdul Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Shaikh",
+      "house_number": "209/5"
+    },
+    {
+      "name": "Suleman Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Salauddin Sheikh",
+      "house_number": "210",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Shamim Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Firoz Naik",
+      "house_number": "210",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Ibrahim Bestey",
+      "relative_type": "Fathers",
+      "relative_name": "Babajan Bestey",
+      "house_number": "210"
+    },
+    {
+      "name": "Rajzia Bist)",
+      "relative_type": "Fathers",
+      "relative_name": "Ibrahim Bist",
+      "house_number": "210",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "Anees Mulla",
+      "relative_type": "Fathers",
+      "relative_name": "Abduigani Mulla",
+      "house_number": "210/2"
+    },
+    {
+      "name": "Badshah Sisn; e&",
+      "relative_type": "Fathers",
+      "relative_name": "Oey er"
+    },
+    {
+      "name": "Mahammad Ishak Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Adam Shaikh",
+      "house_number": "2170/4",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "t Shukur Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Shaikh",
+      "house_number": "2090/5",
+      "age": "49",
+      "gender": "Male"
+    },
+    {
+      "name": "t Rubina Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Retmnan Shakh",
+      "house_number": "209/5",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "Samiruddin Sheikh",
+      "house_number": "210",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Shabnam Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Suleiman Shaikh",
+      "house_number": "210",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Amina Bestey",
+      "house_number": "7210",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "t Mohammad Amjad",
+      "relative_type": "Fathers",
+      "relative_name": "Mohammad Salaucdin",
+      "house_number": "290/1",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Shayada Mut <Q",
+      "relative_type": "Husbands",
+      "relative_name": "wes imed Mulla",
+      "id": "HNL1354877"
+    },
+    {
+      "name": "Shanmaz",
+      "relative_type": "Fathers",
+      "relative_name": "whe nee"
+    },
+    {
+      "name": "Abdul Afas Basit Hashi",
+      "relative_type": "Fathers",
+      "relative_name": "Amirulhag Hashi",
+      "house_number": "210/3",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Sabir Sayed",
+      "relative_type": "Fathers",
+      "relative_name": "Gaspir Sayed",
+      "house_number": "3210/4"
+    },
+    {
+      "name": "Shahanaj Sayed",
+      "relative_type": "Husbands",
+      "relative_name": "Zakir Sayed",
+      "house_number": "210/4",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Kadir Sayed",
+      "relative_type": "Fathers",
+      "relative_name": "Gaudir Sayed",
+      "house_number": "210/4",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Batu Fakruddin Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Hussen Sab Shaikh",
+      "house_number": "211"
+    },
+    {
+      "name": "Hussain Bi Shaikty",
+      "relative_type": "Husbands",
+      "relative_name": "Babu Fakrudain Shaikh",
+      "house_number": "211",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Shabana Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Ajad Khart",
+      "house_number": "211"
+    },
+    {
+      "name": "Alirmunnisha Khan,",
+      "relative_type": "Husbands",
+      "relative_name": "Karim Khan",
+      "house_number": "211",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Sabir Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Patari Khan",
+      "house_number": "211"
+    },
+    {
+      "name": "Saddam Husan Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Alraja Khan",
+      "house_number": "2211",
+      "age": "34",
+      "gender": "Male"
+    },
+    {
+      "name": "Maksud Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Azad Khan",
+      "house_number": "211"
+    },
+    {
+      "name": "Sadre Alam Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Fazal Khan",
+      "house_number": "211"
+    },
+    {
+      "name": "Riana Bi Shaik",
+      "relative_type": "Fathers",
+      "relative_name": "Adam Shaikh",
+      "house_number": "210/4"
+    },
+    {
+      "name": "Apsar Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Adam Shaikh",
+      "house_number": "210/4",
+      "age": "29",
+      "gender": "Female"
+    },
+    {
+      "name": "Karim Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Catari Khan",
+      "house_number": "211"
+    },
+    {
+      "name": "Azad Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Sardar Ali Khan",
+      "house_number": "211"
+    },
+    {
+      "name": "Kasim Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Goli Khar",
+      "house_number": "211"
+    },
+    {
+      "name": "Mohammad Khabir Ansari",
+      "relative_type": "Fathers",
+      "relative_name": "Mohammad Sagir Ansari",
+      "house_number": "211",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Azima Ansari",
+      "relative_type": "Husbands",
+      "relative_name": "Md. Khabir Ansari",
+      "house_number": "211",
+      "age": "35",
+      "gender": "Female"
+    },
+    {
+      "name": "Ashit Ali Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Ajad Khan",
+      "house_number": "271",
+      "age": "30",
+      "gender": "Male"
+    },
+    {
+      "name": "Zeenat Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Feroz Khan,",
+      "house_number": "217",
+      "age": "26",
+      "gender": "Female"
+    },
+    {
+      "name": "Ahnad Bagalkot",
+      "relative_type": "Fathers",
+      "relative_name": "Atalsab Bagalkot",
+      "house_number": "211/9",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "t Nafisa Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Adam Shakh",
+      "house_number": "210/4",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "t Sufiya Began Sayed",
+      "relative_type": "Fathers",
+      "relative_name": "Sabir Sayed",
+      "house_number": "210/4",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Fazal Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Alirazza Khan",
+      "house_number": "211",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Roopdnar Bat Le)",
+      "relative_type": "Fathers",
+      "relative_name": "S ik"
+    },
+    {
+      "name": "Fatima Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Farukh Shaikh",
+      "house_number": "211"
+    },
+    {
+      "name": "M .D. Tabarvez Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Juifaker Khan",
+      "house_number": "291",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Nazma Sheikh",
+      "relative_type": "Fathers",
+      "relative_name": "BF .Huseingab Sheikh",
+      "house_number": "211"
+    },
+    {
+      "name": "Shati Snaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Babu Fakruddin Shaikh",
+      "age": "0",
+      "gender": "Male"
+    },
+    {
+      "name": "Mahmud Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Azad Khan",
+      "house_number": "211"
+    },
+    {
+      "name": "Guishanbt Bagalkot",
+      "relative_type": "Husbands",
+      "relative_name": "Ahmed Bagalkot",
+      "house_number": "3211/1",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohamad Ali Bagalkot",
+      "relative_type": "Fathers",
+      "relative_name": "Atened Sharif Bagakkot",
+      "house_number": "211/1"
+    },
+    {
+      "name": "Jarnila Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Ali Shaikh",
+      "house_number": "212",
+      "age": "60",
+      "gender": "Female",
+      "id": "INL1355296"
+    },
+    {
+      "name": "Chandbi Bhagewact",
+      "relative_type": "Husbands",
+      "relative_name": "Sadruddin Bhagewad",
+      "house_number": "212/1",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Sana Bhagewadi",
+      "relative_type": "Fathers",
+      "relative_name": "Sadruddin Bhagewad)",
+      "house_number": "212/1",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Khairunsal Veddeti",
+      "relative_type": "Husbands",
+      "relative_name": "Zandipur Veddeti",
+      "house_number": "213",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Rajak Mulla",
+      "relative_type": "Fathers",
+      "relative_name": "Makbul Mula",
+      "house_number": "213",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Hanumant Lamani",
+      "relative_type": "Fathers",
+      "relative_name": "Tippanna Lamani",
+      "house_number": "213"
+    },
+    {
+      "name": "Snamino Khan",
+      "relative_type": "Husbands",
+      "relative_name": "Firoz Khan",
+      "house_number": "213/1",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Anupam Verma",
+      "relative_type": "Husbands",
+      "relative_name": "Baburam Verma",
+      "house_number": "213/2"
+    },
+    {
+      "name": "Addu! Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Usrnan Shaikh",
+      "house_number": "214 Phota"
+    },
+    {
+      "name": "Hydersil Bagakot",
+      "relative_type": "Fathers",
+      "relative_name": "Sharif Bagalkot",
+      "house_number": "211/1",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Aptabe Alam Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "All Shaikh",
+      "house_number": "212",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Rahim Bnagewad!",
+      "relative_type": "Fathers",
+      "relative_name": "Sadruddin Bhagewadi",
+      "house_number": "212/'t",
+      "age": "30",
+      "gender": "Male"
+    },
+    {
+      "name": "Daud Sheikh",
+      "relative_type": "Fathers",
+      "relative_name": "Adam Sheikh",
+      "house_number": "213"
+    },
+    {
+      "name": "Kulsumibi Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Daud Shaikh",
+      "house_number": "213"
+    },
+    {
+      "name": "Arjun Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tipana Laman",
+      "house_number": "213",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Maharnmad Rafik Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Firoz Khan",
+      "house_number": "213",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Vikas Mourya:",
+      "relative_type": "Fathers",
+      "relative_name": "Dinanath Mourya",
+      "house_number": "213/T",
+      "age": "25",
+      "gender": "Male"
+    },
+    {
+      "name": "Noorjan Mula",
+      "relative_type": "Husbands",
+      "relative_name": "Mohidin Mulla",
+      "house_number": "2173/5"
+    },
+    {
+      "name": "Noor Jahan Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Hamid Shaikh",
+      "house_number": "274",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "t Guizer Begum Bagalkot",
+      "relative_type": "Fathers",
+      "relative_name": "Sharif Bagalkot",
+      "house_number": "211/1"
+    },
+    {
+      "name": "Aliya Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Aptabe Alam Shaikh",
+      "house_number": "212",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "t ALFIYA RAHIM BHAGEWADY",
+      "relative_type": "Husbands",
+      "relative_name": "RAHIM BHAGEWADt",
+      "house_number": "3212/1 lable",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Jandipur Vackdet!",
+      "relative_type": "Fathers",
+      "relative_name": "Karimsab Vacdet!",
+      "house_number": "213",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Tajmeenbi Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Daud Shaikh",
+      "house_number": "2213"
+    },
+    {
+      "name": "Savita Lamani",
+      "relative_type": "Fathers",
+      "relative_name": "Tipanna Lamani",
+      "house_number": "213",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Firoz Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Ali Kaan",
+      "house_number": "213/'1",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Baburam Verma",
+      "relative_type": "Fathers",
+      "relative_name": "Bhavanprasad Verma",
+      "age": "49",
+      "gender": "Male"
+    },
+    {
+      "name": "Karen Mulla",
+      "relative_type": "Fathers",
+      "relative_name": "Mohicin Mula",
+      "house_number": "213/5",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Abdulla Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Usman Shaikh",
+      "house_number": "214",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Farukh Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Usrnan Shaikh",
+      "house_number": "214",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanif Shakh",
+      "relative_type": "Fathers",
+      "relative_name": "Abdu! Hameed Shaikh",
+      "house_number": "214"
+    },
+    {
+      "name": "Irfan Corresi",
+      "house_number": "214/1",
+      "age": "59",
+      "gender": "Male"
+    },
+    {
+      "name": "Sahida Snaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Sazid Shaikh",
+      "house_number": "214/1",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Fiza Shaikh",
+      "house_number": "214/1",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Jaltun Shaikh &",
+      "relative_type": "Husbands",
+      "relative_name": "kn"
+    },
+    {
+      "name": "Akram Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Meheboob Shaikh",
+      "house_number": "214/'4"
+    },
+    {
+      "name": "Afshana Khatun Ansari",
+      "relative_type": "Husbands",
+      "relative_name": "Ajmatutla Anshari",
+      "house_number": "214/4",
+      "age": "37",
+      "gender": "Female"
+    },
+    {
+      "name": "Actar Ali Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Ahead Shaikh",
+      "house_number": "214/5",
+      "age": "70",
+      "gender": "Male"
+    },
+    {
+      "name": "Laxmi Rajput",
+      "relative_type": "Husbands",
+      "relative_name": "Tavapa Rajput",
+      "house_number": "214/5,"
+    },
+    {
+      "name": "Rutinabi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Abdulla Shakh",
+      "house_number": "214"
+    },
+    {
+      "name": "Armirah Bi Staik",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Hamid Shaikh",
+      "house_number": "214",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Yakub Shakh",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Shaikh",
+      "house_number": "214/1"
+    },
+    {
+      "name": "Esmail Shaikty",
+      "relative_type": "Fathers",
+      "relative_name": "Abbas Snaikh",
+      "house_number": "274-1"
+    },
+    {
+      "name": "Sana Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Yakub Shaikh",
+      "house_number": "214/1",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohammadsab Hirakunshi",
+      "relative_type": "Fathers",
+      "relative_name": "Hazrat Ai Hirakunshi",
+      "house_number": "214/3",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Asha Shakh",
+      "relative_type": "Husbands",
+      "relative_name": "Akram Shaikh",
+      "house_number": "214/4",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Sairsbanu Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Shaikh",
+      "house_number": "214/4"
+    },
+    {
+      "name": "Tavara Rajput",
+      "relative_type": "Fathers",
+      "relative_name": "Durgappa Rajput",
+      "house_number": "214/5"
+    },
+    {
+      "name": "Ahmad Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Actar Shaikh",
+      "house_number": "2714/5",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Sikandar Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Urnar Shaikh",
+      "house_number": "214"
+    },
+    {
+      "name": "Abdul Latif Xeque",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Xeque",
+      "house_number": "214/T",
+      "age": "74",
+      "gender": "Male"
+    },
+    {
+      "name": "t Nasreen Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Yakuy Shaikh",
+      "house_number": "214/t",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Mairun Stsaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Esmai Shakh",
+      "house_number": "214/1",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Abdul Rashid Ramzan Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Latif Shaikh",
+      "house_number": "2214/1",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Sabreenbanu Hirekunshi",
+      "relative_type": "Husbands",
+      "relative_name": "Ibrahin Hirekunshi",
+      "house_number": "214/3",
+      "age": "33",
+      "gender": "Female"
+    },
+    {
+      "name": "Abdul Rashid Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Meheboob Shaikh",
+      "house_number": "7214/4",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Kabeer Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Akram Shaikh",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Abidabi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Actar Shaikh",
+      "house_number": "214/5"
+    },
+    {
+      "name": "Ganesh Rajput",
+      "relative_type": "Fathers",
+      "relative_name": "Taura Rajput",
+      "house_number": "3214/5",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Shei Taura Rajput",
+      "relative_type": "Fathers",
+      "relative_name": "Rajesh Rajput",
+      "house_number": "214/\u00a7",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "Taisinb\u00e9 Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Abbas Shaikh",
+      "house_number": "214/7",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Snamsuddin Nadat",
+      "house_number": "214/9",
+      "age": "40",
+      "gender": "Male",
+      "relative_type": "Fathers",
+      "relative_name": "Ibrahin Patel"
+    },
+    {
+      "name": "Gaurava Bote",
+      "relative_type": "Husbands",
+      "relative_name": "Anand Bote",
+      "house_number": "214/10",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohammad Sadik Javai",
+      "relative_type": "Fathers",
+      "relative_name": "Khalandar Sab Javall",
+      "house_number": "214/11",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Shakla Syed",
+      "relative_type": "Husbands",
+      "relative_name": "Tahir Syed",
+      "house_number": "214/11"
+    },
+    {
+      "name": "Hanma Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Durgappa Nak",
+      "house_number": "214/12"
+    },
+    {
+      "name": "3 Ankita Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Hanma Naik",
+      "house_number": "214/12",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "7 Hugen Sheik",
+      "relative_type": "Fathers",
+      "relative_name": "Esak Sheik",
+      "house_number": "215"
+    },
+    {
+      "name": "Bibdan Nadat",
+      "relative_type": "Husbands",
+      "relative_name": "Jamaisab Nadaf",
+      "house_number": "Houss No214/9"
+    },
+    {
+      "name": "Babusab Nadal",
+      "relative_type": "Fathers",
+      "relative_name": "Rajesab Nadaf",
+      "house_number": "214/38",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Dishad Shak",
+      "relative_type": "Fathers",
+      "relative_name": "Babusab Nadal Shaik",
+      "house_number": "214/83"
+    },
+    {
+      "name": "Naazmin Nadat",
+      "relative_type": "Fathers",
+      "relative_name": "SAYED NADAF",
+      "house_number": "2174/9",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Nirmala,",
+      "relative_type": "Husbands",
+      "relative_name": "Manumanta",
+      "house_number": "214/10"
+    },
+    {
+      "name": "Tahir Syed",
+      "relative_type": "Fathers",
+      "relative_name": "Gauspir Syed",
+      "house_number": "214/11"
+    },
+    {
+      "name": "Gousiya Bagum Sayed",
+      "relative_type": "Fathers",
+      "relative_name": "Sabir Gauspr Sayed",
+      "house_number": "214/11"
+    },
+    {
+      "name": "Harsha Nek",
+      "relative_type": "Husbands",
+      "relative_name": "Hanma Naik",
+      "house_number": "214/12"
+    },
+    {
+      "name": "Avez Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Akthar Al Shaikh",
+      "house_number": "214-a1",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Anwar Shaikh Sandhi",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Shaikh Sandi",
+      "house_number": "215",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Badrunissa Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Abbas Shaikh",
+      "house_number": "214/7"
+    },
+    {
+      "name": "t Shahnaz Nadal",
+      "relative_type": "Husbands",
+      "relative_name": "Babusab Nadaf",
+      "house_number": "214/65",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Zaring Nedat",
+      "relative_type": "Husbands",
+      "relative_name": "Shamsuddin Nadat",
+      "house_number": "214/8"
+    },
+    {
+      "name": "imran Nadat",
+      "relative_type": "Fathers",
+      "relative_name": "Syed Nadat",
+      "house_number": "214/9"
+    },
+    {
+      "name": "Shabana Begum Sayed",
+      "relative_type": "Husbands",
+      "relative_name": "Sabir Sayed",
+      "house_number": "2 214/11"
+    },
+    {
+      "name": "Sharia Bi Javall",
+      "relative_type": "Fathers",
+      "relative_name": "Modinsab Shaikh",
+      "house_number": "214/11",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "Asiya Sayyed",
+      "relative_type": "Fathers",
+      "relative_name": "Zakir Sayyed",
+      "house_number": "214/11"
+    },
+    {
+      "name": "Ravi Rajput",
+      "relative_type": "Fathers",
+      "relative_name": "Sham Rajput",
+      "house_number": "214/12",
+      "age": "0",
+      "gender": "Male"
+    },
+    {
+      "name": "Davalbi Shai",
+      "relative_type": "Husbands",
+      "relative_name": "kh Sandi"
+    },
+    {
+      "name": "Rehna Shaikh Sandi",
+      "relative_type": "Husbands",
+      "relative_name": "Anwar Shaikh Sand)",
+      "house_number": "215"
+    },
+    {
+      "name": "Akbar Shaikh Sandi",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Shaikh Sandi",
+      "house_number": "215"
+    },
+    {
+      "name": "Arita Shakh",
+      "relative_type": "Husbands",
+      "relative_name": "Shabit Shaikh",
+      "house_number": "215",
+      "age": "43",
+      "gender": "Female",
+      "id": "REX0450106"
+    },
+    {
+      "name": "Amrintaj Shaikh",
+      "house_number": "215",
+      "age": "23",
+      "gender": "Female",
+      "id": "REX0253161"
+    },
+    {
+      "name": "Ayub Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Ibrahim Patel",
+      "house_number": "216",
+      "id": "REX0467845"
+    },
+    {
+      "name": "Seema Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Mehbaob Shakh",
+      "house_number": "216/'1",
+      "age": "27",
+      "gender": "Female"
+    },
+    {
+      "name": "Khwalboddin Snaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Mohammad Shaikh",
+      "house_number": "217",
+      "age": "62",
+      "gender": "Male"
+    },
+    {
+      "name": "Abraar Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Ruknoddin Shaikh",
+      "house_number": "217"
+    },
+    {
+      "name": "Yassin Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Iramoddin Shaikh",
+      "house_number": "217",
+      "age": "30",
+      "gender": "Male"
+    },
+    {
+      "name": "Faizan Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Imeaddin Shaikty",
+      "house_number": "217"
+    },
+    {
+      "name": "Irmoddin Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Mohammad Shaikh",
+      "house_number": "217/17"
+    },
+    {
+      "name": "Mohammad Shaikh Sandi",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Shaikh Sandi",
+      "house_number": "215"
+    },
+    {
+      "name": "Kasim Sheik",
+      "relative_type": "Fathers",
+      "relative_name": "Husen Sheik",
+      "house_number": "215",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Ibrahim Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Vahab Patel",
+      "house_number": "216",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Rashid Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Ibrahim Pate",
+      "house_number": "216",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Bikish Nadaf",
+      "relative_type": "Husbands",
+      "relative_name": "Sayed Nadat",
+      "house_number": "House No 2174/9,"
+    },
+    {
+      "name": "Sahidaty Shakh",
+      "relative_type": "Husbands",
+      "relative_name": "Ruknoddin Shaikh",
+      "house_number": "217",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Jaitrul Din",
+      "relative_type": "Fathers",
+      "relative_name": "Jainul Din",
+      "house_number": "217",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Sameey Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Khudboddin Shaikh",
+      "house_number": "217",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Mubharak Ahmed Ballart",
+      "relative_type": "Fathers",
+      "relative_name": "Atroz Atened Bailari",
+      "house_number": "217",
+      "age": "25",
+      "gender": "Male"
+    },
+    {
+      "name": "Sharmila Havanur",
+      "relative_type": "Husbands",
+      "relative_name": "Abbusaliya Havanur",
+      "house_number": "2177/1",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Shatbit Shek",
+      "relative_type": "Fathers",
+      "relative_name": "Husen Sheik",
+      "house_number": "215",
+      "age": "46",
+      "gender": "Male"
+    },
+    {
+      "name": "Gaus Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Any Sandhi"
+    },
+    {
+      "name": "Mabut Patel",
+      "relative_type": "Husbands",
+      "relative_name": "Ibrahen Patel",
+      "house_number": "216",
+      "age": "54",
+      "gender": "Female"
+    },
+    {
+      "name": "Bibijan Shakh",
+      "relative_type": "Husbands",
+      "relative_name": "Mehboob Shaikh",
+      "house_number": "216/1",
+      "age": "54",
+      "gender": "Female"
+    },
+    {
+      "name": "Nicrodin Xec",
+      "relative_type": "Fathers",
+      "relative_name": "Marnodo Xec",
+      "house_number": "2217",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Shamshadbi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Khudboddin Shaikh",
+      "house_number": "3217",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Astaan Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Rucnoddin Shaikh",
+      "house_number": "217"
+    },
+    {
+      "name": "NaGeem Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Khudbodadin Shaikh",
+      "house_number": "217",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanna Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Husein Shaikh",
+      "house_number": "217"
+    },
+    {
+      "name": "Farkdabe Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Irmuddin Shaikh",
+      "house_number": "3217/1",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Sachika Vadditte",
+      "relative_type": "Fathers",
+      "relative_name": "Janduper Vadditte",
+      "house_number": "217/1"
+    },
+    {
+      "name": "Maulasaab Kotimani",
+      "relative_type": "Fathers",
+      "relative_name": "Babausa Kotimani",
+      "house_number": "217/2"
+    },
+    {
+      "name": "Dattaram Naik Gaonkar",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Naik Gaonkar",
+      "house_number": "217/3"
+    },
+    {
+      "name": "Mahesh Pasad",
+      "relative_type": "Fathers",
+      "relative_name": "Bajanath Pasad",
+      "house_number": "217/4"
+    },
+    {
+      "name": "Ashmiya Betlar!",
+      "relative_type": "Fathers",
+      "relative_name": "Afroz Bellari",
+      "house_number": "217/4"
+    },
+    {
+      "name": "Anees Shaifi",
+      "relative_type": "Fathers",
+      "relative_name": "Ahmed Shaifi",
+      "house_number": "217/6",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Rashid All Sei",
+      "relative_type": "Fathers",
+      "relative_name": "Anis Saifi",
+      "house_number": "217/6"
+    },
+    {
+      "name": "Nasrin Bedi",
+      "relative_type": "Husbands",
+      "relative_name": "Nabisab Bedi",
+      "house_number": "217/? Phota",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Shabana Bedi",
+      "relative_type": "Husbands",
+      "relative_name": "Ramzansab Bedi",
+      "house_number": "217/7"
+    },
+    {
+      "name": "Salman Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Nabi Shaikh",
+      "house_number": "217/7"
+    },
+    {
+      "name": "Jafar Havanur",
+      "house_number": "217/1",
+      "age": "30",
+      "gender": "Male"
+    },
+    {
+      "name": "Mohammad Kotimani",
+      "relative_type": "Fathers",
+      "relative_name": "Moule Kotimani",
+      "house_number": "217/2",
+      "age": "33",
+      "gender": "Male"
+    },
+    {
+      "name": "Deapashri Naik Gaonkar",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaram Naik Gaonkar",
+      "house_number": "217/3",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Atroz Anmned Baitari",
+      "relative_type": "Fathers",
+      "relative_name": "Ahamed Sayad",
+      "house_number": "217/4"
+    },
+    {
+      "name": "Sanjay Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Kanta Naik",
+      "house_number": "217/5",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Warisa Shaifi",
+      "relative_type": "Husbands",
+      "relative_name": "Anees Shaiti",
+      "house_number": "217/6",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Zarina Bedi",
+      "relative_type": "Husbands",
+      "relative_name": "Mugatsab Bedi",
+      "house_number": "217/7",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Ramzansab Beck",
+      "relative_type": "Fathers",
+      "relative_name": "Mugatsab Bec",
+      "house_number": "217/7"
+    },
+    {
+      "name": "Meheboob Bedi",
+      "relative_type": "Fathers",
+      "relative_name": "Mugatsab Bed",
+      "house_number": "217/7",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Atnin 8i Labe Shaikh Bedi",
+      "relative_type": "Fathers",
+      "relative_name": "Nabi Shaikh",
+      "house_number": "217/7"
+    },
+    {
+      "name": "t Sadik Havanur",
+      "relative_type": "Fathers",
+      "relative_name": "Abbusaliya Havanur",
+      "house_number": "217/1"
+    },
+    {
+      "name": "t Saddam Katiman",
+      "relative_type": "Fathers",
+      "relative_name": "Maulasaab Kotimani",
+      "house_number": "217/2",
+      "age": "0",
+      "gender": "Male"
+    },
+    {
+      "name": "Shahajadi Sayad",
+      "relative_type": "Husbands",
+      "relative_name": "Ahamed Sayad",
+      "house_number": "217/'4",
+      "age": "70",
+      "gender": "Female"
+    },
+    {
+      "name": "Husnabanu Sayad",
+      "relative_type": "Husbands",
+      "relative_name": "Atroz Sayad",
+      "house_number": "217/4",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Archana Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Sanjay Naik",
+      "house_number": "217/5"
+    },
+    {
+      "name": "Hasina Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Mohammad Shaikh",
+      "house_number": "2917/6",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Babusab Bedi",
+      "relative_type": "Fathers",
+      "relative_name": "Mugatsab Bedi",
+      "house_number": "217/7",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Munna Bedi",
+      "relative_type": "Fathers",
+      "relative_name": "Mugatsab Bedi",
+      "house_number": "2217/7",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanam Rajput",
+      "relative_type": "Husbands",
+      "relative_name": "Shankar Rajput",
+      "house_number": "2197/7"
+    },
+    {
+      "name": "Chand Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Daud Shaikh",
+      "house_number": "3217/8"
+    },
+    {
+      "name": "Mumtaz Beedi",
+      "relative_type": "Husbands",
+      "relative_name": "Ismail Beodi",
+      "house_number": "217/10",
+      "id": "REX0369876"
+    },
+    {
+      "name": "Ayesha Shakh",
+      "relative_type": "Husbands",
+      "relative_name": "Mustag Shaikh",
+      "house_number": "217/10",
+      "age": "30",
+      "gender": "Female",
+      "id": "IEX0456406"
+    },
+    {
+      "name": "Tasleambanu Bidi",
+      "relative_type": "Husbands",
+      "relative_name": "Hason Bich",
+      "house_number": "217/100.",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "Mansur Anmed",
+      "relative_type": "Fathers",
+      "relative_name": "Mohamed Ahmed",
+      "house_number": "217/13",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Nadeem Akram",
+      "relative_type": "Fathers",
+      "relative_name": "Mansur Ahmed",
+      "house_number": "217/13"
+    },
+    {
+      "name": "Ataf Valikar",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Razak Valikar",
+      "house_number": "217/14",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Raziya Modinsa Badigar",
+      "relative_type": "Husbands",
+      "relative_name": "Modinsa Badigar",
+      "house_number": "217/15"
+    },
+    {
+      "name": "Khaja Patel",
+      "house_number": "217/19 Phota",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "SHAHBAAZ PATEL KHAJA PATEL",
+      "relative_type": "Fathers",
+      "relative_name": "KHAJA PATEL PATEL",
+      "house_number": "217/19",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Atat Vhasure",
+      "relative_type": "Fathers",
+      "relative_name": "Salim Vhasure",
+      "house_number": "217/25"
+    },
+    {
+      "name": "Kamal Din",
+      "relative_type": "Fathers",
+      "relative_name": "Jainuth Din",
+      "house_number": "217/10",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Ruwab Ab Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Ramtulls Khan",
+      "house_number": "217/10-B.",
+      "age": "71",
+      "gender": "Male"
+    },
+    {
+      "name": "Sajid Shaikh",
+      "house_number": "t 217/12",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Sufia Begum",
+      "relative_type": "Husbands",
+      "relative_name": "Mansur Ahmed",
+      "house_number": "217/13",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Sayed Bi Hussein Sab Naikoot",
+      "relative_type": "Husbands",
+      "relative_name": "Musseian Sab Naikodi",
+      "house_number": "217/14"
+    },
+    {
+      "name": "Arif Valikar",
+      "relative_type": "Fathers",
+      "relative_name": "Abdut Razak Vatkar",
+      "house_number": "217/34",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "Gaibu Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Gafur Patel",
+      "house_number": "217/18"
+    },
+    {
+      "name": "Alfiya Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Khaja Patel",
+      "house_number": "217/%9"
+    },
+    {
+      "name": "Salen Shaikh:",
+      "relative_type": "Fathers",
+      "relative_name": "Mohamad Shaikh:",
+      "house_number": "217/25",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Aishabi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Hussain Shaikh",
+      "house_number": "2177/4"
+    },
+    {
+      "name": "t Nazima Din",
+      "relative_type": "Husbands",
+      "relative_name": "Karna Dir",
+      "house_number": "217/10",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Salman Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Ruwab All Khe",
+      "house_number": "217/10-B",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Sifa Shaikh",
+      "house_number": "217/12"
+    },
+    {
+      "name": "Waseem Akram Ahmed",
+      "relative_type": "Fathers",
+      "relative_name": "Mansoor Ahmed",
+      "house_number": "217/13",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Allabi Valikar",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Razak Valikar",
+      "house_number": "2217/14"
+    },
+    {
+      "name": "Modinga Badiger",
+      "relative_type": "Fathers",
+      "relative_name": "Bapusa Badiger",
+      "house_number": "217/15",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Nazmin Patel",
+      "relative_type": "Husbands",
+      "relative_name": "Gaibu Patel",
+      "house_number": "217/18",
+      "age": "35",
+      "gender": "Female"
+    },
+    {
+      "name": "Shahbaaz Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Khaja Patel",
+      "house_number": "217/19"
+    },
+    {
+      "name": "Raziyabi Vassure",
+      "relative_type": "Husbands",
+      "relative_name": "Salim Shaikh",
+      "house_number": "217/25"
+    },
+    {
+      "name": "Razmastan Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Saheblal Shaikh",
+      "house_number": "217/A",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Bibjjan Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Razmastan Shaikh",
+      "house_number": "217/A"
+    },
+    {
+      "name": "Yarnanava Natekar",
+      "relative_type": "Husbands",
+      "relative_name": "Saibanna Natekar",
+      "house_number": "217/B"
+    },
+    {
+      "name": "Mohammad Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Mohiddin Shaikh",
+      "house_number": "217/B",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Aisab Navalgund",
+      "relative_type": "Fathers",
+      "relative_name": "Kasimsab Navalgund",
+      "house_number": "217/C",
+      "id": "REX0343671"
+    },
+    {
+      "name": "Afroja Navalgund",
+      "relative_type": "Fathers",
+      "relative_name": "Aisab Navaigund",
+      "house_number": "217/C",
+      "age": "29",
+      "gender": "Female"
+    },
+    {
+      "name": "3 Fakruddin Narguad",
+      "relative_type": "Fathers",
+      "relative_name": "Husensab Nargund",
+      "house_number": "217/D",
+      "age": "89",
+      "gender": "Male"
+    },
+    {
+      "name": "Sugram Bi Sheikh",
+      "relative_type": "Husbands",
+      "relative_name": "Siraj Sheikh",
+      "house_number": "218"
+    },
+    {
+      "name": "Tasieem Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Kadar Shaikh",
+      "house_number": "218 Phota",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "3 Sarnr Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Salam Shaikh",
+      "house_number": "218/17",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Atrin Bi Juned Anmed",
+      "relative_type": "Husbands",
+      "relative_name": "Juned Ahmed",
+      "house_number": "2178/1"
+    },
+    {
+      "name": "Kadarbi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Mohiddin Shaikh",
+      "house_number": "217/B",
+      "id": "HNL1353150"
+    },
+    {
+      "name": "Hussain Staikh",
+      "relative_type": "Fathers",
+      "relative_name": "Mohiddin Shaikh",
+      "house_number": "217/B",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Kumar Natekar",
+      "relative_type": "Fathers",
+      "relative_name": "Saibana Natekar",
+      "house_number": "217/'B"
+    },
+    {
+      "name": "Noorjahanbi Navaigund",
+      "relative_type": "Husbands",
+      "relative_name": "Alisab Navaigund",
+      "house_number": "217/C"
+    },
+    {
+      "name": "Rahimatbi Navaigund",
+      "relative_type": "Fathers",
+      "relative_name": "Alisab Navalgund",
+      "house_number": "217/G",
+      "id": "REX0399739"
+    },
+    {
+      "name": "Lalgab Nargund",
+      "relative_type": "Fathers",
+      "relative_name": "Fakruddin Nargund",
+      "house_number": "217/D",
+      "age": "31",
+      "gender": "Male"
+    },
+    {
+      "name": "Hasina Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Musa Shaikh",
+      "house_number": "218",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Amiroddin Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Abdulla Shaikh",
+      "house_number": "28/1",
+      "age": "74",
+      "gender": "Male"
+    },
+    {
+      "name": "Asifabi Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Amiruddin Shaikh",
+      "house_number": "218/'1",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Azam Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Amiruddin Shaikh",
+      "house_number": "218/1",
+      "age": "28",
+      "gender": "Male"
+    },
+    {
+      "name": "Saibanne Natekar",
+      "relative_type": "Fathers",
+      "relative_name": "Devappa Natekar",
+      "house_number": "217/B",
+      "age": "72",
+      "gender": "Male"
+    },
+    {
+      "name": "Jaibunisea Mohamad Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Hussain Shaikh",
+      "house_number": "217/B",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Sohail Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Hussain Shaikh",
+      "house_number": "217/8",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "ismaisab Navaigund",
+      "relative_type": "Fathers",
+      "relative_name": "Kasimsab Navelgund",
+      "house_number": "217/C",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "ABDUL REHMAN ALISAB",
+      "relative_type": "Fathers",
+      "relative_name": "ALISAB NAVALGUND",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Pyarfan Navalgund",
+      "relative_type": "Fathers",
+      "relative_name": "Alisab Navalgund",
+      "house_number": "217/D",
+      "age": "28",
+      "gender": "Female"
+    },
+    {
+      "name": "Musa Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Siraj Shaikh",
+      "house_number": "218",
+      "age": "54",
+      "gender": "Female"
+    },
+    {
+      "name": "Aishabi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Amiruddin Shaikh",
+      "house_number": "218/1"
+    },
+    {
+      "name": "Juned Ahmed",
+      "relative_type": "Fathers",
+      "relative_name": "Rais Ahmed",
+      "house_number": "218/1",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Diwakar Kande",
+      "relative_type": "Fathers",
+      "relative_name": "Ramchand Kande",
+      "house_number": "218/14",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Deepanjal Kande",
+      "relative_type": "Husbands",
+      "relative_name": "Divwakar Kande",
+      "house_number": "218/14",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Joirunissa Bi 9)",
+      "relative_type": "Fathers",
+      "relative_name": "",
+      "id": "REX0345627"
+    },
+    {
+      "name": "Mubing Khatun,",
+      "relative_type": "Husbands",
+      "relative_name": "Azazaharnad Khan",
+      "house_number": "220",
+      "id": "REX0354399"
+    },
+    {
+      "name": "Shaikh Yusuf Mohamad Ratik",
+      "relative_type": "Fathers",
+      "relative_name": "Shaikh Mohamad Ratik",
+      "house_number": "220"
+    },
+    {
+      "name": "Aame Ahamad",
+      "relative_type": "Fathers",
+      "relative_name": "Azazahamad Khan",
+      "house_number": "220"
+    },
+    {
+      "name": "Hasinabi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Tajak Shakh",
+      "house_number": "220/2",
+      "age": "75",
+      "gender": "Female"
+    },
+    {
+      "name": "Jamir Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Tajak Shaikh",
+      "house_number": "220/2"
+    },
+    {
+      "name": "BIB] SALMAB! Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Jamir Shaikh",
+      "house_number": "220/2 Phota",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "3 Jainabi Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Sharfuddin Shaikh",
+      "house_number": "220/2"
+    },
+    {
+      "name": "Maryam &i Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Mohamed Shaikh",
+      "house_number": "220/3",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "Ruksana Kadari",
+      "relative_type": "Husbands",
+      "relative_name": "Maulana Samsulhak",
+      "house_number": "218/1B"
+    },
+    {
+      "name": "Mohammed Rafiq Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Yusut Shaikh",
+      "house_number": "220",
+      "age": "67",
+      "gender": "Male"
+    },
+    {
+      "name": "Azazahamad Khan.",
+      "relative_type": "Fathers",
+      "relative_name": "Mohemnmad Yakhub Khar",
+      "house_number": "220"
+    },
+    {
+      "name": "Aftab Shakh",
+      "relative_type": "Fathers",
+      "relative_name": "Mohammed Rafique Shelkh",
+      "house_number": "220",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Mullasaheb Malik",
+      "house_number": "20/7"
+    },
+    {
+      "name": "Hasmat Bi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Chandsab Shaikh",
+      "house_number": "220/2",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Khatiabi Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Tajak Shakh",
+      "house_number": "220/2"
+    },
+    {
+      "name": "Masab Bi Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Hamid Sayyed",
+      "house_number": "220/2"
+    },
+    {
+      "name": "Mahejabeen Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Zainodin Shaikh",
+      "house_number": "220/2",
+      "age": "36",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohammad Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Sharfoddin Shaikh",
+      "house_number": "220/3"
+    },
+    {
+      "name": "t Kamal Kadari",
+      "relative_type": "Fathers",
+      "relative_name": "Maulana Kadari",
+      "house_number": "218/18",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Tajbi",
+      "relative_type": "Mothers",
+      "relative_name": "Jaybun Nisabi Shaikh",
+      "house_number": "220",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "t Adam Shah",
+      "relative_type": "Fathers",
+      "relative_name": "Moharnmad Shah",
+      "house_number": "220",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Setwaz Shah",
+      "relative_type": "Husbands",
+      "relative_name": "Adam Shah",
+      "house_number": "220",
+      "age": "27",
+      "gender": "Female"
+    },
+    {
+      "name": "Hifz Mulla",
+      "relative_type": "Fathers",
+      "relative_name": "Malik Mula",
+      "house_number": "2220/1"
+    },
+    {
+      "name": "Khaja Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Tajak Shaikh",
+      "house_number": "220/2",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Zainodin Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Tajak Shaikty",
+      "house_number": "220/2",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Rashidabi Snaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Khaja Shaikh",
+      "house_number": "220/2",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Abdul Karim Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Salim Shaikh",
+      "house_number": "220/2",
+      "age": "34",
+      "gender": "Male"
+    },
+    {
+      "name": "Sabinabi Mulla",
+      "relative_type": "Husbands",
+      "relative_name": "Malik Mulla Mulla",
+      "house_number": "3220/3",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "7 Noor Mohammad Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Malik Mulla Shaikh",
+      "house_number": "220/3"
+    },
+    {
+      "name": "Abdul Sattar Mandake",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Salearn Mandaki",
+      "house_number": "220/5"
+    },
+    {
+      "name": "Javed Sayed",
+      "relative_type": "Fathers",
+      "relative_name": "Shafee Sayed",
+      "house_number": "220/5"
+    },
+    {
+      "name": "Suheb Akthar Mandaki",
+      "relative_type": "Fathers",
+      "relative_name": "Half Ahamed Mandaki",
+      "house_number": "220/5",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Shaban Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Hussain Shaikh",
+      "house_number": "220/7"
+    },
+    {
+      "name": "3 Jarnir Pathan",
+      "relative_type": "Fathers",
+      "relative_name": "lemail Pathan",
+      "house_number": "220/B",
+      "age": "80",
+      "gender": "Male"
+    },
+    {
+      "name": "Sayyad Dangi",
+      "relative_type": "Fathers",
+      "relative_name": "Chandsab Dangi",
+      "house_number": "393"
+    },
+    {
+      "name": "Taslim Dangi",
+      "relative_type": "Husbands",
+      "relative_name": "Sayyad Dangi",
+      "house_number": "393/5/D. Phota",
+      "age": "31",
+      "gender": "Female"
+    },
+    {
+      "name": "Nocrie Shaik",
+      "relative_type": "Mothers",
+      "relative_name": "Mubin Shaik",
+      "house_number": "423"
+    },
+    {
+      "name": "MUSTHEER JAFAR SHAIKH",
+      "relative_type": "Fathers",
+      "relative_name": "JAFAR SHAIKH",
+      "house_number": "tH No 209"
+    },
+    {
+      "name": "Kasam Khatib",
+      "relative_type": "Fathers",
+      "relative_name": "Abdul Khatib",
+      "house_number": "220/5",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Altal Mandaki",
+      "relative_type": "Fathers",
+      "relative_name": "Salim Mandaki",
+      "house_number": "220/5",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Fatima Mandaki",
+      "relative_type": "Husbands",
+      "relative_name": "Abdul Sattar Mandaki",
+      "house_number": "220/5",
+      "age": "35",
+      "gender": "Female"
+    },
+    {
+      "name": "Shankar Rajput",
+      "relative_type": "Fathers",
+      "relative_name": "Sham Rajput",
+      "house_number": "220/7"
+    },
+    {
+      "name": "Kasim Pathan",
+      "relative_type": "Fathers",
+      "relative_name": "Ismail Pathaes",
+      "house_number": "220/8",
+      "age": "68",
+      "gender": "Male"
+    },
+    {
+      "name": "Abdul Kalam Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Ruwab At Khan",
+      "house_number": "391"
+    },
+    {
+      "name": "Mahboob Dang)",
+      "relative_type": "Fathers",
+      "relative_name": "Chandsab Dang",
+      "house_number": "393",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Gulatsha Dangi",
+      "relative_type": "Husbands",
+      "relative_name": "Mahboob Dangi",
+      "house_number": "393/S/D"
+    },
+    {
+      "name": "Nargis Shaik",
+      "relative_type": "Fathers",
+      "relative_name": "Mubin Shaik",
+      "house_number": "423",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Sabahat Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Shamshad Khan",
+      "house_number": "H No 209/'1"
+    },
+    {
+      "name": "Farzana Khatib",
+      "relative_type": "Husbands",
+      "relative_name": "Kasam Khan",
+      "house_number": "220/5"
+    },
+    {
+      "name": "Hasmat Banu Mandak",
+      "relative_type": "Husbands",
+      "relative_name": "Khalil Anmed Mandak",
+      "house_number": "20/5",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Noonan Mandaki",
+      "relative_type": "Husbands",
+      "relative_name": "Ataf Mancati",
+      "house_number": "220/5",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Raziya Bi Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Hussain Shaikh",
+      "house_number": "220/7",
+      "age": "31",
+      "gender": "Female"
+    },
+    {
+      "name": "Kharunbi Pathan",
+      "relative_type": "Husbands",
+      "relative_name": "Kasim Pathan",
+      "house_number": "2220/8"
+    },
+    {
+      "name": "Nazir Ahamad Shaikh Sandhi",
+      "relative_type": "Fathers",
+      "relative_name": "Anwar Shaikh Sandhi",
+      "house_number": "391",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Rajbi Dare",
+      "relative_type": "Husbands",
+      "relative_name": "Chandsab Dangi",
+      "house_number": "393/5/D"
+    },
+    {
+      "name": "Pyarejan Shaikh",
+      "relative_type": "Husbands",
+      "relative_name": "Ibrahim Shaikh",
+      "house_number": "423",
+      "age": "70",
+      "gender": "Female",
+      "id": "REX0473413"
+    },
+    {
+      "name": "Jaiba Pathan",
+      "relative_type": "Husbands",
+      "relative_name": "Salman Pathan",
+      "house_number": "H No 208"
+    },
+    {
+      "name": "Musud Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Azad Khan",
+      "house_number": "3H No 211",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "7 Aliza Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Aptabe Alam Shaikh",
+      "house_number": "H No 212",
+      "age": "19",
+      "gender": "Female"
+    },
+    {
+      "name": "Gautam Soni",
+      "relative_type": "Fathers",
+      "relative_name": "Baburam Soni",
+      "house_number": "H No 213/2",
+      "age": "19",
+      "gender": "Male"
+    },
+    {
+      "name": "MOHAMMAD GAUS AHMED",
+      "relative_type": "Fathers",
+      "relative_name": "AFROZ AHMED BALLARI",
+      "house_number": "H No 217/4"
+    },
+    {
+      "name": "Bismilla Navaigund",
+      "relative_type": "Fathers",
+      "relative_name": "Alisab Navaigund",
+      "house_number": "H No 217/C",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Javed Khan",
+      "relative_type": "Fathers",
+      "relative_name": "Hakikilah Khan",
+      "house_number": "House No.210/2"
+    },
+    {
+      "name": "3 Ravi Bote",
+      "relative_type": "Fathers",
+      "relative_name": "Anand Bote",
+      "house_number": "House No 214/10",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Phujel Ahamad",
+      "relative_type": "Fathers",
+      "relative_name": "Tufae! Anamad",
+      "house_number": "House No217/'10"
+    },
+    {
+      "name": "Abdulrazak Vaikar",
+      "relative_type": "Fathers",
+      "relative_name": "Hazikareem Valikar",
+      "house_number": "House No 217/14 Phota",
+      "age": "47",
+      "gender": "Male"
+    },
+    {
+      "name": "Aftab Alam",
+      "relative_type": "Fathers",
+      "relative_name": "Amajad Alam",
+      "house_number": "House No 220/7",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Sameer Bhagewact",
+      "relative_type": "Fathers",
+      "relative_name": "Saddrudin Bhagowadi",
+      "house_number": "H No 212/T",
+      "age": "20",
+      "gender": "Male",
+      "id": "REK0473330"
+    },
+    {
+      "name": "Arnit Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Hanne Nak",
+      "house_number": "H No 214/12",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "Khatumbi Patel",
+      "relative_type": "Husbands",
+      "relative_name": "Khaja Patel",
+      "house_number": "tH No 217/19",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Shaheed Sayed",
+      "relative_type": "Fathers",
+      "relative_name": "Shafi Sayed",
+      "house_number": "H No 220/5"
+    },
+    {
+      "name": "Minaj Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Akrarn Stsaikh",
+      "house_number": "House No214/4"
+    },
+    {
+      "name": "Ranjita Bote",
+      "relative_type": "Husbands",
+      "relative_name": "Ravi Bote",
+      "house_number": "House No. 214/10"
+    },
+    {
+      "name": "Sama Shah",
+      "relative_type": "Fathers",
+      "relative_name": "Salim Shah",
+      "house_number": "House No 217/10",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Shama Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Gaibu Patel",
+      "house_number": "House No 217/18",
+      "age": "19",
+      "gender": "Female"
+    },
+    {
+      "name": "Saniya Alam",
+      "relative_type": "Fathers",
+      "relative_name": "Amajad Alarn",
+      "house_number": "House No220/7"
+    },
+    {
+      "name": "t Sahil Soni",
+      "relative_type": "Fathers",
+      "relative_name": "Baburam Soni",
+      "house_number": "H No 213/2",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "t DATTAPRASAD DATTARAM NAIK",
+      "relative_type": "Fathers",
+      "relative_name": "DATTARAM NAIK GAONKAR",
+      "house_number": "H No 217/3",
+      "age": "19",
+      "gender": "Male"
+    },
+    {
+      "name": "Shagutta Khaja Patel Patel",
+      "relative_type": "Fathers",
+      "relative_name": "Khaja Patel",
+      "house_number": "H. No 217/19",
+      "age": "19",
+      "gender": "Female"
+    },
+    {
+      "name": "Naziya Banu",
+      "relative_type": "Fathers",
+      "relative_name": "Abubakker Sunti",
+      "house_number": "H No 20/5",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "ZEHAN ZAKIR SAYYED",
+      "relative_type": "Fathers",
+      "relative_name": "ZAKIR MUSSAN SAYYED",
+      "house_number": "House No 214/4"
+    },
+    {
+      "name": "RESHAM NABI BIDI",
+      "relative_type": "Fathers",
+      "relative_name": "NABI BIDI",
+      "house_number": "House No 217/7",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Sahil Tufel Aharnad",
+      "relative_type": "Fathers",
+      "relative_name": "Tufel Anarnad",
+      "house_number": "7 House No 217/10"
+    },
+    {
+      "name": "Rumaan Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Mohamed Shaikh",
+      "house_number": "3 House No 220/3",
+      "age": "19",
+      "gender": "Male"
+    },
+    {
+      "name": "7 SIMARAN SHAIKH",
+      "relative_type": "Fathers",
+      "relative_name": "MOINODDIN SHAIKH",
+      "house_number": "H.No.218",
+      "age": "18",
+      "gender": "Male"
+    },
+    {
+      "name": "Mohamad Sadiq Shaikh Sandi",
+      "relative_type": "Fathers",
+      "relative_name": "Anwar Shaikh Sandi",
+      "house_number": "House No 215",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Ayub Khan Kilecar",
+      "house_number": "House No 217/2",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "SAYNAZ MAQSUL MULL",
+      "relative_type": "Husbands",
+      "relative_name": "MAQDUL MULL",
+      "house_number": "H.NO.213",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Aayan Shaikh",
+      "relative_type": "Fathers",
+      "relative_name": "Abdulla Sheik",
+      "house_number": "House No2t4"
+    },
+    {
+      "name": "t MEHVISH SHAIKH",
+      "relative_type": "Fathers",
+      "relative_name": "KADAR SHAIKH",
+      "house_number": "H no. 218"
+    },
+    {
+      "name": "Naziya Banu Atlab Hussain",
+      "relative_type": "Fathers",
+      "relative_name": "Alatb Hussain Mandakki",
+      "house_number": "House No 220/5"
+    }
+  ],
+  "voter_count": 421
+}

@@ -1,0 +1,5594 @@
+{
+  "common_info": {
+    "assembly_constituency": "20 - PRIOL (GEN)",
+    "main_town_or_village": "VOLVAI",
+    "police_station": "PONDA",
+    "block": "PONDA",
+    "subdivision": "PONDA",
+    "district": "SOUTH GOA",
+    "pin_code": "403401",
+    "polling_station_name": "15 - Government Primary School Volvoi Ponda Goa",
+    "polling_station_type": "Male",
+    "polling_station_address": "Government Primary School Valvoi Ponda Goa",
+    "number_of_electors": "780"
+  },
+  "voters": [
+    {
+      "name": "7 Amrut Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Nanda Volvoikar",
+      "house_number": "79"
+    },
+    {
+      "name": "Nilima Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Shekhar Volvolkar",
+      "house_number": "79",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohana Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaram Phadte",
+      "house_number": "81",
+      "age": "84",
+      "gender": "Female"
+    },
+    {
+      "name": "Rohidas Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Phadte",
+      "house_number": "81"
+    },
+    {
+      "name": "Rupa Phacte",
+      "relative_type": "Husbands",
+      "relative_name": "Umakant Phadte",
+      "house_number": "81",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Ratnaprabha Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Ratnakar Phadte",
+      "house_number": "82/1",
+      "age": "61",
+      "gender": "Female"
+    },
+    {
+      "name": "Rohit Fadte",
+      "relative_type": "Fathers",
+      "relative_name": "Ratnaker Fadte",
+      "house_number": "82/A",
+      "age": "31",
+      "gender": "Male"
+    },
+    {
+      "name": "Nunu Tart",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Tari",
+      "house_number": "83/1",
+      "age": "69",
+      "gender": "Male"
+    },
+    {
+      "name": "Narayan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Tulo Tari",
+      "house_number": "83/2"
+    },
+    {
+      "name": "Shital Surlikar",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaprasad Surlikar",
+      "house_number": "64"
+    },
+    {
+      "name": "Shekhar Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Nanda Volvoikar",
+      "house_number": "79",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Vighnesh VoWwokar",
+      "relative_type": "Fathers",
+      "relative_name": "Amrut VoWokar",
+      "house_number": "79",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Santosh Phacte",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Phadte",
+      "house_number": "81",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Jyotsna Phagte",
+      "relative_type": "Husbands",
+      "relative_name": "Santosh Phadte",
+      "house_number": "87",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Rushab Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Phadte",
+      "house_number": "1",
+      "age": "28",
+      "gender": "Male"
+    },
+    {
+      "name": "Nikanth Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Phadte",
+      "house_number": "82/2"
+    },
+    {
+      "name": "Teja Tan",
+      "house_number": "83"
+    },
+    {
+      "name": "Prashanti Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Nunu Tari",
+      "house_number": "83/4",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "Nirupa Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Tari",
+      "house_number": "83/2"
+    },
+    {
+      "name": "Dattaprasad Surlikar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramdas Surikar",
+      "house_number": "84",
+      "age": "33",
+      "gender": "Male"
+    },
+    {
+      "name": "Maya Valvolkar",
+      "relative_type": "Husbands",
+      "relative_name": "Amrut Valvokar",
+      "house_number": "79",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Shreya Voloker",
+      "relative_type": "Fathers",
+      "relative_name": "Shekhar Volvoikar",
+      "house_number": "79",
+      "age": "19",
+      "gender": "Female"
+    },
+    {
+      "name": "Umakant Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Phadte",
+      "house_number": "81"
+    },
+    {
+      "name": "Sharia Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Rohides Phadte",
+      "house_number": "61",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Ratnakar Phi he)",
+      "relative_type": "Fathers",
+      "relative_name": "Puy te"
+    },
+    {
+      "name": "t Chandan Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Phadte",
+      "house_number": "3 62/2",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Nikita Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Nunu Tari",
+      "house_number": "63"
+    },
+    {
+      "name": "Sweeti Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Nunu Tari",
+      "house_number": "83/1",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "Sonali Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Tari",
+      "house_number": "B3/2",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "Baby Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Rarmnath Tari",
+      "house_number": "65"
+    },
+    {
+      "name": "Sanju Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Tari",
+      "house_number": "85"
+    },
+    {
+      "name": "Saraswati Akas Sulbha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Damodar Tari",
+      "house_number": "85/1",
+      "age": "62",
+      "gender": "Female"
+    },
+    {
+      "name": "Divya Tan",
+      "house_number": "85/1",
+      "age": "32",
+      "gender": "Female"
+    },
+    {
+      "name": "Vanita Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Ramdas Phacte",
+      "house_number": "8",
+      "age": "62",
+      "gender": "Female"
+    },
+    {
+      "name": "Vilasin\u00e9 Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ganpat Tari",
+      "house_number": "88",
+      "age": "78",
+      "gender": "Female",
+      "id": "HNL1390699"
+    },
+    {
+      "name": "Neeta Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ashok Tari",
+      "house_number": "89",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Vijay Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dasharath Phadte",
+      "house_number": "90"
+    },
+    {
+      "name": "Sanjay Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dasharath Phadte",
+      "house_number": "90 Phota",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Devesh Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Vijay Phadte",
+      "house_number": "90"
+    },
+    {
+      "name": "Snehai Bhosale",
+      "relative_type": "Husbands",
+      "relative_name": "Somnath Bhosale",
+      "house_number": "91",
+      "age": "64",
+      "gender": "Female"
+    },
+    {
+      "name": "Kanchan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Rarnnath Tan",
+      "house_number": "85"
+    },
+    {
+      "name": "Nagesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Atchut Tari",
+      "house_number": "85/1",
+      "age": "61",
+      "gender": "Male"
+    },
+    {
+      "name": "Shidhatraya Tan",
+      "house_number": "85/1",
+      "age": "31",
+      "gender": "Male"
+    },
+    {
+      "name": "Vinay Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Ramdas Phacte",
+      "house_number": "86"
+    },
+    {
+      "name": "Niresh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ganpat Tari",
+      "house_number": "88"
+    },
+    {
+      "name": "Laxnikant Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Anand Volvoikar",
+      "house_number": "89",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanjana Fadte",
+      "relative_type": "Husbands",
+      "relative_name": "Sanjai Fadte",
+      "house_number": "90",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Ujwala Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Vijay Phacte",
+      "house_number": "90"
+    },
+    {
+      "name": "Gangavati Bhosale",
+      "relative_type": "Husbands",
+      "relative_name": "Narcinva Bhosale",
+      "house_number": "91"
+    },
+    {
+      "name": "Dipshree Bhosale",
+      "relative_type": "Husbands",
+      "relative_name": "Dinesh Bhosaie",
+      "house_number": "91"
+    },
+    {
+      "name": "t Damodar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Atchut Tari",
+      "house_number": "BS/'1"
+    },
+    {
+      "name": "t Narnita Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Nagesh Tan",
+      "house_number": "85/1",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Siddhi Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Nagesh Tari",
+      "house_number": "85/1"
+    },
+    {
+      "name": "Sulabh Walavalker",
+      "relative_type": "Husbands",
+      "relative_name": "Digambar Welavalkar",
+      "house_number": "67",
+      "age": "70",
+      "gender": "Female"
+    },
+    {
+      "name": "Ashok Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Tari",
+      "house_number": "89",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Anchal Tati",
+      "relative_type": "Fathers",
+      "relative_name": "Ashok Tan",
+      "house_number": "89",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Nalini Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dasharath Phadte",
+      "house_number": "7 90",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Vidhal Phacte",
+      "relative_type": "Fathers",
+      "relative_name": "Viay Phadte",
+      "house_number": "90",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Dinesh Bhosale",
+      "relative_type": "Fathers",
+      "relative_name": "Narcinva Bhosalie",
+      "house_number": "97",
+      "age": "62",
+      "gender": "Male"
+    },
+    {
+      "name": "Neehal Bhosale",
+      "relative_type": "Fathers",
+      "relative_name": "Somnath Bhosale",
+      "house_number": "97",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Sagar Bhosale",
+      "relative_type": "Fathers",
+      "relative_name": "Somnath Bhosale",
+      "house_number": "91"
+    },
+    {
+      "name": "Shivanath Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Rameishna Tari",
+      "house_number": "94"
+    },
+    {
+      "name": "Sheetal Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Shivanath Tan",
+      "house_number": "94",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Nimisha Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Nishakant Tart",
+      "house_number": "94",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Amit Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Ravindra Volvokar",
+      "house_number": "96"
+    },
+    {
+      "name": "Ranjana Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaram Tari",
+      "house_number": "97",
+      "age": "65",
+      "gender": "Female"
+    },
+    {
+      "name": "Poorva Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Madhusudan Tari",
+      "house_number": "98"
+    },
+    {
+      "name": "Sarita Morje",
+      "relative_type": "Husbands",
+      "relative_name": "Pramod Moris",
+      "house_number": "243 Phota",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Shivam Morjekar",
+      "relative_type": "Fathers",
+      "relative_name": "Prarnod Naik",
+      "house_number": "243"
+    },
+    {
+      "name": "Divya Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Deepak Tari",
+      "house_number": "248"
+    },
+    {
+      "name": "Dhanesh Bhosale",
+      "relative_type": "Fathers",
+      "relative_name": "Somnath Bhosale",
+      "house_number": "91"
+    },
+    {
+      "name": "Mahadev Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ramkrishna Tae",
+      "house_number": "94",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Tukaram Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Rambkrishna Tat",
+      "house_number": "94",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Rekha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ravindra Tari",
+      "house_number": "96"
+    },
+    {
+      "name": "Supriya Valvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Ravindra Valvoikar",
+      "house_number": "96"
+    },
+    {
+      "name": "Urmila Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Bajray Tari",
+      "house_number": "97",
+      "age": "65",
+      "gender": "Female"
+    },
+    {
+      "name": "Laxman More",
+      "relative_type": "Fathers",
+      "relative_name": "Arjun Morje",
+      "house_number": "243"
+    },
+    {
+      "name": "Arjun Morjekar",
+      "relative_type": "Fathers",
+      "relative_name": "Pramod Morjekar",
+      "house_number": "243",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Bhanumati Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Atchut Tari",
+      "house_number": "248"
+    },
+    {
+      "name": "Sunil Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Jaidev Tari",
+      "house_number": "261"
+    },
+    {
+      "name": "Taramati Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Harichandra Tari",
+      "house_number": "292",
+      "age": "84",
+      "gender": "Female"
+    },
+    {
+      "name": "t Pratul Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Mahedew Tari",
+      "house_number": "594",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Xaila Tari",
+      "house_number": "94"
+    },
+    {
+      "name": "Ratnaprabha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ratnaker Tari",
+      "house_number": "95",
+      "age": "70",
+      "gender": "Female"
+    },
+    {
+      "name": "Sukhada Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Ratnakar Volvoikar",
+      "house_number": "96",
+      "age": "31",
+      "gender": "Female"
+    },
+    {
+      "name": "t Madnusudan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Bapi Tari",
+      "house_number": "98",
+      "age": "47",
+      "gender": "Male"
+    },
+    {
+      "name": "Pramod Mone",
+      "relative_type": "Fathers",
+      "relative_name": "Arjun Morje",
+      "house_number": "7243",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Pratikshe Morjeker",
+      "relative_type": "Fathers",
+      "relative_name": "Pramod Monekar",
+      "house_number": "243",
+      "age": "28",
+      "gender": "Female"
+    },
+    {
+      "name": "Deepak Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Atchut Tari",
+      "house_number": "248"
+    },
+    {
+      "name": "Suvidhe Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Sunil Tari",
+      "house_number": "261",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Shashidhar Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Narcinva Tari",
+      "house_number": "288",
+      "age": "82",
+      "gender": "Male"
+    },
+    {
+      "name": "Radivke Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Anand Volvoikar",
+      "house_number": "288",
+      "age": "62",
+      "gender": "Female"
+    },
+    {
+      "name": "Saumya Volvolkar",
+      "relative_type": "Husbands",
+      "relative_name": "Somnath Volvoikar",
+      "house_number": "288"
+    },
+    {
+      "name": "Padmayati Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Shashidhar Volvoikar",
+      "house_number": "288",
+      "age": "72",
+      "gender": "Female"
+    },
+    {
+      "name": "Somnath Velvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashidhar Tari",
+      "house_number": "286"
+    },
+    {
+      "name": "Sall Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashidhar Volvoikar",
+      "house_number": "288",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Anand Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Narsinha Volvoikar",
+      "house_number": "288"
+    },
+    {
+      "name": "t Nitin Valvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashidhar Valvoikar",
+      "house_number": "268",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Siddharth Votvokar",
+      "relative_type": "Fathers",
+      "relative_name": "Anand Volvoikar",
+      "house_number": "288",
+      "age": "27",
+      "gender": "Male"
+    },
+    {
+      "name": "Nilkanth Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Madhukar Shet",
+      "house_number": "54"
+    },
+    {
+      "name": "Pandurang Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Tari",
+      "house_number": "55."
+    },
+    {
+      "name": "Pradnya Tari",
+      "house_number": "85",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Shubhangi Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Shrikant Tan",
+      "house_number": "55/1"
+    },
+    {
+      "name": "Dhananjaya Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Tari",
+      "house_number": "55/2"
+    },
+    {
+      "name": "Hemchandra Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Tari",
+      "house_number": "55/3.",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Pravesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Hemchandra Tari",
+      "house_number": "55/3"
+    },
+    {
+      "name": "Mita Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Madan Tari",
+      "house_number": "56/4",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Sumitra Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Sidhdarth Shet",
+      "house_number": "56"
+    },
+    {
+      "name": "Bhushan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Tari",
+      "house_number": "64/1",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Namrata Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Nikanth Shet",
+      "house_number": "54"
+    },
+    {
+      "name": "Aparna Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Pandurang Tari",
+      "house_number": "55",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Prachite Tari Yolvodkar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Tari Volvoikar",
+      "house_number": "5",
+      "age": "27",
+      "gender": "Female"
+    },
+    {
+      "name": "Ratish Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Shrikant Tart",
+      "house_number": "55/1"
+    },
+    {
+      "name": "Dipti Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Dhananjay Tari",
+      "house_number": "65/'2"
+    },
+    {
+      "name": "Harshada Tar\\",
+      "relative_type": "Husbands",
+      "relative_name": "Hemchandra Tari",
+      "house_number": "55/3",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Yojana Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Purushottam Tari",
+      "house_number": "56/4",
+      "age": "74",
+      "gender": "Female"
+    },
+    {
+      "name": "Kusuen Alas Ratnabal Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Ratnakar Shet",
+      "house_number": "56"
+    },
+    {
+      "name": "Vinayak Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Yeshwant Tari",
+      "house_number": "64/1"
+    },
+    {
+      "name": "Kiran Tax",
+      "relative_type": "Husbands",
+      "relative_name": "Bhushan Tan",
+      "house_number": "64/1",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Vaishnavi Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Nikanth Shet",
+      "house_number": "54"
+    },
+    {
+      "name": "Prakalp Tari Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Tari Volvoikar",
+      "house_number": "55",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "t Shrikant Tari",
+      "house_number": "5/1",
+      "age": "82",
+      "gender": "Male"
+    },
+    {
+      "name": "Riya Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ratish Tari",
+      "house_number": "56/1",
+      "age": "49",
+      "gender": "Female",
+      "id": "REX0357806"
+    },
+    {
+      "name": "Prayag Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Dhananjay Tari",
+      "house_number": "55/2"
+    },
+    {
+      "name": "Prathamesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Hemchandra Tari",
+      "house_number": "55/3",
+      "age": "28",
+      "gender": "Male"
+    },
+    {
+      "name": "Madan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Purushottam Tari",
+      "house_number": "55/4",
+      "age": "47",
+      "gender": "Male"
+    },
+    {
+      "name": "Ravirai Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Ratnakar Shet",
+      "house_number": "356",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Viniya Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Vinayak Tari",
+      "house_number": "64/7"
+    },
+    {
+      "name": "Dewrat Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Tari",
+      "house_number": "64/1",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Nagesh Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Tari",
+      "house_number": "64/2",
+      "age": "90",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanjay Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Nagesh Tar",
+      "house_number": "64/2"
+    },
+    {
+      "name": "Gunvanti Gad",
+      "relative_type": "Husbands",
+      "relative_name": "Rarmkrishna Gad",
+      "house_number": "45",
+      "age": "82",
+      "gender": "Female"
+    },
+    {
+      "name": "Lumo Tari ou",
+      "relative_type": "Fathers",
+      "relative_name": "Dag ir"
+    },
+    {
+      "name": "Devashish Tari",
+      "house_number": "66"
+    },
+    {
+      "name": "Pankal Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Kamelakant Volvolkar",
+      "house_number": "67",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Aparna Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Rajendra Valokar",
+      "house_number": "69",
+      "age": "57",
+      "gender": "Female"
+    },
+    {
+      "name": "Sanjana Walwaikar",
+      "relative_type": "Husbands",
+      "relative_name": "SANDEEP WALWAIKAR",
+      "house_number": "69 Phota",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Mahesh Bhosle",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Bhosle",
+      "house_number": "70"
+    },
+    {
+      "name": "Nisha Bhosale",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Bhosale",
+      "house_number": "70"
+    },
+    {
+      "name": "Devaki Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Nagesh Tari",
+      "house_number": "64/2"
+    },
+    {
+      "name": "Nisha Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Nagesh Tari",
+      "house_number": "64/2",
+      "age": "51",
+      "gender": "Female",
+      "id": "REX0427196"
+    },
+    {
+      "name": "Anil Gad",
+      "relative_type": "Fathers",
+      "relative_name": "Ramkrishna Gad",
+      "house_number": "65",
+      "age": "68",
+      "gender": "Male"
+    },
+    {
+      "name": "Nayani Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Lumo Tar!",
+      "house_number": "66",
+      "age": "57",
+      "gender": "Female"
+    },
+    {
+      "name": "Ramabai Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Kamalakart Volvodkier",
+      "house_number": "67"
+    },
+    {
+      "name": "Rajendra Volwoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Arjun Volvolkar",
+      "house_number": "69",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Satish Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Arjun Volvoikar",
+      "house_number": "69",
+      "age": "57",
+      "gender": "Male"
+    },
+    {
+      "name": "Sallee Walwaiker",
+      "relative_type": "Fathers",
+      "relative_name": "Sandeep Walwaiker",
+      "house_number": "69",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Ramj Bhosle",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Bhosie",
+      "house_number": "70",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Rajendra Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Tari",
+      "house_number": "72"
+    },
+    {
+      "name": "t Amrut Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Nagesh Tari",
+      "house_number": "64/2",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "t Amrita Tari Volwoiker",
+      "relative_type": "Husbands",
+      "relative_name": "Amrut Tari Volvoker",
+      "house_number": "64/B",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "t Digambar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Damodar Tari",
+      "house_number": "65"
+    },
+    {
+      "name": "Disha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Digambar Tan",
+      "house_number": "66",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Pritarn Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Pankaj Volvokar",
+      "house_number": "67"
+    },
+    {
+      "name": "Sandeep Walwaikar",
+      "relative_type": "Fathers",
+      "relative_name": "Arjun Volvolkar",
+      "house_number": "69"
+    },
+    {
+      "name": "Amita Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Satish Volvolkar",
+      "house_number": "69"
+    },
+    {
+      "name": "Prashta Bhosle",
+      "relative_type": "Husbands",
+      "relative_name": "Pandurang Bhosle",
+      "house_number": "70",
+      "age": "74",
+      "gender": "Female"
+    },
+    {
+      "name": "Dhanvi Bhosle",
+      "relative_type": "Husbands",
+      "relative_name": "Mahesh Bhosle",
+      "house_number": "70",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Veunda Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Rajendra Tart",
+      "house_number": "72",
+      "age": "54",
+      "gender": "Female"
+    },
+    {
+      "name": "Pandurang Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Stridhar Phadte",
+      "house_number": "74",
+      "age": "80",
+      "gender": "Male"
+    },
+    {
+      "name": "Sar Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Prakash Phadte",
+      "house_number": "74",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Gaurisha Phadte",
+      "house_number": "74"
+    },
+    {
+      "name": "Nitin Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Rameshwar Shet",
+      "house_number": "76",
+      "age": "45",
+      "gender": "Male",
+      "id": "FEX0242628"
+    },
+    {
+      "name": "Sumati Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Chandrakant Shet",
+      "house_number": "74/1"
+    },
+    {
+      "name": "Sunita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Keshav Shet",
+      "house_number": "76/1",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Sanw Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Sanket Snet",
+      "house_number": "741"
+    },
+    {
+      "name": "Laximi Bhosle",
+      "relative_type": "Husbands",
+      "relative_name": "Mukund Shosie",
+      "house_number": "77",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Lingeshwar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Babai Tari",
+      "house_number": "78",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Baikriahna Bhata",
+      "relative_type": "Fathers",
+      "relative_name": "Digambar Bhata",
+      "house_number": "90"
+    },
+    {
+      "name": "Janaki Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Pandurang Phadte",
+      "house_number": "74",
+      "age": "71",
+      "gender": "Female"
+    },
+    {
+      "name": "Shamsundar Fadte",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Fadte",
+      "house_number": "74"
+    },
+    {
+      "name": "Dipali Facte",
+      "relative_type": "Fathers",
+      "relative_name": "Shamsundar Fadte",
+      "house_number": "74",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Chandrakant Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Shet",
+      "house_number": "76/1"
+    },
+    {
+      "name": "Kalind! Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Kaidas Shet",
+      "house_number": "76/1"
+    },
+    {
+      "name": "Suchita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Damodar Shet",
+      "house_number": "76/1",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Rinky Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Daenodar Shet",
+      "house_number": "76/7"
+    },
+    {
+      "name": "Anandi Tai ou",
+      "relative_type": "Husbands",
+      "relative_name": ""
+    },
+    {
+      "name": "Bharati Bhata",
+      "relative_type": "Husbands",
+      "relative_name": "Digambar Bhata.",
+      "house_number": "90"
+    },
+    {
+      "name": "Madhukar Tart",
+      "relative_type": "Fathers",
+      "relative_name": "Govind Tari",
+      "house_number": "257"
+    },
+    {
+      "name": "Charudatta Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Phadte",
+      "house_number": "74",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Sheetal Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Sami Phadte",
+      "house_number": "74",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "t Sachi Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Lingestwar Tari",
+      "house_number": "75",
+      "id": "FEX0492567"
+    },
+    {
+      "name": "Kaidas Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Shet",
+      "house_number": "76/1"
+    },
+    {
+      "name": "Damodar Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Stet",
+      "house_number": "76/1",
+      "age": "57",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanket Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Shet",
+      "house_number": "76/1",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Kanti Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Rameshwar Shet",
+      "house_number": "76/2"
+    },
+    {
+      "name": "Ramakant Tar",
+      "relative_type": "Fathers",
+      "relative_name": "Babai Tan",
+      "house_number": "75",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Digambar Bhata",
+      "relative_type": "Fathers",
+      "relative_name": "Balkrishna Bhata",
+      "house_number": "90",
+      "age": "57",
+      "gender": "Male"
+    },
+    {
+      "name": "Suhasini Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Madhukar Tari",
+      "age": "79",
+      "gender": "Female"
+    },
+    {
+      "name": "VINAYAK TARI",
+      "relative_type": "Fathers",
+      "relative_name": "Madhukar Tari",
+      "house_number": "257",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Madhav Bhat",
+      "relative_type": "Fathers",
+      "relative_name": "Nagesh Bhat",
+      "house_number": "336",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Parvati Gad",
+      "relative_type": "Husbands",
+      "relative_name": "Satchit Gad",
+      "house_number": "258"
+    },
+    {
+      "name": "Arpana Bhat",
+      "relative_type": "Husbands",
+      "relative_name": "Madnav Bhat",
+      "house_number": "336",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "t Madan Gad",
+      "relative_type": "Fathers",
+      "relative_name": "Satchit Gad",
+      "house_number": "258",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Damodar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Lumo Tari",
+      "house_number": "66",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Shankar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Govind Tari",
+      "house_number": "92",
+      "age": "67",
+      "gender": "Male"
+    },
+    {
+      "name": "Arya Volvolker",
+      "relative_type": "Husbands",
+      "relative_name": "Ami Voloker",
+      "house_number": "96",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "Reshmal Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Ratish Volvoikar",
+      "house_number": "100",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Saili Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Surendra Volvaikar",
+      "house_number": "100"
+    },
+    {
+      "name": "3 Riyank Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Ratish Volvokkar",
+      "house_number": "100",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Suraj Volvoikar",
+      "house_number": "101",
+      "id": "HNL6949069"
+    },
+    {
+      "name": "Dipti Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Damodar Volvoikar",
+      "house_number": "101/1",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Maya Volvolkar",
+      "relative_type": "Husbands",
+      "relative_name": "Deepak Volvoikar",
+      "house_number": "102"
+    },
+    {
+      "name": "Prashant Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Phadte",
+      "house_number": "103"
+    },
+    {
+      "name": "Ashita Fadte",
+      "relative_type": "Husbands",
+      "relative_name": "Rohit Fadte",
+      "house_number": "62/4",
+      "age": "32",
+      "gender": "Female"
+    },
+    {
+      "name": "Gauri Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Shankar Tari",
+      "house_number": "92",
+      "age": "61",
+      "gender": "Female"
+    },
+    {
+      "name": "Surendra Volwolkar",
+      "relative_type": "Mothers",
+      "relative_name": "Yamini Volvoikar",
+      "house_number": "100",
+      "age": "67",
+      "gender": "Male"
+    },
+    {
+      "name": "Pushpali Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Prasad Volvolker",
+      "house_number": "100"
+    },
+    {
+      "name": "Pratik Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Pradip Volvoikar",
+      "house_number": "100"
+    },
+    {
+      "name": "Prajal Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Pradip Volvolkar",
+      "house_number": "100",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Darnodar Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Volvokar",
+      "house_number": "101/1",
+      "age": "57",
+      "gender": "Male"
+    },
+    {
+      "name": "Shruti Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Shivanand Volvoikar",
+      "house_number": "101/1"
+    },
+    {
+      "name": "Tej Volvodker",
+      "relative_type": "Fathers",
+      "relative_name": "Deepak Volvoiker",
+      "house_number": "102",
+      "age": "19",
+      "gender": "Male"
+    },
+    {
+      "name": "Laximikant Halarnakar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Halarnakear",
+      "house_number": "103/1",
+      "age": "69",
+      "gender": "Male"
+    },
+    {
+      "name": "t Hrushikesh Bhonsle",
+      "relative_type": "Fathers",
+      "relative_name": "Dinesh Bhonsle",
+      "house_number": "91",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "t Gauresh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Shanker Tari",
+      "house_number": "592",
+      "age": "33",
+      "gender": "Male"
+    },
+    {
+      "name": "Swapnali Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Surendra Volvoikar",
+      "house_number": "100"
+    },
+    {
+      "name": "Pranjal Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Pradip Vololkar",
+      "house_number": "100",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Savari Volvokar",
+      "relative_type": "Fathers",
+      "relative_name": "Surendra Volwoikar",
+      "house_number": "100",
+      "age": "26",
+      "gender": "Female"
+    },
+    {
+      "name": "Sulochana Voloikar",
+      "relative_type": "Husbands",
+      "relative_name": "Dilip Volvolkar",
+      "house_number": "101",
+      "age": "71",
+      "gender": "Female"
+    },
+    {
+      "name": "Shivanand Volwoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Voloikar",
+      "house_number": "101/1",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Deepak VoWwokar",
+      "relative_type": "Fathers",
+      "relative_name": "Sitaram Volokar",
+      "house_number": "102",
+      "age": "86",
+      "gender": "Male"
+    },
+    {
+      "name": "Suvama Phacte",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Phadte",
+      "house_number": "103",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Prabhastwee Halarankar",
+      "relative_type": "Husbands",
+      "relative_name": "Laximikant Halarankar",
+      "house_number": "103/1"
+    },
+    {
+      "name": "7 Apama Halamkar",
+      "relative_type": "Fathers",
+      "relative_name": "Laximikant Halarnakar",
+      "house_number": "103/1",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "Amay Halarnkar",
+      "relative_type": "Fathers",
+      "relative_name": "Laximikant Halamkar",
+      "house_number": "103/1"
+    },
+    {
+      "name": "Vaishal Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Tari",
+      "house_number": "104",
+      "age": "69",
+      "gender": "Female"
+    },
+    {
+      "name": "Omkar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Tari",
+      "house_number": "104"
+    },
+    {
+      "name": "Sahil Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Tari",
+      "house_number": "104"
+    },
+    {
+      "name": "Astwweta Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ghanashyam Tari",
+      "house_number": "104",
+      "age": "27",
+      "gender": "Female"
+    },
+    {
+      "name": "Yarnini Tar)",
+      "relative_type": "Fathers",
+      "relative_name": "Saju Tari",
+      "house_number": "105"
+    },
+    {
+      "name": "Uday Ramdas Tari Volcikar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramdas Tari Voloikar",
+      "house_number": "106 Phota"
+    },
+    {
+      "name": "Mangalavati Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Vinayak Tari",
+      "house_number": "107",
+      "age": "85",
+      "gender": "Female"
+    },
+    {
+      "name": "Vinayak Venguriekar",
+      "relative_type": "Fathers",
+      "relative_name": "Audumbar Venguriekar",
+      "house_number": "107"
+    },
+    {
+      "name": "Ankita Halarmnkar",
+      "relative_type": "Fathers",
+      "relative_name": "Laxmikant Halarnkar",
+      "house_number": "103/1"
+    },
+    {
+      "name": "Ramesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Gownd Tari",
+      "house_number": "104",
+      "age": "75",
+      "gender": "Male"
+    },
+    {
+      "name": "Jyoti Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ghanashyam Tari",
+      "house_number": "104"
+    },
+    {
+      "name": "Sneha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Gauresh Tari",
+      "house_number": "104"
+    },
+    {
+      "name": "Devika Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Sati Tari",
+      "house_number": "104",
+      "age": "26",
+      "gender": "Female"
+    },
+    {
+      "name": "Athary Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ghanashyam Tan",
+      "house_number": "104",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Vimal Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Ramdas Tari",
+      "house_number": "106",
+      "age": "61",
+      "gender": "Female"
+    },
+    {
+      "name": "Urmila Tari Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Uday Tari Volvolkar",
+      "house_number": "106",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Arati Venguriekar",
+      "house_number": "107"
+    },
+    {
+      "name": "Mahesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Tari",
+      "house_number": "107"
+    },
+    {
+      "name": "Akshay Halarnkar",
+      "relative_type": "Fathers",
+      "relative_name": "Laximikant Halamkar",
+      "age": "32",
+      "gender": "Male",
+      "id": "HNL0030015"
+    },
+    {
+      "name": "t Reshma Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ramesh Tari",
+      "house_number": "104",
+      "age": "72",
+      "gender": "Female"
+    },
+    {
+      "name": "Gaurash Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Tari",
+      "house_number": "104",
+      "age": "39",
+      "gender": "Male"
+    },
+    {
+      "name": "Nivedita Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Omkar Tari",
+      "house_number": "104",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Aditya Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Tari",
+      "house_number": "104",
+      "age": "28",
+      "gender": "Male"
+    },
+    {
+      "name": "t Manohar Tart",
+      "relative_type": "Fathers",
+      "relative_name": "Saju Tari",
+      "house_number": "105",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Sujata Tan",
+      "relative_type": "Husbands",
+      "relative_name": "Shivaji Tari",
+      "house_number": "106",
+      "age": "54",
+      "gender": "Female"
+    },
+    {
+      "name": "Khushbu Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Shivaji Tari",
+      "house_number": "106"
+    },
+    {
+      "name": "Madhusudan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Tari",
+      "house_number": "107",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Leenta Tan",
+      "relative_type": "Husbands",
+      "relative_name": "Madhusudan Tari",
+      "house_number": "107",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Priya Venguriekar",
+      "relative_type": "Husbands",
+      "relative_name": "Chandan Venguriekar",
+      "house_number": "107"
+    },
+    {
+      "name": "Anjali Vengurlekar",
+      "relative_type": "Husbands",
+      "relative_name": "Vinayak Vengurlekar",
+      "house_number": "107",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Mohini Vengurekar",
+      "relative_type": "Husbands",
+      "relative_name": "Vishvesh Venguriekar",
+      "house_number": "107",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Strey Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Madhusudan Tan",
+      "house_number": "107",
+      "age": "21",
+      "gender": "Male",
+      "id": "INL1392125"
+    },
+    {
+      "name": "Ramigishna. D",
+      "relative_type": "Fathers",
+      "relative_name": "Vai te",
+      "id": "HNL1391473"
+    },
+    {
+      "name": "Dilesh Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Fodte",
+      "house_number": "108",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Swara Girap",
+      "relative_type": "Husbands",
+      "relative_name": "Sagar Girap",
+      "house_number": "108",
+      "id": "INL1391077"
+    },
+    {
+      "name": "Manisha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Mahadey Tari",
+      "house_number": "109",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Sandhya Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Satyavjay Tari",
+      "house_number": "111",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Surendra Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Volvoikar",
+      "house_number": "5112 Phota"
+    },
+    {
+      "name": "Hemant Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Tan",
+      "house_number": "107",
+      "age": "49",
+      "gender": "Male"
+    },
+    {
+      "name": "Sarla Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Mahesh Tari",
+      "house_number": "107",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Hetal Tan",
+      "relative_type": "Husbands",
+      "relative_name": "Mernant Tari",
+      "house_number": "107",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "Shrungi Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Madhusudan Tari",
+      "house_number": "107"
+    },
+    {
+      "name": "Parvati Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Sudhakar Phadte:",
+      "house_number": "108",
+      "age": "64",
+      "gender": "Female",
+      "id": "REX0330290"
+    },
+    {
+      "name": "Sagar Girap",
+      "relative_type": "Fathers",
+      "relative_name": "Jaganath Girap",
+      "house_number": "108",
+      "age": "37",
+      "gender": "Male"
+    },
+    {
+      "name": "Mahadev Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Tari",
+      "house_number": "109"
+    },
+    {
+      "name": "Mausam Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadao Tari",
+      "house_number": "109",
+      "age": "21",
+      "gender": "Female"
+    },
+    {
+      "name": "Sangita Volvotkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Voloikar",
+      "house_number": "112"
+    },
+    {
+      "name": "Swedha Parab",
+      "relative_type": "Fathers",
+      "relative_name": "Raviu Parab",
+      "house_number": "112",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "t Vivek Venguriekar",
+      "relative_type": "Fathers",
+      "relative_name": "Audumbar Venguriekar",
+      "house_number": "107",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Vishvesh Venguriekar",
+      "relative_type": "Fathers",
+      "relative_name": "Audumbar Vengurieker",
+      "house_number": "107",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Rameshwan Venguiekar",
+      "relative_type": "Husbands",
+      "relative_name": "Vivek Vengulekar",
+      "house_number": "107",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Chandisha Venguriekar",
+      "relative_type": "Fathers",
+      "relative_name": "Chandan Venguriekar",
+      "house_number": "107",
+      "age": "19",
+      "gender": "Female"
+    },
+    {
+      "name": "Jayanti Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Naresh Phadte",
+      "house_number": "108",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "Suraj Fadte",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Fadte",
+      "house_number": "108",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "Sindhu Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Tari",
+      "house_number": "109",
+      "age": "62",
+      "gender": "Female",
+      "id": "INL1391721"
+    },
+    {
+      "name": "Satyavijay Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ramdas Tari",
+      "house_number": "117",
+      "age": "86",
+      "gender": "Male"
+    },
+    {
+      "name": "Mahalaxmi Valvaikar",
+      "relative_type": "Husbands",
+      "relative_name": "Hitendra Valvaikar",
+      "house_number": "112",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Keshav Tar",
+      "relative_type": "Fathers",
+      "relative_name": "Venu Tari",
+      "house_number": "113",
+      "age": "73",
+      "gender": "Male"
+    },
+    {
+      "name": "Rashmi Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Keshav Tari",
+      "house_number": "113",
+      "age": "65",
+      "gender": "Female"
+    },
+    {
+      "name": "Ranjani Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Shivades Tari",
+      "house_number": "113",
+      "age": "58",
+      "gender": "Female"
+    },
+    {
+      "name": "Rameshwani Tar",
+      "relative_type": "Husbands",
+      "relative_name": "Rohidas Tari",
+      "house_number": "113",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Gayatri Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Shivadas Tari",
+      "house_number": "113",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Pranay Tan",
+      "house_number": "113"
+    },
+    {
+      "name": "3 Rasika Tari <2",
+      "relative_type": "Husbands",
+      "relative_name": "Ba an"
+    },
+    {
+      "name": "Keshav Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Tari",
+      "house_number": "114"
+    },
+    {
+      "name": "Snubhada Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Gajanan Tan",
+      "house_number": "114/1 Phota",
+      "age": "59",
+      "gender": "Female"
+    },
+    {
+      "name": "Kruti Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Kedarnath Tari",
+      "house_number": "114/1",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "2 Amit Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ratnakar Tari",
+      "house_number": "115.",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Shivadas Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Venu Tari",
+      "house_number": "113"
+    },
+    {
+      "name": "Ronidas Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Venu Tari",
+      "house_number": "113"
+    },
+    {
+      "name": "Paresh Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Rajaram Volvoikar",
+      "house_number": "113",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Geetesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Tan",
+      "house_number": "113"
+    },
+    {
+      "name": "Maya Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Shivadas Tari",
+      "house_number": "113"
+    },
+    {
+      "name": "Tukararn Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Tan",
+      "house_number": "114"
+    },
+    {
+      "name": "Gajanan Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Tari",
+      "house_number": "114/1"
+    },
+    {
+      "name": "Kalpana Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Kedamath Tari",
+      "house_number": "114/1",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Ratnakar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Kashinath Tari",
+      "house_number": "115"
+    },
+    {
+      "name": "Arpita Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Anish Tan",
+      "house_number": "115",
+      "id": "IEH0242605"
+    },
+    {
+      "name": "t Gajanan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Venu Tari",
+      "house_number": "113",
+      "age": "61",
+      "gender": "Male"
+    },
+    {
+      "name": "t Swati Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Gajanan Tari",
+      "house_number": "113",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Upendra Volvoikar",
+      "house_number": "133",
+      "age": "37",
+      "gender": "Male"
+    },
+    {
+      "name": "Rudraksh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Shvadas Tan",
+      "house_number": "113"
+    },
+    {
+      "name": "Vedanti Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Tari",
+      "house_number": "113",
+      "id": "SES0232397"
+    },
+    {
+      "name": "Kavita Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Tukaram Tari",
+      "house_number": "114",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Kedarnath Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Tari",
+      "house_number": "7114/1",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Krunal Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Tari",
+      "house_number": "114/",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Anish Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Ratnakar Tari",
+      "house_number": "115",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Krishna Margarekar",
+      "relative_type": "Fathers",
+      "relative_name": "Saviaram Manjarekar",
+      "house_number": "116",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Karishma Manjarekar",
+      "relative_type": "Husbands",
+      "relative_name": "Krishna Manjarekar",
+      "house_number": "116"
+    },
+    {
+      "name": "Geeta Vishnu Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Vishnu Anant Tari",
+      "house_number": "117"
+    },
+    {
+      "name": "Akshay Tari",
+      "house_number": "117",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Shobha Volvokar",
+      "relative_type": "Husbands",
+      "relative_name": "Satyavan Volvokar",
+      "house_number": "119",
+      "age": "63",
+      "gender": "Female",
+      "id": "INL3953169"
+    },
+    {
+      "name": "Swarupa Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Sitaram Tari",
+      "house_number": "122"
+    },
+    {
+      "name": "Premanand Tart",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Tar",
+      "house_number": "123",
+      "age": "62",
+      "gender": "Male"
+    },
+    {
+      "name": "Santosh Tari Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Tari Volvokkar",
+      "house_number": "123"
+    },
+    {
+      "name": "Riya Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Prathamesh Tari",
+      "house_number": "123"
+    },
+    {
+      "name": "Pranam Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Premanand Tari",
+      "house_number": "123"
+    },
+    {
+      "name": "Astwini Tar",
+      "relative_type": "Husbands",
+      "relative_name": "Vishnudas Tan",
+      "house_number": "127"
+    },
+    {
+      "name": "Mayurl Marjarekar",
+      "relative_type": "Fathers",
+      "relative_name": "Krishna Manjarekar",
+      "house_number": "116"
+    },
+    {
+      "name": "Viraj Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Puno Tari",
+      "house_number": "117",
+      "age": "33",
+      "gender": "Male"
+    },
+    {
+      "name": "Priyank Volvokar",
+      "relative_type": "Fathers",
+      "relative_name": "Satyawan Volvolkar",
+      "house_number": "119"
+    },
+    {
+      "name": "Devendra Tar",
+      "relative_type": "Fathers",
+      "relative_name": "Sitaram Tari",
+      "house_number": "122"
+    },
+    {
+      "name": "Prashila Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Premanand Tari",
+      "house_number": "123",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Sangesta Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ani Tari",
+      "house_number": "123",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Prathamesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Kalidas Volvoikar",
+      "house_number": "123"
+    },
+    {
+      "name": "Vishnudas Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Atmaram Tari",
+      "house_number": "127"
+    },
+    {
+      "name": "Leena Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Somnath Tari",
+      "house_number": "127",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "t Pushpa Tar",
+      "relative_type": "Husbands",
+      "relative_name": "Puno Tari",
+      "house_number": "117"
+    },
+    {
+      "name": "Vinisha Vishnu Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Vishnu Anant Tari",
+      "house_number": "117",
+      "age": "32",
+      "gender": "Female"
+    },
+    {
+      "name": "t Art Tan",
+      "relative_type": "Husbands",
+      "relative_name": "Atrna Tari",
+      "house_number": "118"
+    },
+    {
+      "name": "Sitaram Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Namdev Tart",
+      "house_number": "122"
+    },
+    {
+      "name": "Saloni Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Sitaram Tari",
+      "house_number": "122"
+    },
+    {
+      "name": "Ani Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Tari",
+      "house_number": "123",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Kunda Tan Volvacikar",
+      "relative_type": "Husbands",
+      "relative_name": "Santosh Tari Volvaoikar",
+      "house_number": "123",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Kunst Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Kalidas Tar",
+      "house_number": "123",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Somnath Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Atmaram Tari",
+      "house_number": "127",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Vinayak Fadte",
+      "relative_type": "Fathers",
+      "relative_name": "Vaman Fadte",
+      "house_number": "128",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Vidisha Fadte",
+      "relative_type": "Husbands",
+      "relative_name": "Vinayak Fadte",
+      "house_number": "128",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Pravin Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Tari",
+      "house_number": "129",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Rukhamini Tan",
+      "relative_type": "Husbands",
+      "relative_name": "Vithal Tart",
+      "house_number": "129",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Sanghavi Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Sandip Tari",
+      "house_number": "130",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Anay Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Stsantaram Tari",
+      "house_number": "1324/2"
+    },
+    {
+      "name": "Prakash Bhandiye",
+      "relative_type": "Fathers",
+      "relative_name": "Shambhu Bhandiye",
+      "house_number": "143",
+      "age": "82",
+      "gender": "Male"
+    },
+    {
+      "name": "Sagunbai Bhandiye Sinai",
+      "relative_type": "Husbands",
+      "relative_name": "Rarnnath Bhandiye Sinai",
+      "house_number": "143/1",
+      "age": "83",
+      "gender": "Female"
+    },
+    {
+      "name": "Parth Sinai Bhandiye",
+      "relative_type": "Fathers",
+      "relative_name": "Vithal Sinai Bhandiye",
+      "house_number": "143/1 Phota",
+      "age": "19",
+      "gender": "Male"
+    },
+    {
+      "name": "3 Ajt Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Namdev Phadte",
+      "house_number": "254"
+    },
+    {
+      "name": "Anushka Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Arun Phadte",
+      "house_number": "254"
+    },
+    {
+      "name": "Vighnesh Fadte",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Facte",
+      "house_number": "128",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Vithal Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Tari",
+      "house_number": "129",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Priyanka Tan",
+      "relative_type": "Husbands",
+      "relative_name": "Pravie Tari",
+      "house_number": "129",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "Sudesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Kamalakant Tari",
+      "house_number": "134/1",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Rupali Halamkar",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Halarnkar",
+      "house_number": "134/2"
+    },
+    {
+      "name": "Milan Bhandiye",
+      "relative_type": "Husbands",
+      "relative_name": "Prakash Bhandiye Sinai",
+      "house_number": "143",
+      "age": "74",
+      "gender": "Female"
+    },
+    {
+      "name": "Vithaldas Bhandiye Sinai",
+      "relative_type": "Fathers",
+      "relative_name": "Rarnkrishna Bhandiye Sinai",
+      "house_number": "143/1",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Harshada Tari Halanker",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Tan Halankear",
+      "house_number": "248"
+    },
+    {
+      "name": "Nita Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Arun Phadte",
+      "house_number": "254",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Rohan Phacte",
+      "relative_type": "Fathers",
+      "relative_name": "Ajit Phadte",
+      "house_number": "254",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "t Premila Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Mulund Tart",
+      "house_number": "129"
+    },
+    {
+      "name": "Niesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Tari",
+      "house_number": "12?",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Nighi Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Nilesh Tari",
+      "age": "37",
+      "gender": "Female"
+    },
+    {
+      "name": "Vaishali Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Sudesh Tari",
+      "house_number": "134/'1",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Saish Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Sadashiv Tari",
+      "house_number": "139"
+    },
+    {
+      "name": "Yashodabai Bhandiye",
+      "relative_type": "Husbands",
+      "relative_name": "Ramkrshna Bhandiye",
+      "house_number": "143/T",
+      "age": "85",
+      "gender": "Female"
+    },
+    {
+      "name": "Saniya Bhandiye Sina\u2019",
+      "relative_type": "Husbands",
+      "relative_name": "Vithaldas Baandiye Sinai",
+      "house_number": "143/'t",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Arun Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Namdev Fadte",
+      "house_number": "254",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Rekha Fadte",
+      "relative_type": "Husbands",
+      "relative_name": "Ajt Fadte",
+      "house_number": "254",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Suganana Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Fatti Tan",
+      "house_number": "255",
+      "age": "74",
+      "gender": "Female"
+    },
+    {
+      "name": "Vishal Tan Volvokar",
+      "relative_type": "Fathers",
+      "relative_name": "Fatti Tan Walvaiker",
+      "house_number": "255",
+      "id": "INL1390673"
+    },
+    {
+      "name": "Raghuvir Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Sawant",
+      "house_number": "259"
+    },
+    {
+      "name": "Audumbar Sawant",
+      "house_number": "259"
+    },
+    {
+      "name": "Mili Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Sunil Tari",
+      "house_number": "2617",
+      "age": "22",
+      "gender": "Female",
+      "id": "REX0475533"
+    },
+    {
+      "name": "Deep Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Damodar Volwoikar",
+      "house_number": "H No 101/71"
+    },
+    {
+      "name": "Veishnaw Tari Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Vishal Tari Volvoikar",
+      "house_number": "255"
+    },
+    {
+      "name": "Mahesh) Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Sawant",
+      "house_number": "259",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Aadit Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Audumber Sawant",
+      "house_number": "259",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Sandip Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Venkatesh Tar!",
+      "house_number": "272",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Shravani Shivanand Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shivanand VoWoikar",
+      "house_number": "H.No. 101/71"
+    },
+    {
+      "name": "t Viraj Tan Volvolkar",
+      "relative_type": "Fathers",
+      "relative_name": "Fatty Tari Volvokkar",
+      "house_number": "255"
+    },
+    {
+      "name": "Kalpana Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Mahesh Sawant",
+      "house_number": "259",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "t Mihir Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Mahesh Sawant",
+      "house_number": "269",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Sandhya Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Sandip Tari",
+      "house_number": "272"
+    },
+    {
+      "name": "Anita Volvorcar",
+      "relative_type": "Husbands",
+      "relative_name": "Ananda Volvoicar",
+      "house_number": "H No 148"
+    },
+    {
+      "name": "7 Deepak Kumtheker",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Kurnthekar",
+      "house_number": "39"
+    },
+    {
+      "name": "Siddali Kumthekar",
+      "relative_type": "Fathers",
+      "relative_name": "Deepak Kumtheker",
+      "house_number": "39",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Surya Naik",
+      "house_number": "42"
+    },
+    {
+      "name": "Sheetal Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Vinod Naik",
+      "house_number": "42",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Jaimala Nak",
+      "relative_type": "Husbands",
+      "relative_name": "Gurudas Naik",
+      "house_number": "43/2",
+      "age": "71",
+      "gender": "Female"
+    },
+    {
+      "name": "Bindiya Khandeparker",
+      "relative_type": "Husbands",
+      "relative_name": "Balknshna Khandeparkar",
+      "house_number": "43/2"
+    },
+    {
+      "name": "Sanjana Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Prashant Naik",
+      "house_number": "43/2"
+    },
+    {
+      "name": "Kashinath Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Naik",
+      "house_number": "44"
+    },
+    {
+      "name": "Devata Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Kashinath Naik",
+      "house_number": "44",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "Dattaprasad Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Venkatesh Naik",
+      "house_number": "44",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Shubhang Kumthekar",
+      "relative_type": "Husbands",
+      "relative_name": "Deepak Kumthekar",
+      "house_number": "39"
+    },
+    {
+      "name": "Bragirathi Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ramkrishna Naik",
+      "house_number": "41",
+      "age": "81",
+      "gender": "Female"
+    },
+    {
+      "name": "Nitin Valvaikar",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Valvaikar",
+      "house_number": "42"
+    },
+    {
+      "name": "Nidhi Nak",
+      "relative_type": "Husbands",
+      "relative_name": "Nain Naik",
+      "house_number": "42"
+    },
+    {
+      "name": "Shankar Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Keshav Naik",
+      "house_number": "43/2",
+      "age": "57",
+      "gender": "Male"
+    },
+    {
+      "name": "Prashant Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Nek",
+      "house_number": "43/2"
+    },
+    {
+      "name": "Sanjv Nak Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Shankar Volvoikar",
+      "house_number": "43/4"
+    },
+    {
+      "name": "Venkatesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Naik",
+      "house_number": "44"
+    },
+    {
+      "name": "Namita Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Namdev Naik",
+      "house_number": "44",
+      "age": "59",
+      "gender": "Female"
+    },
+    {
+      "name": "Rakhi Nek",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaprasad Naik",
+      "house_number": "44",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "t Sidhesh Kumthekar",
+      "relative_type": "Fathers",
+      "relative_name": "Deepak Kumthekar",
+      "house_number": "39"
+    },
+    {
+      "name": "t Pradosh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramakrishna Naik",
+      "house_number": "41",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Asmita Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Surya Naik",
+      "house_number": "2 42",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Sali Surya Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Nak",
+      "house_number": "42",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "Balkrishna Khandeparkar",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Khandeparkar",
+      "house_number": "43/2",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Devanand Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Gurudas Naik",
+      "house_number": "43/2",
+      "age": "47",
+      "gender": "Male"
+    },
+    {
+      "name": "Sangita Naik Volvokar",
+      "relative_type": "Husbands",
+      "relative_name": "Sanjiv Naik Volvoikar",
+      "house_number": "7 43/A,",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Vaijayanti Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Venkatesh Naik"
+    },
+    {
+      "name": "Leela Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Venkatesh Naik",
+      "house_number": "44",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Ratish Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Venkatesh Naik",
+      "house_number": "44"
+    },
+    {
+      "name": "Karishma Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Kashinath Nak",
+      "house_number": "44",
+      "age": "32",
+      "gender": "Female"
+    },
+    {
+      "name": "Santosh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Jagannath Naik",
+      "house_number": "44/1",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Samir Nek",
+      "house_number": "44/1",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Dilip Nak",
+      "relative_type": "Fathers",
+      "relative_name": "Dharmu Naik",
+      "house_number": "45"
+    },
+    {
+      "name": "Deepankar Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Dilip Naik",
+      "house_number": "45"
+    },
+    {
+      "name": "Umakant Bhosle",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Bhosle",
+      "house_number": "47",
+      "age": "81",
+      "gender": "Male"
+    },
+    {
+      "name": "Shama Bhosie",
+      "relative_type": "Husbands",
+      "relative_name": "Shaunak Bhosle",
+      "house_number": "47"
+    },
+    {
+      "name": "Vidhyadhar Bhosle",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Bhosle",
+      "house_number": "47",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "3 Sushma Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ramesh Nak",
+      "house_number": "50/1",
+      "age": "57",
+      "gender": "Female"
+    },
+    {
+      "name": "Neeia Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ravindra Naik",
+      "house_number": "50/1",
+      "age": "51",
+      "gender": "Female",
+      "id": "IEX0342576"
+    },
+    {
+      "name": "Nikita Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Namdey Naik",
+      "house_number": "44"
+    },
+    {
+      "name": "Sunayana Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Santosh Nek",
+      "house_number": "44/1",
+      "age": "55",
+      "gender": "Female",
+      "id": "HNL1390624"
+    },
+    {
+      "name": "Sandhya Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ani Naik",
+      "house_number": "44/2"
+    },
+    {
+      "name": "Sarangi Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Deep Nak",
+      "house_number": "45",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Rami Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Umesh Naik",
+      "house_number": "45"
+    },
+    {
+      "name": "Geeta Bhosie",
+      "relative_type": "Husbands",
+      "relative_name": "Umakant Bhosis",
+      "house_number": "47",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Darnodar Bhosle",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Bhosle",
+      "house_number": "47"
+    },
+    {
+      "name": "Siddhi Bhosle",
+      "relative_type": "Husbands",
+      "relative_name": "Vidhyadhar Bhosle",
+      "house_number": "4?",
+      "age": "34",
+      "gender": "Female"
+    },
+    {
+      "name": "Ravindra Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tukararn Naik",
+      "house_number": "50/7",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Anuya Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Rupesh Naik",
+      "house_number": "60/1",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "t Nikh\u00e9 Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Narmdev Naik",
+      "house_number": "44",
+      "age": "28",
+      "gender": "Male"
+    },
+    {
+      "name": "Niesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Jagannath Naik",
+      "house_number": "44/1",
+      "age": "47",
+      "gender": "Male"
+    },
+    {
+      "name": "Umadew! Nak",
+      "relative_type": "Husbands",
+      "relative_name": "Umesh Naik",
+      "house_number": "45"
+    },
+    {
+      "name": "Urvashi Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Umesh Naik",
+      "house_number": "45",
+      "age": "0",
+      "gender": "Female"
+    },
+    {
+      "name": "Samrudhi Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Deelip Naik",
+      "house_number": "45"
+    },
+    {
+      "name": "Shounak Bhosle",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Bhosle",
+      "house_number": "47",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Sachi Bhosle",
+      "relative_type": "Husbands",
+      "relative_name": "Damocar Bhosle",
+      "house_number": "747",
+      "age": "41",
+      "gender": "Female"
+    },
+    {
+      "name": "Ramesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Govind Naik",
+      "house_number": "3 50/1"
+    },
+    {
+      "name": "Rupesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Naik",
+      "house_number": "50/1",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Ravnak Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Naik"
+    },
+    {
+      "name": "Rohit Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Naik",
+      "house_number": "50/1",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Bhiriarati Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Vassudev Naik",
+      "house_number": "517",
+      "age": "81",
+      "gender": "Female"
+    },
+    {
+      "name": "Leslavati Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Vinayak Naik",
+      "house_number": "2"
+    },
+    {
+      "name": "Geetan Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ganpat Naik",
+      "house_number": "52",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Anjali Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Tukararn Naik",
+      "house_number": "2"
+    },
+    {
+      "name": "Tanay Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ganpat Naik",
+      "house_number": "552",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "Prakash Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Krishna Naik",
+      "house_number": "53"
+    },
+    {
+      "name": "Shailesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Krishna Naik",
+      "house_number": "53 Phota",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Devyani Gackar",
+      "relative_type": "Husbands",
+      "relative_name": "Shantaram Gaokar",
+      "house_number": "57/3",
+      "age": "72",
+      "gender": "Female"
+    },
+    {
+      "name": "Nitin Gaokar",
+      "relative_type": "Fathers",
+      "relative_name": "Shantaram Gaokar",
+      "house_number": "57/3"
+    },
+    {
+      "name": "Rutik Nek",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Naik",
+      "house_number": "0/'1"
+    },
+    {
+      "name": "Jitendra Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Vassuday Naik",
+      "house_number": "517",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Ganpat Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Naik",
+      "house_number": "52",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Hemant Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Durgaram Naik",
+      "house_number": "52"
+    },
+    {
+      "name": "Harsha Nak",
+      "relative_type": "Husbands",
+      "relative_name": "Hernant Naik",
+      "house_number": "52"
+    },
+    {
+      "name": "Rahul Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Hemant Naik",
+      "house_number": "52"
+    },
+    {
+      "name": "Deepa Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Prakash Naik",
+      "house_number": "753",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Digarmbar Kolvalkar",
+      "relative_type": "Fathers",
+      "relative_name": "Mangesh Kolvalkar",
+      "house_number": "57",
+      "age": "62",
+      "gender": "Male"
+    },
+    {
+      "name": "Rajesh Gaokar",
+      "relative_type": "Fathers",
+      "relative_name": "Shantaram Gaokar",
+      "house_number": "57/'3",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Nitesh Gaokar",
+      "relative_type": "Fathers",
+      "relative_name": "Shantaram Gaokar",
+      "house_number": "57/3"
+    },
+    {
+      "name": "Adarsh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramesh Naik",
+      "house_number": "50/1"
+    },
+    {
+      "name": "t Varsia Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Mendra Naik",
+      "house_number": "51",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Ulhas Naik",
+      "house_number": "2",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Tukaram Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Vinom Naik",
+      "house_number": "52"
+    },
+    {
+      "name": "Tanvi Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ganpat Naik",
+      "house_number": "52"
+    },
+    {
+      "name": "Jayashwee Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Krishna Naik",
+      "house_number": "53",
+      "age": "72",
+      "gender": "Female"
+    },
+    {
+      "name": "Naresh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Krighna Nak",
+      "house_number": "7 53",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Deepal Kolvalkar",
+      "relative_type": "Husbands",
+      "relative_name": "Digambar Kolvalkar",
+      "house_number": "357",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Raksha Gaonkar",
+      "relative_type": "Husbands",
+      "relative_name": "Rajesh Gaonkar",
+      "house_number": "57/3"
+    },
+    {
+      "name": "Nishita Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Nitin Volvoikar",
+      "house_number": "57/3",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "7 Poonam Dhananjai Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Dhananjai Shet",
+      "house_number": "7/3",
+      "age": "39",
+      "gender": "Female"
+    },
+    {
+      "name": "Sangita Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Vesudev Naik",
+      "house_number": "53",
+      "age": "75",
+      "gender": "Female"
+    },
+    {
+      "name": "Mogabal Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Naik",
+      "house_number": "58/1",
+      "age": "74",
+      "gender": "Female"
+    },
+    {
+      "name": "Saraswati Gaokar",
+      "relative_type": "Husbands",
+      "relative_name": "Savio Gaokar",
+      "house_number": "5?",
+      "age": "78",
+      "gender": "Female"
+    },
+    {
+      "name": "Vijay Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Tari",
+      "house_number": "60"
+    },
+    {
+      "name": "Gttanjali Tandel",
+      "relative_type": "Husbands",
+      "relative_name": "Ghanasham Tandel",
+      "house_number": "61"
+    },
+    {
+      "name": "Kalindi Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Ramdas Velvoikar",
+      "house_number": "62"
+    },
+    {
+      "name": "Nirmals Chyart",
+      "relative_type": "Husbands",
+      "relative_name": "Kumresh Chyan",
+      "house_number": "62/7 Phota"
+    },
+    {
+      "name": "Uma Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Umakant Shet",
+      "house_number": "68"
+    },
+    {
+      "name": "Geeta Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Gokuidas Tari",
+      "house_number": "301"
+    },
+    {
+      "name": "Bhavana Para",
+      "relative_type": "Husbands",
+      "relative_name": "Datta Paral",
+      "house_number": "7/'A"
+    },
+    {
+      "name": "Nandadeep Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Vasudev Naik",
+      "house_number": "58"
+    },
+    {
+      "name": "Suraj Naik",
+      "house_number": "8/'1"
+    },
+    {
+      "name": "Pradip Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Tan",
+      "house_number": "60",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Hirabai Volvoikar",
+      "relative_type": "Husbands",
+      "relative_name": "Sadanand Volwoikar",
+      "house_number": "60/1"
+    },
+    {
+      "name": "Swapnil Gawas",
+      "relative_type": "Fathers",
+      "relative_name": "Kalidas Gawas",
+      "house_number": "67",
+      "age": "25",
+      "gender": "Male"
+    },
+    {
+      "name": "Jivita VoWvokar",
+      "relative_type": "Fathers",
+      "relative_name": "Rarndas Volvoikar",
+      "house_number": "62",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Maheshkumar Chyari",
+      "relative_type": "Fathers",
+      "relative_name": "Kumresh Chysri",
+      "house_number": "62/1"
+    },
+    {
+      "name": "Urvashi Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Shet",
+      "house_number": "68",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Gauresh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Gokuidas Tari",
+      "house_number": "307",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "t Datta Parab",
+      "relative_type": "Fathers",
+      "relative_name": "Kusta Parab",
+      "house_number": "57/A",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "t Sujata Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Nandadeep Naik",
+      "house_number": "58",
+      "age": "35",
+      "gender": "Female"
+    },
+    {
+      "name": "Suna Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Suraj Naik",
+      "house_number": "58/1"
+    },
+    {
+      "name": "Deepa Tai",
+      "relative_type": "Husbands",
+      "relative_name": "Pradip Tari",
+      "house_number": "60",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Sunanda Tandet",
+      "relative_type": "Husbands",
+      "relative_name": "Hanumant Tandel",
+      "age": "85",
+      "gender": "Female"
+    },
+    {
+      "name": "t Mayur Gawas:",
+      "relative_type": "Fathers",
+      "relative_name": "Kaldas Gawas",
+      "house_number": "61",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Pankaj Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Ramdas Volvoikar",
+      "house_number": "762",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Umakant Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Babu Shet",
+      "house_number": "68",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Ulpat Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Umakant Shet",
+      "house_number": "68",
+      "age": "27",
+      "gender": "Male"
+    },
+    {
+      "name": "Kishori Gaonkar",
+      "relative_type": "Husbands",
+      "relative_name": "Sarvesh Gaonkar",
+      "house_number": "302",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Sanket Gaonker",
+      "relative_type": "Fathers",
+      "relative_name": "Eknath Gaonkar",
+      "house_number": "302"
+    },
+    {
+      "name": "Paresh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Premanand Naik",
+      "house_number": "306",
+      "age": "40",
+      "gender": "Male"
+    },
+    {
+      "name": "Gauri Tan",
+      "house_number": "309"
+    },
+    {
+      "name": "Maheshwari Tart",
+      "relative_type": "Husbands",
+      "relative_name": "Mahadey Tari",
+      "house_number": "376",
+      "age": "63",
+      "gender": "Female"
+    },
+    {
+      "name": "Madan Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadev Tari",
+      "house_number": "376"
+    },
+    {
+      "name": "Deepak Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Shrikant Tan",
+      "house_number": "5376/1",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Pranita Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Premanand Tari",
+      "house_number": "377",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "RUCHITA TARI",
+      "relative_type": "Fathers",
+      "relative_name": "RAMAKANT TAR",
+      "house_number": "House no 306/1 Phota",
+      "age": "19",
+      "gender": "Female"
+    },
+    {
+      "name": "Deepali Gaonkar",
+      "relative_type": "Husbands",
+      "relative_name": "Sanket Gaonkar",
+      "house_number": "302"
+    },
+    {
+      "name": "Vinod Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ronidas Tari",
+      "house_number": "306/2",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Amisha Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Anil Naik",
+      "house_number": "373/'",
+      "age": "24",
+      "gender": "Female"
+    },
+    {
+      "name": "Laksha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Manoj Tari",
+      "house_number": "376",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Manoj Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadey Tari",
+      "house_number": "376",
+      "age": "37",
+      "gender": "Male"
+    },
+    {
+      "name": "Deepa Tar!",
+      "relative_type": "Husbands",
+      "relative_name": "Deepak Tari",
+      "house_number": "376/1",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Pradin Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Premanand Tari",
+      "house_number": "377"
+    },
+    {
+      "name": "t Pratima Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Premanand Naik",
+      "house_number": "306",
+      "age": "66",
+      "gender": "Female"
+    },
+    {
+      "name": "t Vanite Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Vinod Tari",
+      "house_number": "306/2",
+      "age": "47",
+      "gender": "Female"
+    },
+    {
+      "name": "Mahadev Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Kashinath Tari",
+      "house_number": "376",
+      "age": "69",
+      "gender": "Male"
+    },
+    {
+      "name": "t Mansi Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Madan Tan",
+      "house_number": "376",
+      "age": "40",
+      "gender": "Female"
+    },
+    {
+      "name": "Shashikala Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Strikant Tari",
+      "house_number": "3374/1",
+      "age": "77",
+      "gender": "Female"
+    },
+    {
+      "name": "Premanand Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Kamalakant Tari",
+      "house_number": "377",
+      "age": "60",
+      "gender": "Male"
+    },
+    {
+      "name": "Sairaj Kolwalker",
+      "relative_type": "Fathers",
+      "relative_name": "Digamber Kolwalker",
+      "house_number": "E = 57",
+      "age": "25",
+      "gender": "Male"
+    },
+    {
+      "id": "IEH0390967",
+      "name": "Narsinha Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Namdev Phadte",
+      "house_number": "18"
+    },
+    {
+      "name": "Ramakant Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Shankar Phadte",
+      "house_number": "132"
+    },
+    {
+      "name": "Mahadey Phadte",
+      "house_number": "132",
+      "age": "42",
+      "gender": "Male"
+    },
+    {
+      "name": "Pandurang Halankar",
+      "relative_type": "Fathers",
+      "relative_name": "Padmanabh Halankar",
+      "house_number": "135"
+    },
+    {
+      "name": "Akshaya Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Ashok Phacte",
+      "house_number": "137",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "Shubham Volvoikar",
+      "relative_type": "Fathers",
+      "relative_name": "Sadastiy Tari",
+      "house_number": "139",
+      "age": "27",
+      "gender": "Male"
+    },
+    {
+      "name": "Nilesh Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Tari",
+      "house_number": "140"
+    },
+    {
+      "name": "Jagjivan Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Krishnanath Tari",
+      "house_number": "141",
+      "age": "68",
+      "gender": "Male"
+    },
+    {
+      "name": "Gurudas Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Rohidas Tari",
+      "house_number": "145",
+      "age": "61",
+      "gender": "Male"
+    },
+    {
+      "name": "Sugandha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Sadanand Tari",
+      "house_number": "145"
+    },
+    {
+      "name": "Sangita Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Namdey Phacte",
+      "house_number": "18"
+    },
+    {
+      "name": "Nitin Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Shankar Phadte",
+      "house_number": "132"
+    },
+    {
+      "name": "Padmanabh Halamkar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Halarnkar",
+      "house_number": "135",
+      "age": "69",
+      "gender": "Male"
+    },
+    {
+      "name": "Pushparaj Halarnakar",
+      "relative_type": "Fathers",
+      "relative_name": "Padmanath Helarnaker",
+      "house_number": "135"
+    },
+    {
+      "name": "Apeksha Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Ashok Phadte",
+      "house_number": "137",
+      "age": "29",
+      "gender": "Female"
+    },
+    {
+      "name": "Ratnakar Tart",
+      "relative_type": "Fathers",
+      "relative_name": "Chancrakant Tar",
+      "house_number": "140",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Rajashri Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Ratnaker Tari",
+      "house_number": "140",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Janaki Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Jagivan Tan",
+      "house_number": "147"
+    },
+    {
+      "name": "Sadanand Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Ronicas Tari",
+      "house_number": "145",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Dattedas Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Gurudas Tari",
+      "house_number": "145",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Manikabal Phacte",
+      "relative_type": "Husbands",
+      "relative_name": "Shankar Phadte",
+      "house_number": "132",
+      "age": "88",
+      "gender": "Female",
+      "id": "HNL1990297"
+    },
+    {
+      "name": "t Sadhana Phacte",
+      "relative_type": "Fathers",
+      "relative_name": "Shanker Phadte",
+      "house_number": "132",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Radha Halarnkar",
+      "relative_type": "Husbands",
+      "relative_name": "Pagenanabh Malarnkiar",
+      "house_number": "135"
+    },
+    {
+      "name": "Ashok Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Shanker Phadte",
+      "house_number": "137",
+      "age": "68",
+      "gender": "Male"
+    },
+    {
+      "name": "Saiisha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Sacashiv Tari",
+      "house_number": "139"
+    },
+    {
+      "name": "Gurudas Tart",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Tar",
+      "house_number": "140"
+    },
+    {
+      "name": "Nandakurnar Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Chandrakant Tari",
+      "house_number": "140",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "Kanaks Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Jagivan Tan",
+      "house_number": "147"
+    },
+    {
+      "name": "Gayatri Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Gurudas Tar|",
+      "house_number": "145",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Darehan Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Gurudas Tan",
+      "house_number": "145",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Priyanka Nagvekar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Nagvekar",
+      "house_number": "147"
+    },
+    {
+      "name": "Satvik Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Teri",
+      "house_number": "H No 145"
+    },
+    {
+      "name": "Sonia Nagvekar",
+      "house_number": "147",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "t Nagendra Nagvenkar",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Nagvenkar",
+      "house_number": "147",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Laxim| Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Manohar Sawant",
+      "house_number": "01",
+      "age": "84",
+      "gender": "Female"
+    },
+    {
+      "name": "Abhay Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Sawant",
+      "house_number": "01",
+      "age": "51",
+      "gender": "Male",
+      "id": "REX0338265"
+    },
+    {
+      "name": "Sahil Sawant",
+      "house_number": "01",
+      "id": "HNL1391762"
+    },
+    {
+      "name": "Sudesh Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Sawant",
+      "house_number": "02"
+    },
+    {
+      "name": "Sunil Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Sawant",
+      "house_number": "02"
+    },
+    {
+      "name": "Kalyan Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Vishnu Shet",
+      "house_number": "04/1"
+    },
+    {
+      "name": "Vishal Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Vishnu Shet",
+      "house_number": "04/1"
+    },
+    {
+      "name": "Umabai Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Gaurinath Shet",
+      "house_number": "04/2 Phota"
+    },
+    {
+      "name": "Sakshee Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Khushali Shet",
+      "house_number": "05."
+    },
+    {
+      "name": "Prashant Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Vishwanath Tan",
+      "house_number": "06"
+    },
+    {
+      "name": "Ajay Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Savant",
+      "house_number": "01",
+      "id": "INL1393099"
+    },
+    {
+      "name": "Anjai Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Ajay Sawant",
+      "house_number": "07",
+      "age": "48",
+      "gender": "Female"
+    },
+    {
+      "name": "Sunita Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Sadanand Savant",
+      "house_number": "02"
+    },
+    {
+      "name": "Sharmila Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Sudesh Sawant",
+      "house_number": "2"
+    },
+    {
+      "name": "Shamita Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Suni Sawant",
+      "house_number": "02"
+    },
+    {
+      "name": "Krishna Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Vishnu Shet",
+      "house_number": "04/1",
+      "age": "55",
+      "gender": "Male"
+    },
+    {
+      "name": "Seema Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Krishna Shet",
+      "house_number": "04/1"
+    },
+    {
+      "name": "Ghanasham Nuno Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Nuno Shet",
+      "house_number": "05",
+      "age": "82",
+      "gender": "Male"
+    },
+    {
+      "name": "Darnodar Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Bicaro Snat",
+      "house_number": "06"
+    },
+    {
+      "name": "Subhada Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Damodar Shet",
+      "house_number": "06"
+    },
+    {
+      "name": "t Vijay Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Manohar Sawant",
+      "house_number": "01"
+    },
+    {
+      "name": "t Vjita Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Vijay Sawant",
+      "house_number": "7",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Sushant Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Sawant",
+      "house_number": "02",
+      "age": "49",
+      "gender": "Male"
+    },
+    {
+      "name": "Sheetal Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Sushant Sawant",
+      "house_number": "02",
+      "age": "45",
+      "gender": "Female"
+    },
+    {
+      "name": "Sulochana Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Sawant",
+      "house_number": "02"
+    },
+    {
+      "name": "Vinayak Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Vishnu Shet",
+      "house_number": "04/1",
+      "age": "51",
+      "gender": "Male"
+    },
+    {
+      "name": "Leena Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Vinayak Shet",
+      "house_number": "04/1",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Khushal Ghanasham Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Ghanasham Shet",
+      "house_number": "305",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Devika Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Damodar Shet",
+      "house_number": "06",
+      "age": "60",
+      "gender": "Female"
+    },
+    {
+      "name": "Mayuresh Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Darmnodar Shet",
+      "house_number": "06",
+      "age": "29",
+      "gender": "Male"
+    },
+    {
+      "name": "7 Apurva Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Damodar Shet",
+      "house_number": "0%"
+    },
+    {
+      "name": "Hema Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Rajan Shet",
+      "house_number": "7",
+      "age": "44",
+      "gender": "Female"
+    },
+    {
+      "name": "Janardan Shet",
+      "house_number": "09/2"
+    },
+    {
+      "name": "Santosh Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Ramicishna Shet",
+      "house_number": "09/3"
+    },
+    {
+      "name": "Pramod Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Shet",
+      "house_number": "09/4"
+    },
+    {
+      "name": "Madhavi Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Mahadev Shet",
+      "house_number": "9-A",
+      "age": "76",
+      "gender": "Female"
+    },
+    {
+      "name": "Siddhesh Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadev Shet",
+      "house_number": "9-A"
+    },
+    {
+      "name": "Sujit Snet",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Shet",
+      "house_number": "11",
+      "age": "52",
+      "gender": "Male"
+    },
+    {
+      "name": "Tanvi Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Sujit Shet",
+      "house_number": "11",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Satish Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Shet",
+      "house_number": "11/2"
+    },
+    {
+      "name": "Manorama Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Madhusudan Shot",
+      "house_number": "07"
+    },
+    {
+      "name": "Vibhav Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Madhusudhan Shet",
+      "house_number": "07"
+    },
+    {
+      "name": "Sunita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaram Shet",
+      "house_number": "09/2"
+    },
+    {
+      "name": "Smita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Santosh Shet",
+      "house_number": "09/3",
+      "age": "54",
+      "gender": "Female"
+    },
+    {
+      "name": "Pranita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Prarnod Shet",
+      "house_number": "09/4"
+    },
+    {
+      "name": "Kalpesh Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Mahacay Shet",
+      "house_number": "9-4"
+    },
+    {
+      "name": "Mahendra Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Ramikrishna Shet",
+      "house_number": "9/C",
+      "age": "58",
+      "gender": "Male"
+    },
+    {
+      "name": "Usha Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Sujet Shat",
+      "house_number": "11"
+    },
+    {
+      "name": "Umesh Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Shet",
+      "house_number": "11/1",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanmita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Satish Shet",
+      "house_number": "1/2"
+    },
+    {
+      "name": "t Rajan Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Madhusudan Shet",
+      "house_number": "7",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "t Dattaram Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Mukund Shet",
+      "house_number": "09/2",
+      "age": "65",
+      "gender": "Male"
+    },
+    {
+      "name": "Usha Xete",
+      "relative_type": "Husbands",
+      "relative_name": "Janardana Xeto",
+      "house_number": "09/2",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Mitali Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Mahendra Shet",
+      "house_number": "09/3",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Madeva Xette",
+      "relative_type": "Fathers",
+      "relative_name": "Tucarama Xette",
+      "house_number": "79-4,",
+      "age": "80",
+      "gender": "Male"
+    },
+    {
+      "name": "t Sandesh Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadev Shet",
+      "house_number": "9-4",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Sohan Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Santosh Shet",
+      "age": "22",
+      "gender": "Male"
+    },
+    {
+      "name": "Futvi Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Sujit Shet",
+      "house_number": "13"
+    },
+    {
+      "name": "Kavita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Kalidas Shet",
+      "house_number": "11/1"
+    },
+    {
+      "name": "t Sanmesh Snet",
+      "relative_type": "Fathers",
+      "relative_name": "Satish Shet",
+      "house_number": "11/2",
+      "age": "27",
+      "gender": "Male"
+    },
+    {
+      "name": "Gayitri Upadhye",
+      "relative_type": "Husbands",
+      "relative_name": "Ganapath Upadhye",
+      "house_number": "11/A",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Subhas Naique",
+      "relative_type": "Fathers",
+      "relative_name": "Uttam Naique",
+      "house_number": "12"
+    },
+    {
+      "name": "Deepa Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Dasharath Nak",
+      "house_number": "16",
+      "age": "71",
+      "gender": "Female"
+    },
+    {
+      "name": "Vaijanti Surlakar",
+      "relative_type": "Husbands",
+      "relative_name": "Tevikram Surlakar",
+      "house_number": "17/1",
+      "age": "74",
+      "gender": "Female"
+    },
+    {
+      "name": "Isperenca Femandes",
+      "relative_type": "Fathers",
+      "relative_name": "Francis Fernandes",
+      "house_number": "18",
+      "age": "70",
+      "gender": "Female"
+    },
+    {
+      "name": "Darvin Fernandes",
+      "relative_type": "Fathers",
+      "relative_name": "Aleixo Fernandes:",
+      "house_number": "18",
+      "age": "34",
+      "gender": "Male"
+    },
+    {
+      "name": "Prasad Shetkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shantaram Shetkar",
+      "house_number": "33"
+    },
+    {
+      "name": "Vishwanath Surlakar",
+      "relative_type": "Fathers",
+      "relative_name": "Vasant Surlakar",
+      "house_number": "34 Phota",
+      "age": "61",
+      "gender": "Male"
+    },
+    {
+      "name": "Prana Surlakar",
+      "relative_type": "Fathers",
+      "relative_name": "Vighwanath Surlakar",
+      "house_number": "34",
+      "age": "26",
+      "gender": "Female"
+    },
+    {
+      "name": "Sudnirkumer Surlakar",
+      "relative_type": "Fathers",
+      "relative_name": "Vinayak Suriakar",
+      "house_number": "256"
+    },
+    {
+      "name": "Siddivinayak Upadhye",
+      "relative_type": "Fathers",
+      "relative_name": "Ganapatrao Upadhye",
+      "house_number": "11/A",
+      "age": "28",
+      "gender": "Male"
+    },
+    {
+      "name": "Rotidas Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Uttam Naik",
+      "house_number": "12"
+    },
+    {
+      "name": "Chancrakant Suriakar",
+      "relative_type": "Fathers",
+      "relative_name": "Krishna Sutakar",
+      "house_number": "17",
+      "age": "72",
+      "gender": "Male"
+    },
+    {
+      "name": "Prasad Surtakar",
+      "relative_type": "Fathers",
+      "relative_name": "Trvikram Sudakar",
+      "house_number": "17/7"
+    },
+    {
+      "name": "Flomena Femandes",
+      "relative_type": "Husbands",
+      "relative_name": "Aleixo Fernandes",
+      "house_number": "18"
+    },
+    {
+      "name": "Francisco Frazel Fernandes",
+      "relative_type": "Fathers",
+      "relative_name": "Aleixo Fernandes",
+      "house_number": "18"
+    },
+    {
+      "name": "Shubhalaxn| Shetkar",
+      "relative_type": "Husbands",
+      "relative_name": "Prasad Snetkar",
+      "house_number": "33",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Sunil Surlakar",
+      "relative_type": "Fathers",
+      "relative_name": "Vasant Surlaker",
+      "house_number": "34"
+    },
+    {
+      "name": "Jeevan Surlakar",
+      "relative_type": "Husbands",
+      "relative_name": "Suni Suriakar",
+      "house_number": "34/8",
+      "age": "52",
+      "gender": "Female"
+    },
+    {
+      "name": "indrakant Surtakar",
+      "relative_type": "Fathers",
+      "relative_name": "Ravindra Suriakar",
+      "house_number": "256",
+      "age": "45",
+      "gender": "Male"
+    },
+    {
+      "name": "t Rajaram Upadhye",
+      "relative_type": "Fathers",
+      "relative_name": "Ganapati Upadhye",
+      "house_number": "2 11/A"
+    },
+    {
+      "name": "Maya Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Rohides Naik",
+      "house_number": "12",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Asha Suriakar",
+      "relative_type": "Husbands",
+      "relative_name": "Chandrakant Surlakar",
+      "house_number": "17"
+    },
+    {
+      "name": "Pravin Surlakar",
+      "relative_type": "Fathers",
+      "relative_name": "Trivikram Surlakar",
+      "house_number": "17/1",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Therina Fernandes",
+      "relative_type": "Fathers",
+      "relative_name": "Alex Femnandes",
+      "house_number": "16"
+    },
+    {
+      "name": "Parvati Shetkar",
+      "relative_type": "Husbands",
+      "relative_name": "Shambha Shetkar",
+      "house_number": "33"
+    },
+    {
+      "name": "Siddhi Shetkar",
+      "relative_type": "Fathers",
+      "relative_name": "Shamnba Shetkar",
+      "house_number": "7 33",
+      "age": "29",
+      "gender": "Female"
+    },
+    {
+      "name": "Babita Suriakar",
+      "relative_type": "Husbands",
+      "relative_name": "Vishwanath Surlakar",
+      "house_number": "334"
+    },
+    {
+      "name": "Revati Surlaker",
+      "relative_type": "Husbands",
+      "relative_name": "Ravindra Surlakar",
+      "house_number": "256",
+      "age": "67",
+      "gender": "Female"
+    },
+    {
+      "name": "Sagar Surlakar",
+      "relative_type": "Fathers",
+      "relative_name": "Arvind Surlakar",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Anantprasad Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Shrikant Sawant",
+      "house_number": "200"
+    },
+    {
+      "name": "PRANITA Surlakar",
+      "relative_type": "Fathers",
+      "relative_name": "SUNIL SURLAKAR",
+      "house_number": "H No, 34",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Prashanti Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Shrikant Sawant",
+      "house_number": "300",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "SIYA SANTOSH SHET",
+      "relative_type": "Fathers",
+      "relative_name": "SANTOSH SHET",
+      "house_number": "H No.9/C",
+      "age": "20",
+      "gender": "Female"
+    },
+    {
+      "name": "Sakshi Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Sah? Sawant",
+      "house_number": "01",
+      "age": "42",
+      "gender": "Female"
+    },
+    {
+      "name": "Vrushab Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaramn Shet",
+      "house_number": "98"
+    },
+    {
+      "name": "Madhavrao Shet",
+      "house_number": "20"
+    },
+    {
+      "name": "Kanchan Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Kashinath Shet",
+      "house_number": "217",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Pandhari Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Naik",
+      "house_number": "22"
+    },
+    {
+      "name": "Rashmi Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Rajendra Naik",
+      "house_number": "22",
+      "id": "HNL6949200"
+    },
+    {
+      "name": "Shubahda Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Shamba Sawant",
+      "house_number": "23"
+    },
+    {
+      "name": "Vijay Snet",
+      "relative_type": "Fathers",
+      "relative_name": "Vasudev Shet",
+      "house_number": "26 Phota",
+      "age": "64",
+      "gender": "Female"
+    },
+    {
+      "name": "Sunita Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Shrikant Shet",
+      "house_number": "26.",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Narayan Shet Vernekar",
+      "relative_type": "Fathers",
+      "relative_name": "Vasudev Shet Vemekar",
+      "house_number": "26/1"
+    },
+    {
+      "name": "Sandal Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Kristina Shet",
+      "house_number": "4/8"
+    },
+    {
+      "name": "Manasi Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Shet",
+      "house_number": "98",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Resham Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Madhavrao Shet",
+      "house_number": "20"
+    },
+    {
+      "name": "Sayyam Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Kashinath Shet",
+      "house_number": "21",
+      "age": "26",
+      "gender": "Male"
+    },
+    {
+      "name": "Anita Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Pandhari Naik",
+      "house_number": "22"
+    },
+    {
+      "name": "Saloni Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Pandhan Naik",
+      "house_number": "22",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "MANGALAGOURI UPADHYE",
+      "relative_type": "Husbands",
+      "relative_name": "SANDESH SHET",
+      "house_number": "23/1"
+    },
+    {
+      "name": "Shrikant Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Vasudey Shet",
+      "house_number": "26",
+      "age": "59",
+      "gender": "Male"
+    },
+    {
+      "name": "Milan Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Balkrishna Shet",
+      "house_number": "26",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Shanti Shet Vemekar",
+      "relative_type": "Husbands",
+      "relative_name": "Narayan Shet Vernekar",
+      "house_number": "26/1"
+    },
+    {
+      "name": "t Shreya Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Subhash Shet",
+      "house_number": "29-4"
+    },
+    {
+      "name": "Pooja Surlakar",
+      "relative_type": "Husbands",
+      "relative_name": "Prasad Suriakar",
+      "house_number": "3 17/4,",
+      "age": "43",
+      "gender": "Female"
+    },
+    {
+      "name": "Sara Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Madhavran Shet",
+      "house_number": "20",
+      "id": "FEX0386983"
+    },
+    {
+      "name": "Mahalaxmi Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Gajanan Naik",
+      "house_number": "22",
+      "age": "79",
+      "gender": "Female"
+    },
+    {
+      "name": "Rajendra Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Gajanan Nak",
+      "house_number": "222",
+      "age": "54",
+      "gender": "Male"
+    },
+    {
+      "name": "Shambha Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Pandurang Sawant",
+      "house_number": "23",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Vijayabai Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Shiva Sawant",
+      "house_number": "24",
+      "age": "83",
+      "gender": "Female"
+    },
+    {
+      "name": "Balkrishna Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Vasudew Shet",
+      "house_number": "26",
+      "age": "87",
+      "gender": "Male"
+    },
+    {
+      "name": "Naresh Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Shrikant Shet",
+      "house_number": "26",
+      "age": "20",
+      "gender": "Male"
+    },
+    {
+      "name": "Viehwars; Shet Vamekar",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Shet Vernekar",
+      "house_number": "26/1",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "7 Despanand Shet Vernekar",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Shet Vernekar",
+      "house_number": "24/1",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Priti Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Prakash Shet",
+      "house_number": "26/2",
+      "age": "25",
+      "gender": "Female"
+    },
+    {
+      "name": "Vinayak Sawant",
+      "house_number": "27"
+    },
+    {
+      "name": "Sanjay Bhandiye",
+      "relative_type": "Fathers",
+      "relative_name": "Shridhar Bhandiye",
+      "house_number": "28",
+      "age": "64",
+      "gender": "Male"
+    },
+    {
+      "name": "Urmila Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Umesh Naik",
+      "house_number": "29",
+      "age": "51",
+      "gender": "Female"
+    },
+    {
+      "name": "Diksha Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Umesh Naik",
+      "house_number": "29"
+    },
+    {
+      "name": "Swati Anvekar",
+      "relative_type": "Husbands",
+      "relative_name": "Shashikant Anvekar",
+      "house_number": "30",
+      "age": "66",
+      "gender": "Female"
+    },
+    {
+      "name": "Vinaya Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Jeevan Alias Yeshwant",
+      "house_number": "31"
+    },
+    {
+      "name": "Digambar Shetkar",
+      "relative_type": "Fathers",
+      "relative_name": "Prasad Shetkar",
+      "house_number": "33",
+      "id": "FEX0386060"
+    },
+    {
+      "name": "Sushanti Phadte",
+      "relative_type": "Husbands",
+      "relative_name": "Ankush Phadte",
+      "house_number": "35",
+      "age": "69",
+      "gender": "Female"
+    },
+    {
+      "name": "Prachala Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Prakash Shet",
+      "house_number": "26/2",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Pink! Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Prakash Shet",
+      "house_number": "264",
+      "age": "23",
+      "gender": "Female"
+    },
+    {
+      "name": "Swati Sawant",
+      "house_number": "27",
+      "age": "49",
+      "gender": "Female"
+    },
+    {
+      "name": "Anand Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramchandra Nak",
+      "house_number": "29"
+    },
+    {
+      "name": "Sidhesh @ Ramchandra Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Bablo Naik",
+      "house_number": "29"
+    },
+    {
+      "name": "Dipti Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Umesh Naik",
+      "house_number": "29"
+    },
+    {
+      "name": "Schan Anvekar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashikant Anvekar",
+      "house_number": "30",
+      "age": "38",
+      "gender": "Male"
+    },
+    {
+      "name": "Dilip Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Shet",
+      "house_number": "311",
+      "age": "59",
+      "gender": "Male"
+    },
+    {
+      "name": "Mahima Shetkar",
+      "relative_type": "Fathers",
+      "relative_name": "Prasad Shetkar",
+      "house_number": "33/4",
+      "age": "22",
+      "gender": "Female"
+    },
+    {
+      "name": "Ashish Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Ankush Phadte",
+      "house_number": "35",
+      "age": "37",
+      "gender": "Male"
+    },
+    {
+      "name": "t Prachi Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Prakash Shot",
+      "house_number": "26/2"
+    },
+    {
+      "name": "Sumitra Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Vassudev Sawant",
+      "house_number": "27",
+      "age": "53",
+      "gender": "Female"
+    },
+    {
+      "name": "Mukesh Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Vasudev Sawant",
+      "house_number": "27",
+      "age": "44",
+      "gender": "Male"
+    },
+    {
+      "name": "Umesh Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ramchandra Naik",
+      "house_number": "29",
+      "age": "57",
+      "gender": "Male",
+      "id": "REX0346049"
+    },
+    {
+      "name": "Usha Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Urnesh Naik",
+      "house_number": "2 29",
+      "age": "0",
+      "gender": "Female"
+    },
+    {
+      "name": "Shashkant Anvekar",
+      "relative_type": "Fathers",
+      "relative_name": "Dattu Anvekar",
+      "house_number": "30",
+      "age": "72",
+      "gender": "Male"
+    },
+    {
+      "name": "Jeevan Phacte",
+      "relative_type": "Fathers",
+      "relative_name": "Shashkant Phadte",
+      "house_number": "31",
+      "age": "41",
+      "gender": "Male"
+    },
+    {
+      "name": "Jyotsna Snet",
+      "relative_type": "Fathers",
+      "relative_name": "Narayan Shet",
+      "house_number": "31/1"
+    },
+    {
+      "name": "Prankita Suriakar",
+      "relative_type": "Fathers",
+      "relative_name": "Suni Surlakar",
+      "house_number": "34/B"
+    },
+    {
+      "name": "Oattaram Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Naik",
+      "house_number": "736",
+      "age": "57",
+      "gender": "Male"
+    },
+    {
+      "id": "IEH0386029",
+      "name": "Balika Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Naik",
+      "house_number": "36",
+      "age": "56",
+      "gender": "Female"
+    },
+    {
+      "name": "Tukaran Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadev Naik",
+      "house_number": "36"
+    },
+    {
+      "name": "Shiva Naik",
+      "house_number": "36"
+    },
+    {
+      "name": "Ratish Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ravikant Naik",
+      "house_number": "36/2"
+    },
+    {
+      "name": "Sunanda Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Gurudas Sawant",
+      "house_number": "37/1",
+      "age": "78",
+      "gender": "Female"
+    },
+    {
+      "name": "Vishwas Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Gurudas Sawant",
+      "house_number": "37/1",
+      "age": "89",
+      "gender": "Male"
+    },
+    {
+      "name": "Shrimati Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Shridnar Sawant",
+      "house_number": "37/2",
+      "age": "80",
+      "gender": "Female"
+    },
+    {
+      "name": "Sanjana Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Sanjay Sawant",
+      "house_number": "37/2",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Manoj Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Kashinath Sawant",
+      "house_number": "37/4"
+    },
+    {
+      "name": "Ramakant Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Sukdo Sawant Sawant",
+      "house_number": "37/B, Ramakanchan"
+    },
+    {
+      "name": "Deepali Nak",
+      "relative_type": "Husbands",
+      "relative_name": "Dattaram Naik",
+      "house_number": "36"
+    },
+    {
+      "name": "Sahil Nek",
+      "relative_type": "Fathers",
+      "relative_name": "Dattaram Naik",
+      "house_number": "36",
+      "age": "24",
+      "gender": "Male"
+    },
+    {
+      "name": "Santosh Naik",
+      "house_number": "36/1"
+    },
+    {
+      "name": "Viraj Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Ravikant Naik",
+      "house_number": "36/2"
+    },
+    {
+      "name": "Vishnudas Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Datta Sawant",
+      "house_number": "37/1",
+      "age": "70",
+      "gender": "Male"
+    },
+    {
+      "name": "Vishwajeet Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Gurudas Sawant",
+      "house_number": "37/1",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Sanjay Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Shridhar Sawant",
+      "house_number": "37/2",
+      "age": "56",
+      "gender": "Male"
+    },
+    {
+      "name": "Kashinath Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Sukdo Sawant",
+      "house_number": "37/4",
+      "age": "79",
+      "gender": "Male"
+    },
+    {
+      "name": "Gautarmi Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Manoj Sawant",
+      "house_number": "37/4"
+    },
+    {
+      "name": "Kanchani Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Ramakant Sawant",
+      "house_number": "37/B, Ramakanchan"
+    },
+    {
+      "name": "t Mayurl Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadey Naik",
+      "house_number": "36",
+      "age": "36",
+      "gender": "Female"
+    },
+    {
+      "name": "t Mital Naik",
+      "relative_type": "Fathers",
+      "relative_name": "Mahadev Naik",
+      "house_number": "36",
+      "age": "24",
+      "gender": "Female",
+      "id": "IEK0386008"
+    },
+    {
+      "name": "Rekha Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ravikant Nak",
+      "house_number": "34/2",
+      "age": "77",
+      "gender": "Female"
+    },
+    {
+      "name": "Seema Naik",
+      "relative_type": "Husbands",
+      "relative_name": "Ratish Nek",
+      "house_number": "36-B",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Rekha Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Vishnudas Sawant",
+      "house_number": "7 37/1",
+      "age": "59",
+      "gender": "Female",
+      "id": "HNL1391895"
+    },
+    {
+      "name": "t Vinee Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Vishwes Sawant",
+      "house_number": "37/1",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Subodh Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Shridhar Sawant",
+      "house_number": "37/2",
+      "age": "50",
+      "gender": "Male"
+    },
+    {
+      "name": "Ratnamela Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Kashinath Sawant",
+      "house_number": "37/4",
+      "age": "73",
+      "gender": "Female"
+    },
+    {
+      "name": "Sumeet Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Ramakant Sawant",
+      "house_number": "37/B",
+      "age": "32",
+      "gender": "Male"
+    },
+    {
+      "name": "Pranay Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Pradesp Tari",
+      "age": "21",
+      "gender": "Male"
+    },
+    {
+      "name": "Suchita Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Susupal Sawant",
+      "house_number": "375",
+      "age": "46",
+      "gender": "Female"
+    },
+    {
+      "name": "Utkarsha Stet",
+      "relative_type": "Fathers",
+      "relative_name": "Uihas Shat",
+      "house_number": "E21",
+      "id": "REX0296299"
+    },
+    {
+      "name": "Shakeel Anvekar",
+      "relative_type": "Fathers",
+      "relative_name": "Shashikant Anvekar",
+      "house_number": "E-30",
+      "age": "35",
+      "gender": "Male"
+    },
+    {
+      "name": "Ujwala Shet",
+      "relative_type": "Husbands",
+      "relative_name": "Ulhas Shot",
+      "house_number": "E27",
+      "age": "55",
+      "gender": "Female"
+    },
+    {
+      "name": "Uihas Gosavi",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Gosavi",
+      "house_number": "03/1"
+    },
+    {
+      "name": "Sanjay Gosavi",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Gosav",
+      "house_number": "03/1",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Pratiksha Gosavi",
+      "relative_type": "Husbands",
+      "relative_name": "Pramod Gosaw",
+      "house_number": "03/2"
+    },
+    {
+      "name": "Premabai Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Anant Tari",
+      "house_number": "307",
+      "age": "76",
+      "gender": "Female"
+    },
+    {
+      "name": "Pratiksha Tari",
+      "relative_type": "Husbands",
+      "relative_name": "Pradip Tari",
+      "house_number": "307",
+      "age": "50",
+      "gender": "Female"
+    },
+    {
+      "name": "Sanjana Gosavi",
+      "relative_type": "Husbands",
+      "relative_name": "Satish Gosavi",
+      "house_number": "308"
+    },
+    {
+      "name": "Sandeep Gosavi",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Gosavi",
+      "house_number": "308",
+      "id": "HNL1391614"
+    },
+    {
+      "name": "Snaradkumar Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Pisso Sawant",
+      "house_number": "375 Phota",
+      "age": "84",
+      "gender": "Male"
+    },
+    {
+      "name": "Shefali Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Sharadkumar Sawant",
+      "house_number": "376"
+    },
+    {
+      "name": "Utkarsha Gosat",
+      "relative_type": "Husbands",
+      "relative_name": "Ulhas Gosavi",
+      "house_number": "03/1"
+    },
+    {
+      "name": "Savita Gosai",
+      "relative_type": "Husbands",
+      "relative_name": "Sanjiv Gosai",
+      "house_number": "3/1",
+      "age": "30",
+      "gender": "Female"
+    },
+    {
+      "name": "Sager Gosaw",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Gosaw",
+      "house_number": "03/2",
+      "age": "43",
+      "gender": "Male"
+    },
+    {
+      "name": "Ramesh Tari",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Tari",
+      "house_number": "307"
+    },
+    {
+      "name": "Ramnath Gosi Le)",
+      "relative_type": "Fathers",
+      "relative_name": "Di \u2018"
+    },
+    {
+      "name": "Somnath Gosavi",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Gosavi",
+      "house_number": "308"
+    },
+    {
+      "name": "Seeya Gosav",
+      "relative_type": "Fathers",
+      "relative_name": "Satish Gosavi",
+      "house_number": "308"
+    },
+    {
+      "name": "Susupal Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Pisso Sawant",
+      "house_number": "375"
+    },
+    {
+      "name": "Prajwal Tan",
+      "relative_type": "Fathers",
+      "relative_name": "Pradeep Tari",
+      "house_number": "H No 307"
+    },
+    {
+      "name": "t Mahesh Gosavi",
+      "relative_type": "Fathers",
+      "relative_name": "Surya Gosavi",
+      "house_number": "03/1",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "t Nandini Gosavi",
+      "relative_type": "Husbands",
+      "relative_name": "Sadanand Gosevi",
+      "house_number": "03/2",
+      "age": "69",
+      "gender": "Female"
+    },
+    {
+      "name": "Sushma Gosawi",
+      "relative_type": "Fathers",
+      "relative_name": "Sadanand Gosavi",
+      "house_number": "03/2"
+    },
+    {
+      "name": "Pradip Tai",
+      "relative_type": "Fathers",
+      "relative_name": "Anant Tari",
+      "house_number": "307",
+      "age": "53",
+      "gender": "Male"
+    },
+    {
+      "name": "Satish Gosaw",
+      "relative_type": "Fathers",
+      "relative_name": "Ramnath Gosav",
+      "house_number": "308",
+      "age": "48",
+      "gender": "Male"
+    },
+    {
+      "name": "Babani Goeavi",
+      "relative_type": "Fathers",
+      "relative_name": "Tukaram Gosavi",
+      "house_number": "308",
+      "age": "39",
+      "gender": "Male"
+    },
+    {
+      "name": "Mahananda Sawant",
+      "relative_type": "Husbands",
+      "relative_name": "Pisso Sawant",
+      "house_number": "375"
+    },
+    {
+      "name": "Japal Sawant",
+      "relative_type": "Fathers",
+      "relative_name": "Pisso Sawant",
+      "house_number": "375",
+      "age": "49",
+      "gender": "Male"
+    },
+    {
+      "name": "Akshada Phadte",
+      "relative_type": "Fathers",
+      "relative_name": "Arun Phadte",
+      "house_number": "44/1",
+      "age": "37",
+      "gender": "Female"
+    },
+    {
+      "name": "Sneha Verenkar",
+      "relative_type": "Fathers",
+      "relative_name": "Suryakant Verenkar",
+      "house_number": "89",
+      "age": "38",
+      "gender": "Female"
+    },
+    {
+      "name": "t Shivarn Shet",
+      "relative_type": "Fathers",
+      "relative_name": "Mahendra Shet",
+      "house_number": "9/C",
+      "age": "18",
+      "gender": "Male"
+    }
+  ],
+  "voter_count": 781
+}
